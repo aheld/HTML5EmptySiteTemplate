@@ -1,0 +1,1254 @@
+
+
+<!DOCTYPE html>
+<html lang="en">
+<head id="Head1"><meta name="viewport" content="width=device-width, initial-scale=1.0" /><meta http-equiv="X-UA-Compatible" content="IE=edge" /><meta name="DESCRIPTION" content="View the selected document's details" /><!-- Google Tag Manager --><script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start': new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src='//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);})(window,document,'script','dataLayer','GTM-KFFVR2');</script><!-- End Google Tag Manager --><!-- Google Tag Manager --><script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start': new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src='//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);})(window,document,'script','dataLayer','GTM-TLKCXW');</script><!-- End Google Tag Manager --><meta name='audience' content='ALL' /><meta name='rating' content='General' /><meta name='distribution' content='Global, Worldwide' /><meta name='copyright' content='Higher Logic, LLC' /><meta name='content-language' content='EN' /><link rel='SHORTCUT ICON' href='https://higherlogicdownload.s3.amazonaws.com/PAD/4b73e9e9-0092-456c-a827-668cf95b5c00/UploadedImages/favicon-32x32.png' type='image/png' /><script type='text/javascript' src='https://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js'></script><script src='https://d2x5ku95bkycr3.cloudfront.net/HigherLogic/JavaScript/Desktop/3rdParty/tinymce-4.6.4-fsupdate/tinymce.min.js'></script>
+									<script src='https://d2x5ku95bkycr3.cloudfront.net/HigherLogic/JavaScript/jquery-migrate-1.2.1.min.js'></script><script type='text/javascript' src='https://ajax.googleapis.com/ajax/libs/jqueryui/1.10.1/jquery-ui.min.js'></script><script src='https://d2x5ku95bkycr3.cloudfront.net/jquery/bootstrap-3.0.1/js/bootstrap.min.js'></script><script type='text/javascript' src='/HigherLogic/CORS/easyXDM/easyXDM.Min.js'></script><script crossorigin src='https://d2x5ku95bkycr3.cloudfront.net/react/react.production.16.5.1.min.js'></script><script crossorigin src='https://d2x5ku95bkycr3.cloudfront.net/react/react-dom.production.16.5.1.min.js'></script><script type='text/javascript' src='https://d2x5ku95bkycr3.cloudfront.net/ScriptBundles/R4/JavaScript/396/Desktop_bundle.min.js'></script><script type='text/javascript' src='https://static.filestackapi.com/filestack-js/1.x.x/filestack.min.js'></script><link href='https://higherlogiccloudfront.s3.amazonaws.com/HigherLogic/Font-Awesome/5.3.1-pro/css/fontawesome.all.min.css' type='text/css' rel='stylesheet' /><link href='https://d2x5ku95bkycr3.cloudfront.net/jquery/bootstrap-3.0.1/css/bootstrap.min.css' rel='stylesheet' />
+                                <!--[if gt IE 8]>
+                                    <link href='https://d2x5ku95bkycr3.cloudfront.net/jquery/bootstrap-3.0.1/css/bootstrap.min.css' rel='stylesheet' />
+                                 <![endif]--> 
+                                <!--[if lt IE 9]><link rel='stylesheet' type='text/css' href='/higherlogic/css/bootstrap-3.0.1.min.css' /><![endif]-->
+                                 <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
+                                    <!--[if lt IE 9]>
+                                      <script src='https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js'></script>
+                                      <script src='https://oss.maxcdn.com/respond/1.4.2/respond.min.js'></script>
+                                    <![endif]--><link type='text/css'  rel='stylesheet' href='https://d2x5ku95bkycr3.cloudfront.net/ScriptBundles/R4/Css/637/Desktop_bundle.min.css'/><link href='https://ajax.googleapis.com/ajax/libs/jqueryui/1.10.1/themes/base/jquery-ui.css' type='text/css' rel='stylesheet' /><link href='/higherlogic/generated.css?k=5a63f509-32ea-4189-af5a-6800d4d652b6&d=636844557305500000' type='text/css' rel='stylesheet' /><script type="text/javascript"> var _gaq = _gaq || []; _gaq.push(['t1._setAccount', 'UA-40760409-1']); _gaq.push(['t1._trackPageview']); (function() {var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true; ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js'; var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s); })(); </script><style type="text/css">
+	/* <![CDATA[ */
+	#AuxMenu img.icon { border-style:none;vertical-align:middle; }
+	#AuxMenu img.separator { border-style:none;display:block; }
+	#AuxMenu img.horizontal-separator { border-style:none;vertical-align:middle; }
+	#AuxMenu ul { list-style:none;margin:0;padding:0;width:auto; }
+	#AuxMenu ul.dynamic { z-index:1; }
+	#AuxMenu a { text-decoration:none;white-space:nowrap;display:block; }
+	#AuxMenu a.static { text-decoration:none;border-style:none;padding-left:0.15em;padding-right:0.15em; }
+	#AuxMenu a.popout { background-image:url("/WebResource.axd?d=YAYach_zykzn7tRotFpEUup3eGoCmUF_gB2eiL-h8NebNNSxFR1P2Up45RF2PIqBlf5gv1SoGJlXC6Ao5Qi6X_H1nok1&t=636776545224055265");background-repeat:no-repeat;background-position:right center;padding-right:14px; }
+	/* ]]> */
+</style><title>
+	Press Room Documents - Phi Alpha Delta Law Fraternity, International
+</title></head>
+<body class="bodyBackground  interior ">
+    <!-- Google Tag Manager (noscript) --><noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-KFFVR2" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript><!-- End Google Tag Manager (noscript) --><!-- Google Tag Manager (noscript) --><noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-TLKCXW" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript><!-- End Google Tag Manager (noscript) -->
+    
+    
+    
+
+    
+    <div id="MPOuterMost" class="container wide">
+        <form method="post" action="./2018-pre-law-conference-expo-vendor" onsubmit="javascript:return WebForm_OnSubmit();" id="MasterPageForm" class="form">
+<div class="aspNetHidden">
+<input type="hidden" name="ScriptManager1_TSM" id="ScriptManager1_TSM" value="" />
+<input type="hidden" name="StyleSheetManager1_TSSM" id="StyleSheetManager1_TSSM" value="" />
+<input type="hidden" name="__EVENTTARGET" id="__EVENTTARGET" value="" />
+<input type="hidden" name="__EVENTARGUMENT" id="__EVENTARGUMENT" value="" />
+<input type="hidden" name="__VSTATE" id="__VSTATE" value="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" />
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="" />
+</div>
+
+<script type="text/javascript">
+//<![CDATA[
+var theForm = document.forms['MasterPageForm'];
+if (!theForm) {
+    theForm = document.MasterPageForm;
+}
+function __doPostBack(eventTarget, eventArgument) {
+    if (!theForm.onsubmit || (theForm.onsubmit() != false)) {
+        theForm.__EVENTTARGET.value = eventTarget;
+        theForm.__EVENTARGUMENT.value = eventArgument;
+        theForm.submit();
+    }
+}
+//]]>
+</script>
+
+
+<script src="https://ajax.aspnetcdn.com/ajax/4.6/1/WebForms.js" type="text/javascript"></script>
+<script type="text/javascript">
+//<![CDATA[
+window.WebForm_PostBackOptions||document.write('<script type="text/javascript" src="/WebResource.axd?d=pynGkmcFUV13He1Qd6_TZKrTEgnAJ6IBPdiINmN0V5qZyDfVq0Wrp10YlHgakruiDZtd4Q2&amp;t=636776545224055265"><\/script>');//]]>
+</script>
+
+
+
+<script type="text/javascript">
+//<![CDATA[
+$(document).ready(function () { 
+                                            hl_common_util_attach_dropdown_config('ManageDropdownMainCopy_ctl17_ProfileImage_ManageDropDown636848967963572011',false,'text-left');
+                                        });$(document).ready(function () { 
+                                            hl_common_util_attach_dropdown_config('ManageDropdownMainCopy_ctl38_ManageDropDown636848967963572011',false,'text-center');
+                                        });$(document).ready(function () { 
+                                            hl_common_util_attach_dropdown_config('ManageDropdownMainCopy_ctl44_ItemCommentList_OffOwnerProfileInfo_ManageDropDown636848967963728275',false,'text-left');
+                                        });//]]>
+</script>
+
+<script src="https://ajax.aspnetcdn.com/ajax/4.6/1/MenuStandards.js" type="text/javascript"></script>
+<script src="https://ajax.aspnetcdn.com/ajax/4.6/1/WebUIValidation.js" type="text/javascript"></script>
+<script src="https://ajax.aspnetcdn.com/ajax/4.6/1/MicrosoftAjax.js" type="text/javascript"></script>
+<script type="text/javascript">
+//<![CDATA[
+(window.Sys && Sys._Application && Sys.Observer)||document.write('<script type="text/javascript" src="/ScriptResource.axd?d=uHIkleVeDJf4xS50Krz-yI126qQ3MvbDm3cE_zYEVmzoJ75OvveNdz8qLpL8n-ZwTQTtMnNj2Xi82coXUoUdd2VZYv7wlXep2xTYkxwnUvNmzQ-06-nXm5zF0koc2oEAU_KywcXONr7Vw42XotQ07fJ09481&t=ffffffff999c3159"><\/script>');//]]>
+</script>
+
+<script src="https://ajax.aspnetcdn.com/ajax/4.6/1/MicrosoftAjaxWebForms.js" type="text/javascript"></script>
+<script type="text/javascript">
+//<![CDATA[
+(window.Sys && Sys.WebForms)||document.write('<script type="text/javascript" src="/ScriptResource.axd?d=Jw6tUGWnA15YEa3ai3FadA3Y7gBZFmlYayNHZHyrg_532GoSDiUNT-H7Tt9F-w_iP3EuVWV-QarpAaHkdF6GowUqREtWboBJ4ZNQRaLx3VaVpKX7KL2Wb7h8WyPqfGuH3QJchahlDJWILnJDCB8LQvq5Buo1&t=ffffffff999c3159"><\/script>');function WebForm_OnSubmit() {
+null;if (typeof(ValidatorOnSubmit) == "function" && ValidatorOnSubmit() == false) return false;
+return true;
+}
+//]]>
+</script>
+
+<div class="aspNetHidden">
+
+	<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="hwoCTra+o9TYGtck4fVeo3T4u6pFgHbRj3puNzd5UxFVJqX4JFT1TkzDDEn/lonjC3NpTGPWcToQ3Ihd0wjHTSG1JzaG/7VhdM9wVs03HRyK7CRjPncw6VjgrNn3ppG89Zf+rKY7mgN0F7dpgGQIfhUkyrusNuulRq+a+JnOjJqy6BILQpGWV/GKHLgWBh/p291q3JSkI8Uz1Lh24sxjB7mxmr2viEzdwi3dNqJGmWgZwT/1lzlzkTF8DAKiUVdnx8/pUwQMxC7DvhibnW63cw2CrgCzp1graT3/6zoNVPACRWdxJbdExVSnzhal91QWrgKuVfAfKF1Oe6WfVAP5VM9wOBm6Vb3Szw91NqFd7CrwA4bs4aUtQyFfzToDsQHzr49W2Y97FibCCwheSaxhePJHe+GSSzq41GzOwhe2yJWEkMr2nr2g9Xj6V0B4dtcV3yAJb8rIP5TdqeqoiXh9GFnZvU+vvFkyK/WITPMbEsDhTJJDuG0wA+6G1pwEKI7BevO0PdZ0f4HgfvdZ5uU6NdKCS9uaS0MjkSdwGDXCdqzEndbg" />
+</div>
+             <input name="__HL-RequestVerificationToken" type="hidden" value="OVEao3V2IL97gYaaObPpSOyXmwwkSYuXjRDSqSlOnRt2wEfcoZqOkZ5_RDzNa49H077ZdFKWEtZpwRlXO5r5Tc5Glxo1" />
+        
+            
+            <div id="GlobalMain">
+                <script type="text/javascript">
+//<![CDATA[
+Sys.WebForms.PageRequestManager._initialize('ctl00$ScriptManager1', 'MasterPageForm', ['tctl00$MainCopy$ctl10$EntryRating1$ItemRating$CommentPanel','MainCopy_ctl10_EntryRating1_ItemRating_CommentPanel','tctl00$MainCopy$ctl36$ItemStatistics$UpdatePanel1','MainCopy_ctl36_ItemStatistics_UpdatePanel1','tctl00$MainCopy$ctl36$UpdatePanel1','MainCopy_ctl36_UpdatePanel1','tctl00$MainCopy$ctl46$ItemRelatedResourcesList$UpdatePanel1','MainCopy_ctl46_ItemRelatedResourcesList_UpdatePanel1'], ['ctl00$MainCopy$ctl10$EntryRating1$ItemRating$lbLike','MainCopy_ctl10_EntryRating1_ItemRating_lbLike'], [], 90, 'ctl00');
+//]]>
+</script>
+
+                
+            </div>
+            <!--mp_base--><div id="GlobalMessageContainer">
+												<div id="GlobalMessageContent" >
+													<img ID="GlobalMsg_Img" alt="Message Image" src=""/>&nbsp;&nbsp;
+													<span id="GlobalMsg_Text"></span><br /><br />
+												</div>
+										</div>
+            
+            
+            
+            
+            
+            
+            <div id="MPOuterHeader" class="row siteFrame">
+                <div class="col-md-12">
+                    <div id="HEADER" class="row">
+                        <div class="col-md-12">
+                            
+                            
+                            <div id="MPimage" class="MPimage">
+                                <div id="mainskiplinkholder" class="skiplinkholder"><a id="skiplink" href="#MPContentArea">Skip to main content (Press Enter).</a></div>
+                                <div id="MPheader" class="MPheader">
+                                    <div class="row">
+                                        <div class="col-md-12">
+                                            
+                                            <div class="pull-right">
+                                                <div class="inline">
+                                                    
+
+<div class='HLWelcome HLWelcomeHeader'>
+
+    <script type="text/javascript">
+        
+        $(document).ready(function () {
+            $('.Picture_Profile').tipTip({ delay: 200 });
+        });
+
+        function toggleHelp() {
+            
+            if ($("ul#CompleteBarHelpContainer").is(":visible")) {
+                $("ul#CompleteBarHelpContainer").hide();
+            } else {
+                $("ul#CompleteBarHelpContainer").show();
+            }
+        }
+
+        $("span.CompleteBarClose").live('click', function (e) {
+
+            e.stopPropagation();
+            toggleHelp();
+            $(".btn-group").find('button#BtnShowProfile').dropdown('toggle');
+        });
+
+    </script>
+
+    
+
+    
+    <div class="EndDiv">
+    </div>
+    <div id="Welcome_NotLoggedIn" class="Login">
+	
+        <a id="Welcome_LoginLink" class="btn btn-primary" href="/higherlogic/security/YourMembershipLogin.aspx?ReturnUrl=https%3a%2f%2fwww.pad.org%2fviewdocument%2f2018-pre-law-conference-expo-vendor">Sign in</a>
+    
+</div>
+</div>
+
+
+                                                </div>
+                                            </div>
+                                            
+                                            <div class="pull-right">
+                                                <div id="auxskiplinkholder" class="skiplinkholder">
+                                                    <a id="auxskiplink" href="#Logo">Skip auxiliary navigation (Press Enter).</a>
+                                                </div>
+                                                <div id="MPAuxNav" class="inline vertical-align-middle">
+                                                    <div CssSelectorClass="MPAuxNav" id="AuxMenu">
+	<ul class="level1">
+		<li><a title="Read the code of conduct for posting to the lists" class="level1 MPAuxNav" href="/codeofconduct">Code of Conduct</a></li><li><a title="How to get in contact with us" class="level1 MPAuxNav" href="/contactus">Contact Us</a></li><li><a class="level1 MPAuxNav" href="/help">Help</a></li><li><a class="level1 MPAuxNav" href="/new-item">Online Store</a></li>
+	</ul>
+</div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    
+                                    <div id="Logo" class="row" role="banner">
+                                        <div class="col-md-12">
+                                            <div id="DesktopLogoDiv" class="LogoImg inline">
+                                                <a href='https://www.pad.org/home' style=''>
+                                                    <img class="img-responsive" src='https://higherlogicdownload.s3.amazonaws.com/PAD/4b73e9e9-0092-456c-a827-668cf95b5c00/UploadedImages/logos/crest_sigsm.png' alt="Phi Alpha Delta Law Fraternity, International" /></a>
+                                            </div>
+                                            
+                                            <div class="SloganText inline"><font face="arial"><font size="4"><strong>Phi Alpha Delta<br>Law Fraternity, International</strong>Service to the student, the school, the profession and the community.</font></div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            <div style="clear: both"></div>
+                            
+                            
+                        </div>
+                    </div>
+                    <div id="NAV" class="row traditional-nav">
+                        <div class="col-md-12">
+                            
+                                <div id="navskiplinkholder" class="skiplinkholder"><a id="navskiplink" href="#MPContentArea">Skip main navigation (Press Enter).</a></div>
+                                <div id="MPButtonBar">
+                                    <nav class="navbar navbar-default">
+                                        <div class="navbar-header">
+                                            <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-ex1-collapse">
+                                                <span class="sr-only">Toggle navigation</span>
+                                                <span class="icon-bar"></span>
+                                                <span class="icon-bar"></span>
+                                                <span class="icon-bar"></span>
+                                            </button>
+                                        </div>
+                                        <div class="collapse navbar-collapse navbar-ex1-collapse">
+                                            <div class="row">
+                                                <div class="col-md-12 ">
+                                                    <div id="searchColumn" class="pull-right">
+                                                        <div id="MPSearchBlock" role="search">
+                                                            
+<script type="text/javascript">
+
+    $(document).ready(function () {
+
+        $('#SearchControl_SearchOptions').click(function (e) {
+            e.stopPropagation();
+        });
+
+        $('#SearchControl_SearchButton').click(function () {
+            $('#SearchControl_hiddenSearchButton').click();
+        });
+
+        if ('True' == 'True') {
+
+            if ($('#SearchControl_DateRangeDDL').find(":selected").text() == 'on this day') {
+                $('#SearchControl_EndDate').hide();
+            }
+            else {
+                $('#SearchControl_EndDate').show();
+            }
+
+            $('#SearchControl_SearchTerm').focus(function () {
+                $('#SearchControl_SearchOptions').show();
+            });
+
+            $('#SearchControl_DateRangeDDL').change(function () {
+                if ($('#SearchControl_DateRangeDDL').find(":selected").text() == 'on this day') {
+                    $('#SearchControl_EndDate').hide();
+                    $('#SearchControl_EndDate').val("");
+                }
+                else {
+                    $('#SearchControl_EndDate').show();
+                }
+            });
+        }
+
+        $('#SearchControl_SearchInputs')
+            .hl_ui_common_searchBox({
+                controlId: 'SearchControl_SearchInputs',
+                inputId: 'SearchControl_SearchTerm',
+                buttonId:  'SearchControl_hiddenSearchButton'
+            });
+    });
+
+</script>
+<div class=''>
+    <div id="SearchControl_SearchInputs" class="SearchInputs">
+	
+        <div id="SearchControl_WholeSearch" onkeypress="javascript:return WebForm_FireDefaultButton(event, &#39;SearchControl_hiddenSearchButton&#39;)">
+		
+            <div class="input-group" style="vertical-align: middle">
+                <input name="ctl00$SearchControl$SearchTerm" type="text" id="SearchControl_SearchTerm" class="form-control" autocomplete="off" aria-label="search box" placeholder="search" Title="search" />
+                <div class="input-group-btn">
+                    <button id="SearchControl_SearchButton" type="button" class="btn btn-default  " role="button" aria-label="search">
+                        <span class="glyphicon glyphicon-search" style="vertical-align: middle"></span>
+                        
+                    </button>
+                    
+                    <ul class="dropdown-menu pull-right" role="menu">
+                        <li>
+                            <div id="SearchControl_SearchOptions" class="SearchOptions">
+                                
+                                <div class="form-group">
+                                    <div id="SearchControl_ContentTypeDiv" class="col-sm-4 col-md-4">
+                                        <label for="SearchControl_ProductList" id="SearchControl_Label1">Content types</label>
+                                        <br />
+                                        <span id="SearchControl_ProductList" class="checkbox"><input id="SearchControl_ProductList_0" type="checkbox" name="ctl00$SearchControl$ProductList$0" checked="checked" value="Announcement" /><label for="SearchControl_ProductList_0">Announcements</label><br /><input id="SearchControl_ProductList_1" type="checkbox" name="ctl00$SearchControl$ProductList$1" checked="checked" value="Blog" /><label for="SearchControl_ProductList_1">Blogs</label><br /><input id="SearchControl_ProductList_2" type="checkbox" name="ctl00$SearchControl$ProductList$2" checked="checked" value="Community" /><label for="SearchControl_ProductList_2">Communities</label><br /><input id="SearchControl_ProductList_3" type="checkbox" name="ctl00$SearchControl$ProductList$3" checked="checked" value="Egroup" /><label for="SearchControl_ProductList_3">Discussions</label><br /><input id="SearchControl_ProductList_4" type="checkbox" name="ctl00$SearchControl$ProductList$4" checked="checked" value="CalendarEvent" /><label for="SearchControl_ProductList_4">Events</label><br /><input id="SearchControl_ProductList_5" type="checkbox" name="ctl00$SearchControl$ProductList$5" checked="checked" value="Glossary" /><label for="SearchControl_ProductList_5">Glossary</label><br /><input id="SearchControl_ProductList_6" type="checkbox" name="ctl00$SearchControl$ProductList$6" checked="checked" value="Navigation" /><label for="SearchControl_ProductList_6">Site Content</label><br /><input id="SearchControl_ProductList_7" type="checkbox" name="ctl00$SearchControl$ProductList$7" checked="checked" value="Library" /><label for="SearchControl_ProductList_7">Libraries</label></span>
+                                    </div>
+                                    <div id="SearchControl_DateRangeDiv" class="col-sm-4 col-md-4">
+                                        <span id="SearchControl_DateRange">Date range</span><br />
+                                        <br />
+                                        <select name="ctl00$SearchControl$DateRangeDDL" id="SearchControl_DateRangeDDL" class="form-control">
+			<option value="on this day">on this day</option>
+			<option value="between these dates">between these dates</option>
+
+		</select><br/><br/>
+                                        <div id="SearchControl_StartDate" class="form-input">
+			
+    <div id="SearchControl_StartDate_dateTimePicker" class="input-group date">
+				
+        <input name="ctl00$SearchControl$StartDate$ucTextBox" type="text" id="SearchControl_StartDate_ucTextBox" title="date" class="form-control" placeholder="date" />
+        <span class="input-group-addon">
+            <span class="glyphicon glyphicon-calendar"></span>
+        </span>
+    
+			</div>
+    <span id="SearchControl_StartDate_RangeValidator1" class="control-label text-danger" style="display:none;">Not a valid date</span>
+    
+
+		</div>
+
+<script type="text/javascript">
+    $(document).ready(function () {
+        initializeDateTimePicker_ctl00$SearchControl$StartDate();
+
+        if (Sys.WebForms.PageRequestManager != null) // This is for when the control is inside UpdatePanel.
+            Sys.WebForms.PageRequestManager.getInstance().add_endRequest(EndRequestFunction);
+
+        function EndRequestFunction(sender, args) {
+            initializeDateTimePicker_ctl00$SearchControl$StartDate();
+        }
+
+    });
+
+    var DateTimePicker_ctl00$SearchControl$StartDate = null;
+
+    function initializeDateTimePicker_ctl00$SearchControl$StartDate() {
+
+        $(function () {
+
+            var datetimeOpts = {
+                pickTime: false,showToday: true, onSelect: function(dateText, inst) { $(this).find('input:first').blur().change().focus();},onClose: function(dateText, inst) { $(this).find('input:first').blur().change().focus();},icons: { time: 'glyphicon glyphicon-time', date: 'glyphicon glyphicon-calendar', up: 'glyphicon glyphicon-chevron-up', down: 'glyphicon glyphicon-chevron-down' }
+            };
+
+            DateTimePicker_ctl00$SearchControl$StartDate = $('#SearchControl_StartDate_dateTimePicker').datetimepicker(datetimeOpts);
+
+            $('#SearchControl_StartDate_dateTimePicker').on("dp.hide", function(e) {
+
+                // WARNING: If the hide event is enabled, Make sure that you are showing BOTH the
+                // date and time picker. When the time picker is not used, the Bootstrap
+                // date time picker will auto hide the date picker when you select a date.
+                // This will trigger the date time picker change event which in turn triggers
+                // the hide event IF ShowPickTime is FALSE. This will create an infinite loop
+                
+
+
+               $('#SearchControl_StartDate_ucTextBox').focus();
+            });
+
+            
+
+        });
+    }
+</script>
+                                        <div id="SearchControl_EndDate" class="form-input">
+			
+    <div id="SearchControl_EndDate_dateTimePicker" class="input-group date">
+				
+        <input name="ctl00$SearchControl$EndDate$ucTextBox" type="text" id="SearchControl_EndDate_ucTextBox" title="end date" class="form-control" placeholder="end date" />
+        <span class="input-group-addon">
+            <span class="glyphicon glyphicon-calendar"></span>
+        </span>
+    
+			</div>
+    <span id="SearchControl_EndDate_RangeValidator1" class="control-label text-danger" style="display:none;">Not a valid date</span>
+    
+
+		</div>
+
+<script type="text/javascript">
+    $(document).ready(function () {
+        initializeDateTimePicker_ctl00$SearchControl$EndDate();
+
+        if (Sys.WebForms.PageRequestManager != null) // This is for when the control is inside UpdatePanel.
+            Sys.WebForms.PageRequestManager.getInstance().add_endRequest(EndRequestFunction);
+
+        function EndRequestFunction(sender, args) {
+            initializeDateTimePicker_ctl00$SearchControl$EndDate();
+        }
+
+    });
+
+    var DateTimePicker_ctl00$SearchControl$EndDate = null;
+
+    function initializeDateTimePicker_ctl00$SearchControl$EndDate() {
+
+        $(function () {
+
+            var datetimeOpts = {
+                pickTime: false,showToday: true, onSelect: function(dateText, inst) { $(this).find('input:first').blur().change().focus();},onClose: function(dateText, inst) { $(this).find('input:first').blur().change().focus();},icons: { time: 'glyphicon glyphicon-time', date: 'glyphicon glyphicon-calendar', up: 'glyphicon glyphicon-chevron-up', down: 'glyphicon glyphicon-chevron-down' }
+            };
+
+            DateTimePicker_ctl00$SearchControl$EndDate = $('#SearchControl_EndDate_dateTimePicker').datetimepicker(datetimeOpts);
+
+            $('#SearchControl_EndDate_dateTimePicker').on("dp.hide", function(e) {
+
+                // WARNING: If the hide event is enabled, Make sure that you are showing BOTH the
+                // date and time picker. When the time picker is not used, the Bootstrap
+                // date time picker will auto hide the date picker when you select a date.
+                // This will trigger the date time picker change event which in turn triggers
+                // the hide event IF ShowPickTime is FALSE. This will create an infinite loop
+                
+
+
+               $('#SearchControl_EndDate_ucTextBox').focus();
+            });
+
+            
+
+        });
+    }
+</script>
+                                    </div>
+                                    <div id="SearchControl_PostedByDiv" class="col-sm-4 col-md-4">
+                                        <span id="SearchControl_PostedBy">Posted by</span><br />
+                                        <br />
+                                        <input name="ctl00$SearchControl$FirstName" type="text" id="SearchControl_FirstName" class="form-control" placeholder="first name" title="first name" /><br />
+                                        <input name="ctl00$SearchControl$LastName" type="text" id="SearchControl_LastName" class="form-control" placeholder="last name" title="last name" /><br />
+                                        <input name="ctl00$SearchControl$CompanyName" type="text" id="SearchControl_CompanyName" class="form-control" placeholder="company" title="company" /><br />
+                                        <input name="ctl00$SearchControl$EmailAddress" type="text" id="SearchControl_EmailAddress" class="form-control" placeholder="email address" title="email address" />
+                                    </div>
+                                </div>
+                            </div>
+                        </li>
+                    </ul>
+                </div>
+                <input type="submit" name="ctl00$SearchControl$hiddenSearchButton" value="" onclick="javascript:WebForm_DoPostBackWithOptions(new WebForm_PostBackOptions(&quot;ctl00$SearchControl$hiddenSearchButton&quot;, &quot;&quot;, true, &quot;&quot;, &quot;&quot;, false, false))" id="SearchControl_hiddenSearchButton" style="display: none;" />
+            </div>
+        
+	</div>
+    
+</div>   
+</div>
+
+                                                        </div>
+                                                    </div>
+                                                    <ul class="nav navbar-nav">
+                                                        <li class='dropdown'><a href='/home' class='dropdown-toggle' data-toggle='dropdown'><span>Home</span> <strong class='caret'></strong></a><ul class='dropdown-menu'><li ><a href='/home/licensed-vendors' >Licensed Vendors</a></li></ul></li><li class='dropdown'><a href='/join-pad' class='dropdown-toggle' data-toggle='dropdown'><span>JOIN</span> <strong class='caret'></strong></a><ul class='dropdown-menu'><li ><a href='/join-pad/onlineapplicationnew' >Online Application</a></li><li ><a href='/join-pad/eligibility78' >Eligibility & Join Info</a></li></ul></li><li class='dropdown'><a href='/myprofileredirect' class='dropdown-toggle' data-toggle='dropdown'><span>Profile</span> <strong class='caret'></strong></a><ul class='dropdown-menu'><li ><a href='/myprofileredirect/myprofile' >My Profile</a></li><li ><a href='/myprofileredirect/mysubs' >My Subscriptions</a></li><li ><a href='/myprofileredirect/myprivacy' >My Privacy Settings</a></li><li ><a href='/myprofileredirect/mycontacts' >My Contacts</a></li><li ><a href='/myprofileredirect/mymessages' >My Messages</a></li><li ><a href='/myprofileredirect/signature' >My Signature</a></li></ul></li><li class='dropdown'><a href='/about' class='dropdown-toggle' data-toggle='dropdown'><span>About Us</span> <strong class='caret'></strong></a><ul class='dropdown-menu'><li ><a href='/about/aboutpad' >About P.A.D.</a></li><li ><a href='/about/padhistory' >P.A.D. History</a></li><li ><a href='/about/internationalleadership' >International Leadership</a></li><li ><a href='/about/padinternationalfoundation' >P.A.D. International Foundation</a></li><li ><a href='/about/store' >P.A.D. Online Store</a></li><li ><a href='/about/reporter96' >The Reporter</a></li><li class='dropdown-submenu'><a href='/about/pressroom' >Press Room <strong class='caret'></strong></a><ul class='dropdown-submenu'><li ><a href='/about/pressroom/officialimages' >Official Images</a></li></ul></li><li ><a href='/about/prominentpads' >Prominent P.A.D.s</a></li><li class='dropdown-submenu'><a href='/about/nationalinitiatives' >National Initiatives <strong class='caret'></strong></a><ul class='dropdown-submenu'><li ><a href='/about/nationalinitiatives/onwednesdayswewearpurple979' >#OnWednesdaysWeWearPurple</a></li><li ><a href='/about/nationalinitiatives/wintercardexchange' >Holiday Card Exchange</a></li></ul></li></ul></li><li class='dropdown'><a href='/membership' class='dropdown-toggle' data-toggle='dropdown'><span>Membership</span> <strong class='caret'></strong></a><ul class='dropdown-menu'><li ><a href='/membership/join' >Join Phi Alpha Delta</a></li><li class='dropdown-submenu'><a href='/membership/membershipbenefits' >Membership Benefits <strong class='caret'></strong></a><ul class='dropdown-submenu'><li ><a href='/membership/membershipbenefits/powerscore' >PowerScore LSAT Prep</a></li><li ><a href='/membership/membershipbenefits/dcinternships' >DCInternships/TFAS</a></li></ul></li><li class='dropdown-submenu'><a href='/membership/alumni' >ALUMNI <strong class='caret'></strong></a><ul class='dropdown-submenu'><li ><a href='/membership/alumni/list-of-alumni-chapters' >List Of Alumni Chapters</a></li><li ><a href='/membership/alumni/pay-alumni-dues' >Pay My Alumni Dues</a></li></ul></li><li class='dropdown-submenu'><a href='/membership/law' >LAW <strong class='caret'></strong></a><ul class='dropdown-submenu'><li ><a href='/membership/law/list-of-law-school-chapters' >List Of Law School Chapters</a></li><li ><a href='/membership/law/downloads' >Downloads</a></li></ul></li><li class='dropdown-submenu'><a href='/membership/prelaw' >PRE-LAW <strong class='caret'></strong></a><ul class='dropdown-submenu'><li ><a href='/membership/prelaw/listofprelawchapters' >List of Pre-Law Chapters</a></li><li ><a href='/membership/prelaw/downloads' >Downloads</a></li><li ><a href='/membership/prelaw/seniortransition' >Senior Transition Program</a></li><li ><a href='/membership/prelaw/plrecruitmentchallenge' >Fall 2018 Recruitment Challenge</a></li></ul></li><li ><a href='/membership/the-society-of-scholars' >The Society Of Scholars</a></li><li ><a href='/membership/policies' >P.A.D. Policies</a></li><li ><a href='/membership/2018awardwinners' >2018 Law & Alumni Award Winners</a></li><li ><a href='/membership/2018plawards' >2018 Pre-Law Award Winners</a></li></ul></li><li class='dropdown'><a href='/communities' class='dropdown-toggle' data-toggle='dropdown'><span>Communities</span> <strong class='caret'></strong></a><ul class='dropdown-menu'><li ><a href='/communities/allcommunities' >All Communities</a></li><li ><a href='/communities/mycommunities' >My Communities</a></li><li ><a href='/communities/redirectopenforum' >Open Forum</a></li><li ><a href='/communities/chapters' >Chapters</a></li><li ><a href='/communities/districtslink' >Districts</a></li><li ><a href='/communities/new-item' >Job Postings</a></li><li ><a href='/communities/new-item2' >Internship/Externship Opportunities</a></li><li ><a href='/communities/practice-areas' >Practice Areas</a></li></ul></li><li ><a href='/network' ><span>Directory</span></a></li><li class='dropdown'><a href='/events' class='dropdown-toggle' data-toggle='dropdown'><span>Events</span> <strong class='caret'></strong></a><ul class='dropdown-menu'><li ><a href='/events/calendar' >Upcoming Events</a></li><li ><a href='/events/prelawconference' >PRE-LAW CONFERENCE</a></li><li ><a href='/events/lawmocktrial' >LAW MOCK TRIAL 2019</a></li><li ><a href='/events/supremecourtpadday' >P.A.D. DAY AT THE U.S. SUPREME COURT</a></li><li class='dropdown-submenu'><a href='/events/convention2020' >BIENNIAL CONVENTION 2020 <strong class='caret'></strong></a><ul class='dropdown-submenu'><li ><a href='/events/convention2020/grants' >Grants & Applications</a></li></ul></li><li ><a href='/events/summit2019' >LEADERSHIP SUMMIT 2019</a></li></ul></li><li class='dropdown'><a href='/pad-foundation' class='dropdown-toggle' data-toggle='dropdown'><span>Foundation</span> <strong class='caret'></strong></a><ul class='dropdown-menu'><li ><a href='/pad-foundation/new-item2' >About</a></li><li ><a href='/pad-foundation/new-item' >Day of Giving</a></li><li ><a href='/pad-foundation/new-item3' >Donate</a></li></ul></li>
+                                                    </ul>
+                                                </div>
+
+                                            </div>
+                                        </div>
+                                    </nav>
+                                </div>
+                                <div class="MenuBarUnderline">
+                                </div>
+                            
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div id="MPOuter" class="row siteFrame ">
+                
+                
+                <div id="ContentColumn" class="col-md-12">
+                    <!--content-->
+                    
+                    
+                    <div id="BreadCrumb" class="BreadCrumb">
+                        
+                    </div>
+                    <div id="MPContentArea" class="MPContentArea" role="main">
+	
+                        
+                        
+                        <h1 id="PageTitleH1" qa-attribute="PageTitleH1">
+                            Press Room Documents</h1>
+                        
+                        
+                        
+    <div id="MainCopy_ContentWrapper">       
+        <div class="row row-wide clearfix"><div class="col-md-12 column section1"><div class="ContentUserControl">
+
+	</div><div class="ContentUserControl">
+
+	</div><div class="ContentUserControl">
+
+	</div><div class="ContentUserControl">
+
+	</div><div class="ContentUserControl">
+		
+
+
+<script>
+
+    
+    function entryRating_onThumbsUpDownClick(elem, isThumbsUp) {
+
+        var $elem = $(elem);
+        var $thumbsUpDown = $elem.closest('.thumbs-up-down');
+
+        var $thumbsUp = isThumbsUp ? $elem : $thumbsUpDown.find('button.thumbs-up');
+        var $thumbsDown = isThumbsUp ? $thumbsUpDown.find('button.thumbs-down') : $elem;
+
+        var $thumbsUpAmount = $thumbsUpDown.find('.thumbs-up-amount');
+        var $thumbsDownAmount = $thumbsUpDown.find('.thumbs-down-amount');
+
+        var thumbsUpVal = +$thumbsUpAmount.text();
+        var thumbsDownVal = +$thumbsDownAmount.text();
+
+
+        if (isThumbsUp) {
+
+            // check if the class btn-success is there
+            if ($thumbsUp.hasClass('btn-success')) {
+                // remove the success and then decrement
+                $thumbsUp.removeClass('btn-success').addClass('btn-default');
+                $thumbsUpAmount.text(thumbsUpVal - 1);
+            } else {
+                $thumbsUp.removeClass('btn-default').addClass('btn-success');
+                $thumbsUpAmount.text(thumbsUpVal + 1);
+
+                // make sure that the btn down has no btn danger
+                if ($thumbsDown.hasClass('btn-danger')) {
+                    $thumbsDown.removeClass('btn-danger').addClass('btn-default');
+                    $thumbsDownAmount.text(thumbsDownVal - 1);
+                }
+            }
+
+        } else {
+
+            // check if the class btn-success is there
+            if ($thumbsDown.hasClass('btn-danger')) {
+                // remove the success and then decrement
+                $thumbsDown.removeClass('btn-danger').addClass('btn-default');
+                $thumbsDownAmount.text(thumbsDownVal - 1);
+            } else {
+                $thumbsDown.removeClass('btn-default').addClass('btn-danger');
+                $thumbsDownAmount.text(thumbsDownVal + 1);
+
+                // make sure that the btn down has no btn danger
+                if ($thumbsUp.hasClass('btn-success')) {
+                    $thumbsUp.removeClass('btn-success').addClass('btn-default');
+                    $thumbsUpAmount.text(thumbsUpVal - 1);
+                }
+            }
+        }
+
+    }
+</script>
+
+<style>
+    .thumbs-up-down {
+        margin-top: 4px;
+    }
+</style>
+
+<div class="row">
+    <div class="col-md-9">
+        <a id="MainCopy_ctl10_backButton_backToDiscussions" class="btn btn-default btn-back" href="/communities/community-home/librarydocuments?LibraryKey=7b82d683-251d-479e-8e2a-da0d35aed9be"><i class='glyphicon glyphicon-chevron-left'></i> Back to Library</a>
+        
+    </div>
+</div>
+
+<div id="MainCopy_ctl10_EntryTitlePanel" class="row entry-title margin-top-large title-row-background">
+			
+    <div class="col-md-8">
+        <h2>
+            2018 Pre-Law Conference EXPO VENDOR Registration&nbsp;
+                    <a id="iconFollow" role="button" aria-label="Subscribe" title="Subscribe" type="button" qa-id="toggle-following-icon" visible="false" href="javascript:void(0)" class="thread-icon-follow" data-item-key="192fe8c5-8293-4387-807f-b36ba3ad7a22">
+            <i id="followingIcon" class="fal fa-star" qa-id="follow-icon" title="Subscribe" runat="server"></i></a>
+        <script>
+            if ($('.thread-icon-follow').length !== 0) {
+                $('.thread-icon-follow').on('click',
+                    function () {
+                        var $this = $(this);
+                        hl_common_ui_blockUI();
+                        HigherLogic.Util.post(
+                            '/higherlogic/ui/mvc/Directory/Following/ToggleFollower',
+                            JSON.stringify({
+                                itemKey: $this.data('item-key')
+                            }),
+                            'json'
+                        ).done(function() {
+                            var icon = $this.find('i');
+                            icon.toggleClass('fal').toggleClass('fas');
+                            icon.prop('title', icon.hasClass('fal') ? 'Subscribe' : 'Unsubscribe');
+                            $this.attr('aria-label', icon.hasClass('fal') ? 'Subscribe' : 'Unsubscribe');
+                            hl_common_ui_unBlockUI();
+                        });
+                    });
+            }
+        </script>
+
+            
+        </h2>
+    </div>
+    <div class="col-md-4">
+        <div class="text-right padding-top-medium">
+            <div id="MainCopy_ctl10_EntryRating1_ItemRating_CommentPanel" class="CommentPanel ItemRatingCommentPanel">
+				
+        <script type="text/javascript">
+            function showLikesModal(itemkey, likeModalId, titleText) {
+
+                //find current div with contents, create container div above it
+                var itemKeySelector = "#" + itemkey;
+                var likeModalIdSelector = "#" + likeModalId;
+                if ($(itemKeySelector).html() == "") { return };
+                var div = $("<div title='" + titleText + "' id='" + itemkey + "'></div>");
+                $('body').append(div);
+                $(itemKeySelector).html($(likeModalIdSelector).html());
+
+                var buttonOpts = {};
+
+                buttonOpts['Close'] = function () {
+                    $(this).dialog("close");
+                };
+
+                //use dynamic container due to updatepanels
+                $(itemKeySelector).dialog({
+                    resizable: true,                 
+                    width: 500,
+                    modal: true, focus: function (type, data) {                    
+
+                        $(this).parent()
+                            .find(".ui-dialog-buttonset button").eq(0)
+                            .removeClass()
+                            .addClass("btn btn-default");                   
+
+                    },
+                    buttons: buttonOpts,
+                    open: function () {
+                        var closeBtn = $('.ui-dialog-titlebar-close');
+                        closeBtn.addClass('ui-button ui-widget ui-state-default ui-corner-all ui-button-icon-only ');
+                        if (closeBtn.find('span').length <= 0) {
+                            closeBtn.append('<span class="ui-button-icon-primary ui-icon ui-icon-closethick"></span><span class="ui-button-text">close</span>');
+                        }
+                    }
+
+                });
+
+                $(itemKeySelector).dialog('open');
+            }
+        </script>
+        
+        <div id="MainCopy_ctl10_EntryRating1_ItemRating_likeRatingContainer" class="" style="margin-top:5px;">
+                
+            <a id="MainCopy_ctl10_EntryRating1_ItemRating_hypTotalLikes" title="Nbr of recommenders" class="btn btn-sm btn-default-override btn-recommend-no" href="javascript:void(0)">0</a>
+            <a id="MainCopy_ctl10_EntryRating1_ItemRating_lbLike" title="Recommend this item." class="btn btn-sm btn-default-override" role="button" href="javascript:WebForm_DoPostBackWithOptions(new WebForm_PostBackOptions(&quot;ctl00$MainCopy$ctl10$EntryRating1$ItemRating$lbLike&quot;, &quot;&quot;, true, &quot;&quot;, &quot;&quot;, false, true))">Recommend</a>            
+        </div>
+        <!-- Recommend button -->
+        
+        
+        <!-- End of Recommend Button -->
+        <!-- tooltip element -->
+        <div id="MainCopy_ctl10_EntryRating1_ItemRating_LikeModal" style="display: none;" title="People who like this">
+            
+        </div>
+        
+    
+			</div>
+
+<div class="Score">
+    
+</div>
+      
+
+            
+            
+        </div>
+    </div>
+
+		</div>
+	</div><div class="ContentUserControl">
+		
+
+<div class='margin-bottom-medium'></div>
+
+	</div><div class="ContentUserControl">
+
+	</div></div></div><div class="row row-wide clearfix"><div class="col-md-9 column section2"><div class="ContentUserControl">
+		<div id="MainCopy_ctl17_DetailPanel">
+			
+    
+    <div class="row">
+        <div class="col-md-12">
+            <div class="timeAgoFormat text-muted pull-right">
+                04-05-2018 10:04
+            </div>
+        </div>
+    </div>
+    <div class="row">
+        <div class="col-md-2 col-sm-2 text-center">
+            
+<div class=''>
+    
+    <div class="form-group">
+        <div class="col-md-12">
+            <div id="MainCopy_ctl17_ProfileImage_pnlProfileImage" biobubblekey="23de0158-de01-45b7-a1f7-81f1abacad4d">
+				
+                <a id="MainCopy_ctl17_ProfileImage_imgProfile_lnkDisplay" biobubblekey="23de0158-de01-45b7-a1f7-81f1abacad4d" href="https://www.pad.org/people/cory-freeman"><img id="MainCopy_ctl17_ProfileImage_imgProfile_imgDisplay" title="Cory Freeman" biobubblekey="23de0158-de01-45b7-a1f7-81f1abacad4d" src="https://www.pad.org/HigherLogic/directory/ImageDisplay.aspx?Key=8e7c011e-012f-4dee-9018-adb04c59b415&amp;dt=557400032909&amp;h=70&amp;w=70" alt="" /></a>
+
+
+
+
+                
+            
+			</div>
+            <div visible="" class="threadViewDetailsContainer">
+                <div id="MainCopy_ctl17_ProfileImage_DigitalRibbonBackground" class="digitalRibbonDisplay">
+                    <span></span>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div id="MainCopy_ctl17_ProfileImage_UserNameLinkContainer" class="form-group">
+        <div class="col-md-12">
+            <a id="MainCopy_ctl17_ProfileImage_NameLink" biobubblekey="23de0158-de01-45b7-a1f7-81f1abacad4d" href="https://www.pad.org/people/cory-freeman">Cory Freeman</a>
+        </div>
+    </div>
+    
+    
+</div>
+
+        </div>
+        <div class="col-md-10 col-sm-10">
+            
+<div class="row margin-bottom-medium">
+    <div class="col-md-12">
+        <p>
+            Submit Expo registration forms to Director of Communications Cory Freeman at cory@pad.org
+        </p>
+    </div>
+</div>
+        </div>
+    </div>
+
+		</div>
+
+
+
+
+	</div><div class="ContentUserControl">
+		
+
+<div class="row">
+    <div class="col-md-12">
+        
+
+        
+
+        
+
+        
+
+        
+
+        
+
+        
+
+        
+    </div>
+</div>
+
+
+
+	</div><div class="ContentUserControl">
+
+	</div><div class="ContentUserControl">
+		
+<div class='row '>
+    <div class="col-md-12">
+        
+        <div class="Content">
+            <a id="MainCopy_ctl23_URL" target="_blank"></a>
+        </div>
+    </div>
+</div>
+
+	</div><div class="ContentUserControl">
+
+	</div><div class="ContentUserControl">
+
+	</div><div class="ContentUserControl">
+
+	</div><div class="ContentUserControl">
+
+	</div><div class="ContentUserControl">
+
+	</div></div><div class="col-md-3 column section3"><div class="ContentUserControl">
+		
+<div class=''>
+    Statistics
+    <div class="Content">
+        <div id="MainCopy_ctl36_ItemStatistics_UpdatePanel1">
+			
+        <div class="row">
+            <div class="col-md-12">
+                
+                <div id="MainCopy_ctl36_ItemStatistics_Favorites">
+                    0
+                    Favorited
+                </div>
+                
+                <div id="MainCopy_ctl36_ItemStatistics_Views">
+                    17
+                    Views
+                </div>
+            </div>
+        </div>
+    
+		</div>
+
+        <div class="row">
+            <div class="col-md-12">
+                <div id="MainCopy_ctl36_UpdatePanel1">
+			
+                        <div id="MainCopy_ctl36_Files">
+                            1
+                            Files
+                        </div>
+                        <div id="MainCopy_ctl36_Shares">
+                            0
+                            Shares
+                        </div>
+                        <div id="MainCopy_ctl36_Downloads">
+                            7
+                            Downloads
+                        </div>
+                        
+                    
+		</div>
+            </div>
+        </div>
+    </div>
+</div>
+
+	</div><div class="ContentUserControl HLLibraryEntryActions">
+
+	</div></div></div><div class="row row-last row-wide clearfix"><div class="col-md-12 column section4"><div class="ContentItemMVC HLLibraryEntryKeywords"><h2>Tags and Keywords</h2><div class="MVCContent">
+</div></div><div class="ContentUserControl HLDocumentEntryFileList">
+		
+
+<div class='' style="width: 100%">
+    ​
+    <div class="row">
+        <div class="col-md-12">
+            Attachment(s)
+            <div class="text-right">
+                
+            </div>
+        </div>
+    </div>
+    <div id="ContentDIV">
+        
+        
+                
+                <div class="row row-border-bottom margin-top-medium margin-bottom-medium file-container">
+                    <div class="col-md-12">
+                        <div class="row margin-bottom-medium">
+                            <div class="col-md-1">
+                                
+                                <img id="MainCopy_ctl42_DocumentFileListView_IconImage_0" title="pdf file" class="file-icon-img" align="top" src="https://d2x5ku95bkycr3.cloudfront.net/App_Themes/Common/Images/ResourceLibrary/icoPdfSingle.png" alt="pdf file" style="height:38px;width:38px;" />
+                            </div>
+                            <div class="col-md-11">
+                                <div class="pull-right">
+                                    
+                                </div>
+                                <a id="MainCopy_ctl42_DocumentFileListView_DocumentTitleLink_0" title="ExpoReservationFormLawSchool2018_4.pdf" class="DocumentTitle" href="/HigherLogic/System/DownloadDocumentFile.ashx?DocumentFileKey=116e60be-4fd6-d667-a4ff-5287b68e5e8f&amp;forceDialog=0" target="_blank">2018 Pre-Law Conference EXPO VENDOR Registration Form</a>
+                                
+                                &nbsp;
+                                <span class="label label-default">
+                                    142K
+                                </span>
+                                &nbsp;
+                                <span class="label label-default">
+                                    1 version</span>
+                                <br />
+                                <span id="MainCopy_ctl42_DocumentFileListView_litUploadedDate_0" class="small text-muted">Uploaded - 07-06-2018</span>
+                                <br />
+                                
+                                <span id="MainCopy_ctl42_DocumentFileListView_DocDescription_0"></span>
+                            </div>
+                        </div>
+                        <div class="row margin-bottom-small">
+                            <div class="col-md-1">&nbsp; </div>
+                            <div class="col-md-10">
+                                <a id="MainCopy_ctl42_DocumentFileListView_lnkDownloadDoc_0" class="btn btn-default file-download-button" href="/HigherLogic/System/DownloadDocumentFile.ashx?DocumentFileKey=116e60be-4fd6-d667-a4ff-5287b68e5e8f&amp;forceDialog=1">Download</a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
+            
+            
+    </div>
+    
+    
+    <div id="MainCopy_ctl42_DocumentLicenseControllerPanel" style="display: none;">
+			
+        <div id="MainCopy_ctl42_DocumentLicenseModalPopupPanel" class="DocumentLicenseModalPopup">
+				
+            <div class="CustomTableModalPopup">
+                <div class="CustomTableModalPopupHeaderRow">
+                    <div class="HeaderTextLeftColumn">
+                        <span id="MainCopy_ctl42_lblPerma">Download Document</span>
+                    </div>
+                    <div class="HeaderTextRightColumn">
+                        <input type="image" name="ctl00$MainCopy$ctl42$CloseButton" id="MainCopy_ctl42_CloseButton" title="Click to Close" onclick="javascript:WebForm_DoPostBackWithOptions(new WebForm_PostBackOptions(&quot;ctl00$MainCopy$ctl42$CloseButton&quot;, &quot;&quot;, true, &quot;&quot;, &quot;&quot;, false, false))" />
+                    </div>
+                    <div style="clear: both;">
+                    </div>
+                </div>
+                <div class="CustomTableModalPopupContent">
+                    <div class="CustomTableModalPopupRow">
+                        Please accept the terms of the copyright associated with this attachment before
+                        downloading it. Click the link below to read the terms.<br />
+                        <br />
+                        
+                        <div class="DownloadButtonContainer">
+                            <a id="MainCopy_ctl42_OKButton" class="DownloadButton" target="_blank">Accept</a>
+                        </div>
+                        <input type="submit" name="ctl00$MainCopy$ctl42$BottomCloseButton" value="Close" onclick="javascript:WebForm_DoPostBackWithOptions(new WebForm_PostBackOptions(&quot;ctl00$MainCopy$ctl42$BottomCloseButton&quot;, &quot;&quot;, true, &quot;&quot;, &quot;&quot;, false, false))" id="MainCopy_ctl42_BottomCloseButton" />
+                    </div>
+                </div>
+            </div>
+        
+			</div>
+    
+		</div>
+    <input type="submit" name="ctl00$MainCopy$ctl42$TempBtn" value="" onclick="javascript:WebForm_DoPostBackWithOptions(new WebForm_PostBackOptions(&quot;ctl00$MainCopy$ctl42$TempBtn&quot;, &quot;&quot;, true, &quot;&quot;, &quot;&quot;, false, false))" id="MainCopy_ctl42_TempBtn" style="display: none;" />
+</div>
+<script>
+
+    $(document).ready(function () {
+        var uploadStateDivs = $('.upload-state-indicator');
+        $.each(uploadStateDivs, function (i, div) {
+            var $div = $(div);
+            $div.hl_ui_common_fileuploadstatus($div.data('document-file-key'), 'DocumentFile', function (done, result, timeout, ui) {
+                if (done) {
+                    ui.siblings('.processing-file-label')
+                           .hide();
+                    ui.siblings('.DocumentTitle')
+                        .attr('href', result.Url)
+                        .text(result.FileName);
+                    ui.closest('.file-container').find('.file-icon-img')
+                        .attr('src', result.ImgUrl);
+                    if (result.StatusCode === 'Complete') {
+                        ui.closest('.file-container')
+                            .find('.file-download-button')
+                            .removeClass('aspNetDisabled')
+                            .attr('href', result.ImgUrl);
+                    }
+                }
+            });
+        });
+    });
+
+    
+
+</script>
+
+	</div><div class="ContentUserControl">
+		
+<div class='row '>
+    <div class="col-md-12">
+        
+
+    </div>
+</div>
+
+	</div><div class="ContentUserControl HLLibraryViewControl">
+		
+<div class="row">
+    <div class="col-md-12">
+        <div id="MainCopy_ctl46_ItemRelatedResourcesList_UpdatePanel1">
+			
+        <div class="">
+            <h2>
+                Related Entries and Links
+                
+            </h2>
+            <div class="panel panel-default">
+                <div class="panel-body">
+                    
+                    
+                            <div class="row">
+                                <div class="col-md-12">
+                                    No Related Resource entered.
+                                </div>
+                            </div>
+                        
+                    <div class="row">
+                        <div class="col-md-12">
+                            <span id="MainCopy_ctl46_ItemRelatedResourcesList_ErrorMessageLabel" class="text-danger"></span>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    
+		</div>
+
+    </div>
+</div>
+
+	</div></div></div>
+        <div id="MainCopy_extraPanel">
+		
+        
+	</div>
+        
+    </div>
+
+                        
+                        
+
+                        
+                    
+</div>
+                    
+                    
+                    <!--end content-->
+                </div>
+
+            </div>
+            <div id="MPOuterFooter" class="row siteFrame">
+                <div id="FOOTER" class="col-md-12">
+                    <div class="row">
+                        <div class="col-md-12">
+                            
+                            <div class="ContentItemHtml footer-content"><div class="HtmlContent"><div class="address-and-copyright">
+<div class="row">
+<div class="col-md-8 tomenu"></div>
+<div class="col-md-4">
+<h3>Phi Alpha Delta Law Fraternity, International</h3>
+<address>606 Baltimore Avenue<br /> Suite 303<br /> Towson MD 21204</address>
+<ul class="contact">
+<li><label for="phone">Phone:</label> <a href="tel:4103473118">410-347-3118</a></li>
+<li><label for="email">Email:</label> <a href="mailto:info@pad.org">info@pad.org</a></li>
+</ul>
+<span class="copy">© 2019 Phi Alpha Delta Law Fraternity, International</span> <span class="credit">Site Designed by <a href="//www.personifyinteractive.com" target="_blank" rel="noopener">Personify Interactive</a></span></div>
+</div>
+</div></div><div class="HtmlFooter"></div></div>
+                        </div>
+                    </div>
+                    <div id="MPFooter" class="row">
+                        <div class="Footer col-md-12">
+                            <div id="FooterContent">
+	
+                            
+</div>
+                            <div id="MPBottomMenu" class="MPBottomMenu" align="center">
+                                <ul class="FatFooterMenu list-inline"><li class="static" role="menuitem"><a href="/home" class="level1">Home</a><ul class="level2 static" tabindex="0" role="menubar"><li class="static" role="menuitem"><a href="/home/licensed-vendors" class="level2">Licensed Vendors</a></li></ul></li><li class="static" role="menuitem"><a href="/join-pad" class="level1">JOIN</a><ul class="level2 static" tabindex="0" role="menubar"><li class="static" role="menuitem"><a href="/join-pad/onlineapplicationnew" class="level2">Online Application</a></li><li class="static" role="menuitem"><a href="/join-pad/eligibility78" class="level2">Eligibility & Join Info</a></li></ul></li><li class="static" role="menuitem"><a href="/myprofileredirect" class="level1">Profile</a><ul class="level2 static" tabindex="0" role="menubar"><li class="static" role="menuitem"><a href="/myprofileredirect/myprofile" class="level2">My Profile</a></li><li class="static" role="menuitem"><a href="/myprofileredirect/mysubs" class="level2">My Subscriptions</a></li><li class="static" role="menuitem"><a href="/myprofileredirect/myprivacy" class="level2">My Privacy Settings</a></li><li class="static" role="menuitem"><a href="/myprofileredirect/mycontacts" class="level2">My Contacts</a></li><li class="static" role="menuitem"><a href="/myprofileredirect/mymessages" class="level2">My Messages</a></li><li class="static" role="menuitem"><a href="/myprofileredirect/signature" class="level2">My Signature</a></li></ul></li><li class="static" role="menuitem"><a href="/about" class="level1">About Us</a><ul class="level2 static" tabindex="0" role="menubar"><li class="static" role="menuitem"><a href="/about/aboutpad" class="level2">About P.A.D.</a></li><li class="static" role="menuitem"><a href="/about/padhistory" class="level2">P.A.D. History</a></li><li class="static" role="menuitem"><a href="/about/internationalleadership" class="level2">International Leadership</a></li><li class="static" role="menuitem"><a href="/about/padinternationalfoundation" class="level2">P.A.D. International Foundation</a></li><li class="static" role="menuitem"><a href="/about/store" class="level2">P.A.D. Online Store</a></li><li class="static" role="menuitem"><a href="/about/reporter96" class="level2">The Reporter</a></li><li class="static" role="menuitem"><a href="/about/pressroom" class="level2">Press Room</a></li><li class="static" role="menuitem"><a href="/about/prominentpads" class="level2">Prominent P.A.D.s</a></li><li class="static" role="menuitem"><a href="/about/nationalinitiatives" class="level2">National Initiatives</a></li></ul></li><li class="static" role="menuitem"><a href="/membership" class="level1">Membership</a><ul class="level2 static" tabindex="0" role="menubar"><li class="static" role="menuitem"><a href="/membership/join" class="level2">Join Phi Alpha Delta</a></li><li class="static" role="menuitem"><a href="/membership/membershipbenefits" class="level2">Membership Benefits</a></li><li class="static" role="menuitem"><a href="/membership/alumni" class="level2">ALUMNI</a></li><li class="static" role="menuitem"><a href="/membership/law" class="level2">LAW</a></li><li class="static" role="menuitem"><a href="/membership/prelaw" class="level2">PRE-LAW</a></li><li class="static" role="menuitem"><a href="/membership/the-society-of-scholars" class="level2">The Society Of Scholars</a></li><li class="static" role="menuitem"><a href="/membership/policies" class="level2">P.A.D. Policies</a></li><li class="static" role="menuitem"><a href="/membership/2018awardwinners" class="level2">2018 Law & Alumni Award Winners</a></li><li class="static" role="menuitem"><a href="/membership/2018plawards" class="level2">2018 Pre-Law Award Winners</a></li></ul></li><li class="static" role="menuitem"><a href="/communities" class="level1">Communities</a><ul class="level2 static" tabindex="0" role="menubar"><li class="static" role="menuitem"><a href="/communities/allcommunities" class="level2">All Communities</a></li><li class="static" role="menuitem"><a href="/communities/mycommunities" class="level2">My Communities</a></li><li class="static" role="menuitem"><a href="/communities/redirectopenforum" class="level2">Open Forum</a></li><li class="static" role="menuitem"><a href="/communities/chapters" class="level2">Chapters</a></li><li class="static" role="menuitem"><a href="/communities/districtslink" class="level2">Districts</a></li><li class="static" role="menuitem"><a href="/communities/new-item" class="level2">Job Postings</a></li><li class="static" role="menuitem"><a href="/communities/new-item2" class="level2">Internship/Externship Opportunities</a></li><li class="static" role="menuitem"><a href="/communities/practice-areas" class="level2">Practice Areas</a></li></ul></li><li class="static" role="menuitem"><a href="/network" class="level1">Directory</a></li><li class="static" role="menuitem"><a href="/events" class="level1">Events</a><ul class="level2 static" tabindex="0" role="menubar"><li class="static" role="menuitem"><a href="/events/calendar" class="level2">Upcoming Events</a></li><li class="static" role="menuitem"><a href="/events/prelawconference" class="level2">PRE-LAW CONFERENCE</a></li><li class="static" role="menuitem"><a href="/events/lawmocktrial" class="level2">LAW MOCK TRIAL 2019</a></li><li class="static" role="menuitem"><a href="/events/supremecourtpadday" class="level2">P.A.D. DAY AT THE U.S. SUPREME COURT</a></li><li class="static" role="menuitem"><a href="/events/convention2020" class="level2">BIENNIAL CONVENTION 2020</a></li><li class="static" role="menuitem"><a href="/events/summit2019" class="level2">LEADERSHIP SUMMIT 2019</a></li></ul></li><li class="static" role="menuitem"><a href="/pad-foundation" class="level1">Foundation</a><ul class="level2 static" tabindex="0" role="menubar"><li class="static" role="menuitem"><a href="/pad-foundation/new-item2" class="level2">About</a></li><li class="static" role="menuitem"><a href="/pad-foundation/new-item" class="level2">Day of Giving</a></li><li class="static" role="menuitem"><a href="/pad-foundation/new-item3" class="level2">Donate</a></li></ul></li></ul>
+                                
+                            </div>
+                        </div>
+                    </div>
+                    <div class="row">
+                        <div id="MPCopyright" class="col-md-12">
+                            Copyright © 2019 Phi Alpha Delta Law Fraternity, International. All rights reserved.
+                        </div>
+                    </div>
+                    
+                    
+                    <div class="row">
+                        <div class="col-md-12">
+                            
+                            <div class="ContentUserControl">
+	
+<script charset="utf-8">$('#MPBottomMenu').appendTo('.tomenu');
+$( document ).ready(function() {
+$('.FatFooterMenu > li > a').each(function(){
+$(this).parent().addClass(function( index ) {
+return "nav-" + $(this).children('a').text().replace(/ /g,'').replace(/&/g,"");
+}); });
+});</script>
+</div>
+                        </div>
+                    </div>
+                    <div class="row">
+                        <div class="col-md-12"></div>
+                    </div>
+                    <div class="row">
+                        <div class="col-md-12">
+                            
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div id="MPFooterLink" class="row siteFrame">
+                <div class="col-md-12">
+                    <div id="MPFooterLinkContent">
+                        <a href="http://www.higherlogic.com" target="_blank">Powered by Higher Logic</a>
+                    </div>
+                </div>
+            </div>
+            <!--mp_base--><div id="GlobalPopupContainer">
+												<div id="GlobalPopupContent" >
+													<img ID="imgGlobalProcessing" alt="" src="https://d2x5ku95bkycr3.cloudfront.net/img/loading.gif" />
+												</div>
+											 </div>
+            
+            
+        
+<script type="text/javascript">
+//<![CDATA[
+var Page_Validators =  new Array(document.getElementById("SearchControl_StartDate_RangeValidator1"), document.getElementById("SearchControl_EndDate_RangeValidator1"));
+//]]>
+</script>
+
+<script type="text/javascript">
+//<![CDATA[
+var SearchControl_StartDate_RangeValidator1 = document.all ? document.all["SearchControl_StartDate_RangeValidator1"] : document.getElementById("SearchControl_StartDate_RangeValidator1");
+SearchControl_StartDate_RangeValidator1.controltovalidate = "SearchControl_StartDate_ucTextBox";
+SearchControl_StartDate_RangeValidator1.focusOnError = "t";
+SearchControl_StartDate_RangeValidator1.errormessage = "Not a valid date";
+SearchControl_StartDate_RangeValidator1.display = "Dynamic";
+SearchControl_StartDate_RangeValidator1.type = "Date";
+SearchControl_StartDate_RangeValidator1.dateorder = "mdy";
+SearchControl_StartDate_RangeValidator1.cutoffyear = "2029";
+SearchControl_StartDate_RangeValidator1.century = "2000";
+SearchControl_StartDate_RangeValidator1.evaluationfunction = "RangeValidatorEvaluateIsValid";
+SearchControl_StartDate_RangeValidator1.maximumvalue = "9999/12/31";
+SearchControl_StartDate_RangeValidator1.minimumvalue = "0001/01/01";
+var SearchControl_EndDate_RangeValidator1 = document.all ? document.all["SearchControl_EndDate_RangeValidator1"] : document.getElementById("SearchControl_EndDate_RangeValidator1");
+SearchControl_EndDate_RangeValidator1.controltovalidate = "SearchControl_EndDate_ucTextBox";
+SearchControl_EndDate_RangeValidator1.focusOnError = "t";
+SearchControl_EndDate_RangeValidator1.errormessage = "Not a valid date";
+SearchControl_EndDate_RangeValidator1.display = "Dynamic";
+SearchControl_EndDate_RangeValidator1.type = "Date";
+SearchControl_EndDate_RangeValidator1.dateorder = "mdy";
+SearchControl_EndDate_RangeValidator1.cutoffyear = "2029";
+SearchControl_EndDate_RangeValidator1.century = "2000";
+SearchControl_EndDate_RangeValidator1.evaluationfunction = "RangeValidatorEvaluateIsValid";
+SearchControl_EndDate_RangeValidator1.maximumvalue = "9999/12/31";
+SearchControl_EndDate_RangeValidator1.minimumvalue = "0001/01/01";
+//]]>
+</script>
+
+
+<script type="text/javascript">
+//<![CDATA[
+var _suppressGlobalPopupContainer = false;
+			  
+									Sys.Application.add_load(GlobalApplicationLoadHandler);
+
+									function GlobalApplicationLoadHandler(sender, args) {
+										var prm = Sys.WebForms.PageRequestManager.getInstance();
+										if (!prm.get_isInAsyncPostBack()) {
+											prm.add_initializeRequest(initRequest);
+											prm.add_endRequest(endRequest);
+										}
+									}
+									function initRequest(sender, args) {
+										if (!_suppressGlobalPopupContainer) {
+											hl_common_ui_blockUI();
+										}
+									}
+
+									function endRequest(sender, args) {
+										 hl_common_ui_unBlockUI();
+									}hl_resourcelibrary.renameBreadcrumbTitle('2018 Pre-Law Conference EXPO VENDOR Registration');
+WebForm_InitCallback();//]]>
+</script>
+<script type='text/javascript'>new Sys.WebForms.Menu({ element: 'AuxMenu', disappearAfter: 500, orientation: 'horizontal', tabIndex: 0, disabled: false });</script>
+<script type="text/javascript">
+//<![CDATA[
+
+var Page_ValidationActive = false;
+if (typeof(ValidatorOnLoad) == "function") {
+    ValidatorOnLoad();
+}
+
+function ValidatorOnSubmit() {
+    if (Page_ValidationActive) {
+        return ValidatorCommonOnSubmit();
+    }
+    else {
+        return true;
+    }
+}
+        //]]>
+</script>
+
+<script src="/Telerik.Web.UI.WebResource.axd?_TSM_HiddenField_=ScriptManager1_TSM&amp;compress=1&amp;_TSM_CombinedScripts_=%3b%3bAjaxControlToolkit%2c+Version%3d18.1.1.0%2c+Culture%3dneutral%2c+PublicKeyToken%3d28f01b0e84b6d53e%3aen-US%3ab13aac2d-1c5e-49ed-8aa2-800cbed84558%3acd9be5ef%3af2800037%3a2761bb61%3a10439726%3ac99a1521%3adffb332%3a891e6cc6%3a9833e5c%3af06639ea%3a98f9cc63%3adda46be5%3a7b2ffb77%3ad6567903" type="text/javascript"></script>
+<script type="text/javascript">
+//<![CDATA[
+
+document.getElementById('SearchControl_StartDate_RangeValidator1').dispose = function() {
+    Array.remove(Page_Validators, document.getElementById('SearchControl_StartDate_RangeValidator1'));
+}
+
+document.getElementById('SearchControl_EndDate_RangeValidator1').dispose = function() {
+    Array.remove(Page_Validators, document.getElementById('SearchControl_EndDate_RangeValidator1'));
+}
+Sys.Application.add_init(function() {
+    $create(Sys.Extended.UI.ModalPopupBehavior, {"cancelControlID":"MainCopy_ctl42_CloseButton","dynamicServicePath":"/viewdocument/2018-pre-law-conference-expo-vendor","id":"MainCopy_ctl42_DocumentLicensePopup","okControlID":"MainCopy_ctl42_BottomCloseButton","popupControlID":"MainCopy_ctl42_DocumentLicenseControllerPanel","popupDragHandleControlID":"MainCopy_ctl42_DocumentLicenseModalPopupPanel"}, null, null, $get("MainCopy_ctl42_TempBtn"));
+});
+//]]>
+</script>
+</form>
+    </div>
+    <script>
+
+        $(document).ready(function () {
+
+            var path = window.location.pathname;
+            var lastChar = path.substr(-1); // Selects the last character
+            if (lastChar != '?' && lastChar != '/' && lastChar != ';') {         // If the last character is not a slash
+                path = path + '/';            // Append a slash to it.
+            }
+
+            $('ul.navbar-nav a').each(function () {
+                var myHref = $(this).attr('href');
+                var lastChar2 = myHref.substr(-1); // Selects the last character
+                if (lastChar2 != '?' && lastChar2 != '/' && lastChar2 != ';') {         // If the last character is not a slash
+                    myHref = myHref + '/';            // Append a slash to it.
+                }
+                if (path == myHref) {
+                    $(this).parents('li').last().addClass('active current-page');
+                    $(this).parent('li').addClass('active current-page');
+                }
+            });
+
+            $('#modalTags').on('tagAdded', function() {
+                var oldCount = parseInt($('#litCommunityTagsCount').text());
+                $('#litCommunityTagsCount').text(oldCount + 1);
+            }).on('tagRemoved', function() {
+                var oldCount = parseInt($('#litCommunityTagsCount').text());
+                $('#litCommunityTagsCount').text(oldCount - 1);
+            });
+            
+            var isImpersonating = false;
+
+            
+
+            //var btn = $.fn.button.noConflict(); // reverts $.fn.button to jqueryui btn
+            //$.fn.btn = btn; // assigns bootstrap button functionality to $.fn.btn
+        });
+    </script>
+</body>
+
+</html>

@@ -1,0 +1,3408 @@
+
+
+<!DOCTYPE html>
+<html lang="en">
+<head id="Head1"><meta name="viewport" content="width=device-width, initial-scale=1.0" /><meta http-equiv="X-UA-Compatible" content="IE=edge" /><meta name="KEYWORDS" content="VIEW, TAGS, SEARCH, SHARED, DOCUMENTS, VIDEOS, PRESENTATIONS, PODCASTS, WORD, EXCEL, PDF, POWERPOINT" /><meta name="DESCRIPTION" content="Lists the documents in a given library" /><!-- Google Tag Manager --><script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start': new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src='//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);})(window,document,'script','dataLayer','GTM-KFFVR2');</script><!-- End Google Tag Manager --><!-- Google Tag Manager --><script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start': new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src='//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);})(window,document,'script','dataLayer','GTM-TLKCXW');</script><!-- End Google Tag Manager --><meta name='audience' content='ALL' /><meta name='rating' content='General' /><meta name='distribution' content='Global, Worldwide' /><meta name='copyright' content='Higher Logic, LLC' /><meta name='content-language' content='EN' /><link rel='SHORTCUT ICON' href='https://higherlogicdownload.s3.amazonaws.com/PAD/4b73e9e9-0092-456c-a827-668cf95b5c00/UploadedImages/favicon-32x32.png' type='image/png' /><script type='text/javascript' src='https://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js'></script><script src='https://d2x5ku95bkycr3.cloudfront.net/HigherLogic/JavaScript/Desktop/3rdParty/tinymce-4.6.4-fsupdate/tinymce.min.js'></script>
+									<script src='https://d2x5ku95bkycr3.cloudfront.net/HigherLogic/JavaScript/jquery-migrate-1.2.1.min.js'></script><script type='text/javascript' src='https://ajax.googleapis.com/ajax/libs/jqueryui/1.10.1/jquery-ui.min.js'></script><script src='https://d2x5ku95bkycr3.cloudfront.net/jquery/bootstrap-3.0.1/js/bootstrap.min.js'></script><script type='text/javascript' src='/HigherLogic/CORS/easyXDM/easyXDM.Min.js'></script><script crossorigin src='https://d2x5ku95bkycr3.cloudfront.net/react/react.production.16.5.1.min.js'></script><script crossorigin src='https://d2x5ku95bkycr3.cloudfront.net/react/react-dom.production.16.5.1.min.js'></script><script type='text/javascript' src='https://d2x5ku95bkycr3.cloudfront.net/ScriptBundles/R4/JavaScript/396/Desktop_bundle.min.js'></script><script type='text/javascript' src='https://static.filestackapi.com/filestack-js/1.x.x/filestack.min.js'></script><link href='https://higherlogiccloudfront.s3.amazonaws.com/HigherLogic/Font-Awesome/5.3.1-pro/css/fontawesome.all.min.css' type='text/css' rel='stylesheet' /><link href='https://d2x5ku95bkycr3.cloudfront.net/jquery/bootstrap-3.0.1/css/bootstrap.min.css' rel='stylesheet' />
+                                <!--[if gt IE 8]>
+                                    <link href='https://d2x5ku95bkycr3.cloudfront.net/jquery/bootstrap-3.0.1/css/bootstrap.min.css' rel='stylesheet' />
+                                 <![endif]--> 
+                                <!--[if lt IE 9]><link rel='stylesheet' type='text/css' href='/higherlogic/css/bootstrap-3.0.1.min.css' /><![endif]-->
+                                 <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
+                                    <!--[if lt IE 9]>
+                                      <script src='https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js'></script>
+                                      <script src='https://oss.maxcdn.com/respond/1.4.2/respond.min.js'></script>
+                                    <![endif]--><link type='text/css'  rel='stylesheet' href='https://d2x5ku95bkycr3.cloudfront.net/ScriptBundles/R4/Css/637/Desktop_bundle.min.css'/><link href='https://ajax.googleapis.com/ajax/libs/jqueryui/1.10.1/themes/base/jquery-ui.css' type='text/css' rel='stylesheet' /><link href='/higherlogic/generated.css?k=5a63f509-32ea-4189-af5a-6800d4d652b6&d=636844557305500000' type='text/css' rel='stylesheet' /><script type="text/javascript"> var _gaq = _gaq || []; _gaq.push(['t1._setAccount', 'UA-40760409-1']); _gaq.push(['t1._trackPageview']); (function() {var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true; ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js'; var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s); })(); </script><style type="text/css">
+	/* <![CDATA[ */
+	#AuxMenu img.icon { border-style:none;vertical-align:middle; }
+	#AuxMenu img.separator { border-style:none;display:block; }
+	#AuxMenu img.horizontal-separator { border-style:none;vertical-align:middle; }
+	#AuxMenu ul { list-style:none;margin:0;padding:0;width:auto; }
+	#AuxMenu ul.dynamic { z-index:1; }
+	#AuxMenu a { text-decoration:none;white-space:nowrap;display:block; }
+	#AuxMenu a.static { text-decoration:none;border-style:none;padding-left:0.15em;padding-right:0.15em; }
+	#AuxMenu a.popout { background-image:url("/WebResource.axd?d=YAYach_zykzn7tRotFpEUup3eGoCmUF_gB2eiL-h8NebNNSxFR1P2Up45RF2PIqBlf5gv1SoGJlXC6Ao5Qi6X_H1nok1&t=636776545224055265");background-repeat:no-repeat;background-position:right center;padding-right:14px; }
+	/* ]]> */
+</style><title>
+	Library - Phi Alpha Delta Law Fraternity, International
+</title></head>
+<body class="bodyBackground  interior ">
+    <!-- Google Tag Manager (noscript) --><noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-KFFVR2" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript><!-- End Google Tag Manager (noscript) --><!-- Google Tag Manager (noscript) --><noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-TLKCXW" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript><!-- End Google Tag Manager (noscript) -->
+    
+    
+    
+
+    
+    <div id="MPOuterMost" class="container wide">
+        <form method="post" action="./librarydocuments?LibraryKey=dc9cc7b6-81f6-4a84-a55c-a52176c73cbd&amp;LibraryFolderKey=bb39ab7b-8016-4600-8754-d9403d37f298&amp;page=4" onsubmit="javascript:return WebForm_OnSubmit();" id="MasterPageForm" class="form">
+<div class="aspNetHidden">
+<input type="hidden" name="ScriptManager1_TSM" id="ScriptManager1_TSM" value="" />
+<input type="hidden" name="StyleSheetManager1_TSSM" id="StyleSheetManager1_TSSM" value="" />
+<input type="hidden" name="__EVENTTARGET" id="__EVENTTARGET" value="" />
+<input type="hidden" name="__EVENTARGUMENT" id="__EVENTARGUMENT" value="" />
+<input type="hidden" name="__LASTFOCUS" id="__LASTFOCUS" value="" />
+<input type="hidden" name="__VSTATE" id="__VSTATE" value="H4sIAAAAAAAEAO2d23rbxpbnI1qUZNmynPiws3t3k4jP7gQSCAIEkB07TZ0sOTpFkuXEN/kKqAKJGARoAJSsPV8/z7zAXM/FXMw7zcV83asA8GRSEiDCBOlNO1ZIoFBr/QurVh1+IPVfU4vf/iX7s+aZHPdoBxnWql0/ewRvC4VHTt1bs7VGjVieC4ccU3mEDbduojM4vGGYxH1knmzVUIUs/vT9V7euzek39YXMf8GfRRy1SqFPlccGJvbVq5SS97Kf8AG9FIcj/Lwqv7u0ysW7cBEO/sD1819lluFVJpeZj+yQnPydKCRfJZ98lVyMO5H7449V2/Ic23QPyIeG4ZB92/VWkPb+F3L2xx/3rzfv1SFBjlYNyz7ad2zc0Lxtw/UecZcXKVxehL+8SPHyIsLlRcTLi5QuLyJFKTJAZzwvBP6lb5X7UNihXWYaugiGrjJIHxkwD/SLvgEDupR8lcXkhffzcsAq+yWHAavsJ/wzjKKfIdGeI3wxO88qpYLAKwInLuL7GX1x8X4mN7/lbto1QntGFd+fzkzRU/CTnps9NlxDNeEEzlyD47nMND28eOghxzOsyq6NyRvHzM4v75fXlusILxdwJgtF8pnuYzOfHivizOynxwScmfv0GI8z1+mxqer9ucApeOl703qZhZfTuZs7hubYruERyMfPnv92eOZ6pLb0qmHgH5iaq9mOaag/MMfEcQ3beiEscfTvD8xqw/QaDnlhkYbnIPMHZr+hmoYGlRzZ74n1QpUkJGpiqaAUBcLJyiNBlYpEIQrLcQrPCmJJY5HMS2ypJGu6IqqixnGBY7PUsfy1Z99Px7joBjTznN5UF96JmdzXLXmvHLtRpxqh2oLCabyOCSvKaoEVuFKRlTmRsLyCJVHQpAIviLmbq3at1rAM7yy8igv/sH1+NP8ExnU/Fuidn/Z/ZsKf2TBGIBZuYuQhFvyqvSdn2Uh149b1n9aY8S1lOiJw+oh89LKL2wSdEKYlBAeRkstqJnJd4ntHW2w2e+u1bVhdBWfbtqicGT14dRvj+1/h5vHwXaZ9mMZU1g+B7CNBkVZ5TpBYfmVdYYWVVZ4tb2yss0KprBTWBF4oiVxubtuuGBbtDf9/arlqVKrEMeGItuwSreGAL8u/2w1nh9RUCMGqUfeLLyG3/vHnAwIhSC99UfW8uvu4iB7zOvx3enq6BJ1gyXYq8E4LRRnE7Xh3xlah98IBCG8HOWe4mR4eF/Xt4BDc9sdFjDVF0yS1xMoFvcQKSBZYJIoQhyJfkEqaVNRU/Jgvhdds2CYmTnClqhYVpEoqxFYBrizB7ZQhvFgMiaSIi5LOKzJcWYcMAqUFP37vTf11c/stMcFNwrRebRIEtWI/cmiXDmIoP0toh+48lLvxx3dbEFOrdsPywvzld3QoU2lGx3Tuxi46MSrII5NmFyD4Zw+NisUYFqaR3MqP00GIB28zC/TFXPaOY58ykPAwCLMtZLIWOgm7yUxrCGj+pIPCvSm/fzQP+ckY01sAg49Gqr7f2RnXn+RBxzE8kzTf4rCPt+51tunMbFhT+9YHvfjuYRXcK+MTZGkEM8HUMRyDplulFuhkEtqc8c7qxPVP36a5EmJnDZLSCsQOruQW6GuaRTYMYuJs9hiZDZK7RY/6L4PD16DN8e17cwtly4LrNOLfzOwKxJJ7Y7UdAjfWDFdruHQMcWfWT2ihuVem7bpw824eQhpkQqeuB3cULrk3d7Oz0mla5/VWhppZr9CEvrCKTGJh5Ph1tqqcDwMczM2GIXL3+2tzlfAPDlLpXKtJ5kEWYRxkVUizPTL5xQpdHAbdJ3djv+N+TUPyJuFMYDo3t+q6qzShZud126mxhlVveLnpP747XMlkeqYGR7ZtHhn1oA6wshDWFo7Hs+sWgpkDrrbHwkz+m+wciGQ6rebvdFrL3+2xlL/Xvsg3064iMJW/37JBm+KaH5dQbl43HNdjLFQjuaznB2THIf/ioOB10BwczP+l443vdFBiFrp9HVlncL75ks5LwrMLpIYMk0EYO8R1oUz3AexPmvx4z9JZ2cLUV827krkVhv50uxPoHb2h3Q0zHZ2xq/vMNK/ErRGadoL87TDS81/7sU3NjV14w0CSmQLt1zIgOjOTmQ3CfYZqhHF6Sg9nEucGUqZPhEQv3RySLpx4xp3fXWlSuDgJk9EPk9uph8n1qy04Wp4uXC02W9ffDuYW1zXbZGuYLfDhxH6+Fbbpd6Vr7VzcnpNk/3UbnTKHWhXGNGa1iuoecZg1+9QybYRd2rDdE6KZ5rqBdqGpan466mIsn426AGsvhHoWReDvOQui/NxnWAvd8pv5s0gMBM3lFuh8r4xrhvUKpnqfpT2bC1q6anS9M5gMLIQ7Jz9atkX+fsk6Nz+T+Np2yLcx047Yz9S8HYlzHqbd4YooWMIt5xY2DBO61YbtHMF0PXutbJq5v7U2s/Yh7RtWBc6W63XHPkGmnltop326vvthuWMptty9EFv+dBmWmzu0Hc+3NHNANDjUnFbeavb5eUFi1i2PDk7tFUpzwnz7XoZ6ONd08F5m4We6v0ZrfAEnvmm/axaBISkDgxEdbqZ7asve2LFhXhm4ct1fHjFl9l346h1bDs4fG+SU4Pkjuw7ZyHaIcy97++emkhfB1bfaB8qe/a7j7TvPLncUDyrrOBBUCX5mg3EzGBk7F1+fq5/rYSx/u+oQukLZJadMOJL794BG9UywbtgKtpJo5VHWzrmFg8PDcLYR7m+JMqeWCBJZvoDAe1GSWaWgSiwmvCJJsqbJAgmDlYbE3e+/ylDli5X8DQrP7t/Vu1a+zQ47n/vaT1MaDci9Ov3pVnM3mrc/NI4UVVMVtchypER91nhWkQsyi4qkJJc4XcGCnL9DcrdpXXQSdFQ13G3Del/N3d13bB2iyt8S3kEf3xrYq2Z48EJvrpypH7fz31Vz32659PaGV9Drw63aCj1VxrjsbkBkW7jjVDV3hzbu3qlFHNpiSGs6XRJ4xPEcYrVCQWEFtVBgEUJFloi8KMtI10Vezy1uueFVtAlOwNK9TxzeJEal6mX4/KMMn7u35XbKa+0k37/ZqQbTLUTVsNWGCmf9LcQozoS7ALDW9203Defm/bdhw7X3MKeDre6FMs1AFgQg3Q+gMRAk4iXSmo3czD73N4N+XF7u2AZarhO7bkKWIa5pELZuNmo14rS20Od8qzRHef0u3vR3pbb9XSlsOETzbOds2b9mLRiCgv0ouBkvSgVFJwWhxCqKrrFCCWusIpR0VsVEUFToTDonPsHeC7FQUmSOlzmuyPvbPfemshvIdEnXarN7ly37gt4MpgZrUjDNnCKXqUPSIZhRzxjENFyY9JwabhXyMOPZjENXsRaDYHg8q9kNN9zFD5chrQ3qdmeZCVNInDZszwSnwcEbELhMGGSw7r9H36KGV7UdBpzVghPNrQyww/a1g3BHM6sQgwQb8Hq5deFUcy/pm9ZIfENgzmDq4TKoYocOMblbtI9uG++Ju48sYlaD5BSjo+fu7Nr0ekjcMFxBb6Rxh3N3giyIV866u2GUZJq7fVR1CKEEJtyBIbn75RPiwC09QBTKbCOVmP62+Q269ckER3OLG/Cm67JF6tobC9vhEZy7dXRqdxWZo0UCp7+ljXFke8gMzcAZv1lo1ZAOuq67tWd1H5gPLtqxMcG5RRhA7dM3EG/BUciivp3QDehRfsvTxg4KZKePnAYJY01vTcCnWz87l7b+HG8eVpKmirT3W2vZzcg8NnzfNvyoq2XbG5BBzHQ0b4ftfDm7NoDF8CXdJg/WKhV/1dQ5bfyWZ4LOBH00DCzGg669FEbuPCxbOdWzGPjHujX/f5joqGF6rA2CHAMT/2Drctayod4pHjrdnV3VYWy9XTVxXLrw7VyozWavt0IaLrl70OUGQ2nQUnNE/7Twvx56MLtp1e4nm86Lroeiw6x1o3P3fz43395cjzpDyD+I3F0Xw3y8i2pko2Ga2cX9pfLS2hKz4thateFAh9hy9w3LIpiO/O3CPQXb2fBez7nzEtcJDOjNgKBZjFVblQWBNdtrJkydfYz0KdyV/2bbL6/7q4LIzQTRNbNyBoM6yd2k/XTfH0S2rGr3TCXcjO1c4s+AV19v+wMAs7/E7IdjQJwBI/d12OzxZzDgyffRphd9WueSPQLQUOun4fIli+5vxbs/twP7RaSo7rd5MxfrJv51czs06k/B14irOYY/r83do/e140DZ3fRqMADe7TgGE75tYlVgpvW/pjq2Ur55CH3baRgeDWOGeWii065Noq/9af6ibyBsPRgOYBDZhKy0pR96MDbW6KDQXEBzn8zRdeynuZ5DQYDdy85yjEHnVnBL/oyzZOzqfz93TOtfRGrPqWo4z5yBpv23ze0d+mwT1EJXXkz4lr7eqlXa6bRrHnVvaooLIi+UcUIf5BhRGccGvlDG9VDGDMfQJcKIqoBDF6q4EapY4Bi3DoGJ3SohXppiHp8v5rDDw4tELYzOrcmfr6bcwIZ9oY7F0dHx5Hwd+w5xoV5/G+tCOV+HchY55q3tYKbpWpq6vjtfF/Xxsu5zJ5SU5Zn9tY1hC6l0CGEuuEFY32mYgY5KW0elqYPHmXuhjnmO+YdRTz3aLkho74z6hXfkL6GS6xxTd+w/YZE8ouG1H3p3kZi/hmJucIwHa9TU70vufDl0Dd2rxZ8wUSV/ayvZPNrZHmUldCJ4gZJ/a92mVmUPL6gM/jmmYb2/oMZ8uKk0ilH6lqiGhZwLo/S7Efb/d7vhNVRyof8P28lvff8w9dC8IPmt190LlTxuK3m7sjbKSsC9C5U8bSv59fDXUVYC7l2o5Hl7hv328HB7dzV1MRdMFQIPL9TzffvOHP12MMpiDM0GDy8Uw4b77P8n0wUxgmfrl5vL96aHS8itfozt7xO4oPcZ3I4neXFoZsktshTbOPRx1cISqqF/2BY6dZegOeGK/fIa/IxicQnmcI+LevntYVnTiOuCp1v4cRGXf9kqv94U14QtYePtQXl7Ze9N+TFfWv9YN2AODwUKoqAU+YIol+AwfdYW0Y8OwAlz2/3If4TCIr9iFY5XUVH5sCt+ONs5Ke1L2ikcL65BCy+3d0Gm+iPG/HfVYAtHVzQRlQSeVYsyzwrFYoGVS6LMasWCKiMVqTyv5O+Q/MMqhW39EGH+cSX/pJp/GnV3LP+skn8esLv8v/fBdFH3zppoLv8DVMT2UriAtiUC3vLLE+D2JQG3PFfNFyJHP4/zxciPpwgkL3YBm3yJ5CWcl0lewfkfK/m/k/xPJP8C519W8z/TcP+P2NApX46KmgpDR019LUZATU9WCONVCRM8OA2Tdde2gljtB55uXhU8ceeBp5vZb/5EJyjYdP7xxDbwM+75yOCo/Eo8CBUprlezT/qQhj1oe38PyWU2kYVV236fX6vm16MW7gRSUeu/mRUv5VQmOmVdvypWC6pi7TaviupcC2NFdS161RGgV7TBtgm98htDAV35VxOu9QnXinifzuda+c1qfqsbVy1QQMUwD2vIaiCzl1TlX1fyv4wQi4rUBqPPohKVkRqLSlRF2iwqvphRZlHx1Ywmi4qvYzxYVHxdSbGoQrIsKpqQSrQcsI/1HhDVElH4zCAq0WyWJohKNLbSB1Hx5YwqiEpUybiDqGQz4PBBVKL+pw6iEk1+qYKoRJWkCqISVZI2iIovZoRBVKJiIoIomrr+9xVBVBR/kwVRUSwmD6KKB8fu6dvCryfv/qFWxIrxe3Wt+n7L+72wb/sQKmjg5bA11SiNST/n2N2g9AhtVAXpCuYEECZyPKtLGmK5Aq+yvCTxxQIuFgolOTdzhJwK8bIzf6gmst5j3PUdBf3QF19EJSKWiiwqyRIraEhnVYJ4lhf0EtYIryuSNEFfE/T1ZaKvSNE/xuiLHzr66mtxgr6GjL4ixfVq9oe9hud6KPDm0NYMZDKwAq84qMaUT5GDmXK9bhpasIXlA7BYl3RisHi2osAwu10h6/oVsvU2DIvnaAuJxXMzrpkIeCzagDzBY2njsYj3KRYe+9tDREPGZZiHqB01532sa9RgWaQWGX1YlqiM1GBZoirShmXxxYwyLIuvZjRhWXwd4wHL4usaUVgWTcg4wLJEs1masCzR2EoflsWXM6qwLFEl4w7Lks2Aw4dlifqfOixLNPmlCssSVZIqLEtUSdqwLL6YEYZliYqJAcuu+qmtKP4mC8uiWEwelu0dn+0f1QuE26k1tJVf9/70P79lvzM+7DXQ+mcAZkW5yIlFVQZxBZnFiNNZUeAVlggK+EhUpHJ8frsDlV27BJVxBZlT1aLOEsKXWIHQXxGhSUVW0nUioJJQKvJogsomqOzLRGWRon+MUVlx6Kisr8UJKhsyKosU16vZpU7OU9YQJjVDuwyWxbyoE5fFtRcXmKGwyjYwi+tsC5nFdTW+qQjYLNrgPMFmaWOziPcpJjYLPlXWzcwClDb62CxSi4w+NktURmrYLFEVaWOz+GJGGZvFVzOa2Cy+jvHAZvF1jSg2iyZkHLBZotksTWyWaGylj83iyxlVbJaoknHHZslmwOFjs0T9Tx2bJZr8UsVmiSpJFZslqiRtbBZfzAhjs0TFxMBm//eK2CyKv8lisygWk8dmBsVkG7xeeKW+2lzb/P1X9f1r8fWx/GcZ/fbaP7eePDrjCxLPixxmCacWWFySOLYgcAJLihKSkcQToshd6Gz6EnRGdFxUEcEsLxKZFXRRYVUCVYsSLslykVeKujBBZxN09mWis0jRP8boTBg6OutrcYLOhozOIsX1albqpD2rzQkKc0icE0MjlzG0q17dCdOu7EFcqtacfrWp2pXdb+G1Kzs/gPEIwC3akD4BbmkDt4j3KRZwK/dFbcHn1JifVOflvP/jglKjj+UitdvoY7lEZaSG5RJVkTaWiy9mlLFcfDWjieXi6xgPLBdf14hiuWhCxgHLJZrN0sRyicZW+lguvpxRxXKJKhl3LJdsBhw+lkvU/9SxXKLJL1Usl6iSVLFcokrSxnLxxYwwlktUzBC++jGKv8liuSgWk8dykumti7p0uPtLTdx/92Gzguz1+vHxb/Zvb5LHcZoiK5KCOVbCKsfKREPwiiMsRrpO6K9gkwXcheOyl+A4LGMiS1yB1bCOWIGTCqzMaxxbKkkyhwiniXjy+84mOO4LxXGRon+McZw4dBzX1+IExw0Zx0WK69Us3wmFYNGtQwIxYFy99Ksfr3BhJ4S7it24/K0eVtvmb1dxuoXeruLy1UxGAG7RBu0JcEsbuEW8T/9En3CL1CKjj9ISlZEaSktURdooLb6YUUZp8dWMJkqLr2M8UFp8XSOK0qIJGQeUlmg2SxOlJRpb6aO0+HJGFaUlqmTcUVqyGXD4KC1R/1NHaYkmv1RRWqJKUkVpiSpJG6XFFzPCKC1RMUP4Ysgo/iaL0qJY/AyfcKts/F48cIvrq/LanlTy7E20sSko/mfbjj+6yeM0nReJWOAQi3SJsJKkSaykCTLLKaUSL+tiqcB3fzHkzCU4DQlEQFqhyEpYJKygE8KqElFZTVI4rcAVNLE0+R1qE5z2heK0SNE/xjitNHSc1tfiBKcNGadFiutPPt1Whn5rGcwu8U5t533IfyJ/ui3G1ed+ui2OB7G/M9Kvm7XO+XRbHPf7f7otjvMDGI8A26IN6RPYljZsi3ifrvpb2Hqo2+jDtkgtMvqwLVEZqcG2RFWkDdviixll2BZfzWjCtvg6xgO2xdc1orAtmpBxgG2JZrM0YVuisZU+bIsvZ1RhW6JKxh22JZsBhw/bEvU/ddiWaPJLFbYlqiRV2JaokrRhW3wxIwzbEhUzBNgWxd9kYVsUi8nDtl8l63DtH+6H0+rRgUw+rjS4t0e/vPJ/FduuaG8lD9tKakFQNVlmMa+qrKARBFr5IgvyOFyQNUEslrpg2+wlsK0g6kQSiMiKUpFnBUkosCoq8ayiySVENFVUi9oEtk1g25cJ2yJF/xjDNmnosK2vxQlsGzJsixTXq1m5E/n0gRQ70G+qyDyPtl358k7cdnUf4vI2E52yLlTe5m1XF9ACbld3fxDzEZBbtIF9gtzSRm4R71Nc5DbGXxUZqUVGH7klKiM15JaoirSRW3wxo4zc4qsZTeQWX8d4ILf4ukYUuUUTMg7ILdFsliZySzS20kdu8eWMKnJLVMm4I7dkM+DwkVui/qeO3BJNfqkit0SVpIrcElWSNnKLL2aEkVuiYobwVZFR/E0WuUWxmDxyOzh+9evKyi+vVWz/9srbeVv8pSy/efW7+RGdfobPthVURSgIoI5DJVbieYnVRa7I6gomHKcVNU3p/qrIuUtwm6SJvKhDSwmyJLJCUeVYJHMSq0kqrxNNKymKPMFtE9z2ZeK2SNE/xrhNHjpu62txgtuGjNsixfVq9sdLeM+RQ5ALo5xzHnAboIJO5DaIHzez0pWgG1toY7dBZLTA2yAiBnMhAnyLNsxP4Fva8C3iffongm+RWmT04VuiMlKDb4mqSBu+xRczyvAtvprRhG/xdYwHfIuva0ThWzQh4wDfEs1macK3RGMrffgWX86owrdElYw7fEs2Aw4fviXqf+rwLdHklyp8S1RJqvAtUSVpw7f4YkYYviUqZgifd4vib7LwLYrF5OHba5dTdkT1w/o7Hh87Ndv/VskN5XBvT/31jSskD+AETiGCxmssUXWNLfAllcUYqawucYJAJFkWIBA6Adz1SwAcr2OdkxSJlXjMs0JJklhVKAkshubkSnpBRyKZALgJgPsyAVyk6B9jAKcMHcD1tTgBcEMGcJHiejX74hLqc2xohHndcD36/3MY3GB1dGK4Ab25Monj2yRuQDEtGDeglIEdiYDkog38EySXNpKLeJ/+iX7fW6QWGX0kl6iM1JBcoirSRnLxxYwykouvZjSRXHwd44Hk4usaUSQXTcg4ILlEs1maSC7R2EofycWXM6pILlEl447kks2Aw0dyifqfOpJLNPmliuQSVZIqkktUSdpILr6YEUZyiYoZApKL4m+ySC6KxeSR3IcDSa5s7q/92dja/7CilN6evHlXK/32wf8SytP1z/AVlJqk6BIvsSXEY5boksaKXKHAYqSUVF7UVVGVupBcsFmCb9//iv7t/Ixc86e/7x7uOU/7X4qkcBo0J2FFWS2wAlcqsjInEpZXsCQKmlTgBTGfjQopWljLb4ZMB/vpIAELuzaDkYcY3W5YONy4n83idcODtvL36im2gYZgzuzGU4cwLiH+b8bBNnGtpx5DPkJ0M7bDGB7jkA8NeufoTBemGT77gUubm08q0W2ogXY2qGEpIA8zTVfur8JK2iMMYsItLsbf42r59M6nX81zVeQylg8OqG/wz4F+vsQwPnLykwD1qdYwPaNGsIFAimM3KlU4aZHTbhNL+LPfhenzBULqOk863TYIbttcO1ngT3dkp/PXqDeCKhWJQhQwr0BHFEsai2QasCVZ0xVRFTWOa28Vx77omzBm/Xvx/5Z/apiMZiLXffFgA3kbtg1pYodYDcaEcGANC6aY5MHLn0yjWcqlq3HtAePYJnnxALpWgzIRKIKYqkP0Fw+WaWp+0CxukhNiFh683ISDPy2jlx32/FM806zQQzAjxOTjiwdcZ+0qcq5gH4YGCCiXYPaEWNh23G6H+Acvt8MCzHFQwHcOLoMfDTN8Fcfqn7ZhsXWEe5S/3tvaHZLypg/Ltn/fOjaMoa/0tMCeX6iTRLTb4EpWiWlUDNUwYXyW5B5z6+2zzBPmNVzEbFm6PWi7184gSdE84ZCANvfcgP3g/JDuQY8/7SM9TbJzxnQ6N7h2OOI21N5gB0OHcLwJGdzkzNUd4wRpZ/2l+aeYQ+JRrpyg0fAJhL46w8cWErQWPqjR19pOeC4pa25zbtT3FjZPDtpnkAqr155+UqZHmTfukDqK70Twsydt8k1v9pfKS2tLV2vdwADUDfMN+gxKj4mgcmYzOD2IEcPyZ9e0byHTJIhixapR77G41VmO2W4VHFBgl3l/Bui/Pk9wtxcbrfKDeEGbsDdoQ4PhSHNIywxixCF12wHflVKPpSOY4R6EpwdqTZj2uo5t13q10DPMAZwarH67Bm1h0ZjvzSj7zbNh4F8xrwSmmnfYoItneH3SJ4XtNqNgq11o4BGZ1NR+8Q8pZqd1alijccugP03p0e9PQ/arBlM261XErBHTQ1fM5W1L7ZcqsYhu9BuoWkWYlbDMwGaD38jam0i33+zsbg1cu4l6Z5Db5bcD1wsdrl/V+wfrbBLVw8KVdW3NIN4Za+v+I0Qm6rMcoPnjMCjH7On+wya03ODybJhcG316Xpga98PzAxviuYLsPxMCa3KL9FFIC/gPJz1p/n7c4Emkt0H5RByom8FjKf2NQwZlqQPn2L1atunYHuxJN6vtc0PKN52blTATONc52i9Nk/nUwUHU+/Pi8835U+MErTWnrHadwCrOafQOmHtwBmYXcGpwa1rw1FevrPBxsAQEYZgGOgasHChV67Gz1jw7uCFYi7P++d7BSIV84A6wWOpnhj9nFup32vWPzZfMXp3OnhKLj7oDqzBDIyyiX0bSZ6YTnGbK9PSgScAKftN3TwJYaz5/fjU9UIv16eANta77h4eUUQIfljVkEpimOz0N+aau0Tljhenw6opCw7EYVtc6rEgtrc98PhiVmdW93Y31g/Xd1fWB7IGxmq29h46FzH6TC2Znb/UX5uhgq7zNwAiiDGTMbYC8GtHshkMn3xiduyBcK//OlI+Yo8115s3S4RJz+AZ076yD6jcHRwP5AE1LX8CUm+d4rsf+ytb67i4VC+17vL57tLW3y9CCA+qu1QyPNl9vE6+X19YPDje39kHjzs7W0SetfLXOCI3LnrcIhd7zyXrz8/egbn8uyIv+lsPV2vocG73DCDqjH2Z4ZZxAl03UVLHXFizsvL57RfQVztxtM6zgw0OZAAr8z8xPwU4hA6Ou4xLvxYOGp7Pyg5ePnj19uLO/YnueXaOQ4OnzJVSHUR4f2c+eLsFB/9jfF+YfPWs9gcc8X6JPVp490xuWRj1+9pz5H7TE06Vu4PCSgVZ4ySColCCt2lHeL04/fvF8qQ6jieU9A7sYr1K57WKMHy2MX7tDvIZjMQ8sdMI+YL5nmpdrVcPEUMOzp9QMffTpGXUPpq0aebbMLFd+ePq048ATOPDgARX0n8//zvxn+OKn5aB5XgYPhYUE59vWy/8GHaJPpjJMAQA=" />
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="" />
+</div>
+
+<script type="text/javascript">
+//<![CDATA[
+var theForm = document.forms['MasterPageForm'];
+if (!theForm) {
+    theForm = document.MasterPageForm;
+}
+function __doPostBack(eventTarget, eventArgument) {
+    if (!theForm.onsubmit || (theForm.onsubmit() != false)) {
+        theForm.__EVENTTARGET.value = eventTarget;
+        theForm.__EVENTARGUMENT.value = eventArgument;
+        theForm.submit();
+    }
+}
+//]]>
+</script>
+
+
+<script src="https://ajax.aspnetcdn.com/ajax/4.6/1/WebForms.js" type="text/javascript"></script>
+<script type="text/javascript">
+//<![CDATA[
+window.WebForm_PostBackOptions||document.write('<script type="text/javascript" src="/WebResource.axd?d=pynGkmcFUV13He1Qd6_TZKrTEgnAJ6IBPdiINmN0V5qZyDfVq0Wrp10YlHgakruiDZtd4Q2&amp;t=636776545224055265"><\/script>');//]]>
+</script>
+
+
+
+<script type="text/javascript">
+//<![CDATA[
+$(document).ready(function () { 
+                                            hl_common_util_attach_dropdown_config('ManageDropdownMainCopy_ctl11_rptDocuments_AuthorImage_0_ProfileImage_0_ManageDropDown_0636848967860876597',false,'text-left');
+                                        });$(document).ready(function () { 
+                                            hl_common_util_attach_dropdown_config('ManageDropdownMainCopy_ctl11_rptDocuments_AuthorImage_1_ProfileImage_1_ManageDropDown_1636848967860876597',false,'text-left');
+                                        });$(document).ready(function () { 
+                                            hl_common_util_attach_dropdown_config('ManageDropdownMainCopy_ctl11_rptDocuments_AuthorImage_2_ProfileImage_2_ManageDropDown_2636848967860876597',false,'text-left');
+                                        });$(document).ready(function () { 
+                                            hl_common_util_attach_dropdown_config('ManageDropdownMainCopy_ctl11_rptDocuments_AuthorImage_3_ProfileImage_3_ManageDropDown_3636848967860876597',false,'text-left');
+                                        });$(document).ready(function () { 
+                                            hl_common_util_attach_dropdown_config('ManageDropdownMainCopy_ctl11_rptDocuments_AuthorImage_4_ProfileImage_4_ManageDropDown_4636848967860876597',false,'text-left');
+                                        });$(document).ready(function () { 
+                                            hl_common_util_attach_dropdown_config('ManageDropdownMainCopy_ctl11_rptDocuments_AuthorImage_5_ProfileImage_5_ManageDropDown_5636848967861032865',false,'text-left');
+                                        });$(document).ready(function () { 
+                                            hl_common_util_attach_dropdown_config('ManageDropdownMainCopy_ctl11_rptDocuments_AuthorImage_6_ProfileImage_6_ManageDropDown_6636848967861032865',false,'text-left');
+                                        });$(document).ready(function () { 
+                                            hl_common_util_attach_dropdown_config('ManageDropdownMainCopy_ctl11_rptDocuments_AuthorImage_7_ProfileImage_7_ManageDropDown_7636848967861032865',false,'text-left');
+                                        });$(document).ready(function () { 
+                                            hl_common_util_attach_dropdown_config('ManageDropdownMainCopy_ctl11_rptDocuments_AuthorImage_8_ProfileImage_8_ManageDropDown_8636848967861032865',false,'text-left');
+                                        });$(document).ready(function () { 
+                                            hl_common_util_attach_dropdown_config('ManageDropdownMainCopy_ctl11_rptDocuments_AuthorImage_9_ProfileImage_9_ManageDropDown_9636848967861032865',false,'text-left');
+                                        });//]]>
+</script>
+
+<script src="https://ajax.aspnetcdn.com/ajax/4.6/1/MenuStandards.js" type="text/javascript"></script>
+<script src="https://ajax.aspnetcdn.com/ajax/4.6/1/WebUIValidation.js" type="text/javascript"></script>
+<script src="https://ajax.aspnetcdn.com/ajax/4.6/1/MicrosoftAjax.js" type="text/javascript"></script>
+<script type="text/javascript">
+//<![CDATA[
+(window.Sys && Sys._Application && Sys.Observer)||document.write('<script type="text/javascript" src="/ScriptResource.axd?d=uHIkleVeDJf4xS50Krz-yI126qQ3MvbDm3cE_zYEVmzoJ75OvveNdz8qLpL8n-ZwTQTtMnNj2Xi82coXUoUdd2VZYv7wlXep2xTYkxwnUvNmzQ-06-nXm5zF0koc2oEAU_KywcXONr7Vw42XotQ07fJ09481&t=ffffffff999c3159"><\/script>');//]]>
+</script>
+
+<script src="https://ajax.aspnetcdn.com/ajax/4.6/1/MicrosoftAjaxWebForms.js" type="text/javascript"></script>
+<script type="text/javascript">
+//<![CDATA[
+(window.Sys && Sys.WebForms)||document.write('<script type="text/javascript" src="/ScriptResource.axd?d=Jw6tUGWnA15YEa3ai3FadA3Y7gBZFmlYayNHZHyrg_532GoSDiUNT-H7Tt9F-w_iP3EuVWV-QarpAaHkdF6GowUqREtWboBJ4ZNQRaLx3VaVpKX7KL2Wb7h8WyPqfGuH3QJchahlDJWILnJDCB8LQvq5Buo1&t=ffffffff999c3159"><\/script>');function WebForm_OnSubmit() {
+null;if (typeof(ValidatorOnSubmit) == "function" && ValidatorOnSubmit() == false) return false;
+return true;
+}
+//]]>
+</script>
+
+<div class="aspNetHidden">
+
+	<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="8cfceS2zU5EkPHTa8DCmVZFMCXXlEoB567oRgXmixM7RZUMw/tF3O/dwGkEnJ9RSOkLxuJKs2/uSV5k0IhzcNLFPS3XbcfdItPHfryQSQEXgF9SAQuDHMl0Oj7ke9aNE2pkvSRKz4FYHKogOc9BV7IS7H/rTRaqAoU1J2lI29kCaW388HBgJEHRPUAyjCHYNwfn65i6g76EXkyPmxNjHUc14P1BPr2/2ktmzkwCo/ytWRRBC1xAeOsKxrRQN58oIP/TJPELZ/F1w7ZtdKXwd/jLIhmXTwnja+AkSyKZi5TJ+QX7Qo8c53vhDbhQJPEHCoo159o9zjKQPuHL2Gj70lUW/ie3H5bfPfsHuM1cd3pufQ8mhF2YLQHlnpK9UZ3cxT+SHDPSOc70jxsnNOA9mgQkSivnFxDqZNYNriOOCsE16V+lF8Ro4yeA66WVR06SySv+qte791iYF8PVDrWOXWWSTDZmFeUAYj2W+/dj/dakGY1JwRxOW8BSK6oOXynCrRGfONK5iUfaYaLjcrTQL+eRPqJJBcwrFrJJrQLx9r0sL37GPksKP7pBEJDYFemnz5njy7Br1Qs5NF7xLXOKlnXh6oVgj8Ng19uihx5RB48hbW2og08qK0eWF/9gRE2Z8xqL3L5xxv5mgynUM/BMEm8f8nqJHMxce1bAN1BKaIZ5nLixOrecqdw3e5niGq6wl82vNvw==" />
+</div>
+             <input name="__HL-RequestVerificationToken" type="hidden" value="dOTInjkUHxpXoGNfKwDYP6ClgMxgx8H7rUYvQAYjyG68pHcw-8m-3SkJDsRNXbQlgrD5OdjxcRUnk1wZkfzFPMIXCV81" />
+        
+            
+            <div id="GlobalMain">
+                <script type="text/javascript">
+//<![CDATA[
+Sys.WebForms.PageRequestManager._initialize('ctl00$ScriptManager1', 'MasterPageForm', ['tctl00$MainCopy$ctl11$rptDocuments$ctrl0$documentItemRating$CommentPanel','MainCopy_ctl11_rptDocuments_documentItemRating_0_CommentPanel_0','tctl00$MainCopy$ctl11$rptDocuments$ctrl1$documentItemRating$CommentPanel','MainCopy_ctl11_rptDocuments_documentItemRating_1_CommentPanel_1','tctl00$MainCopy$ctl11$rptDocuments$ctrl2$documentItemRating$CommentPanel','MainCopy_ctl11_rptDocuments_documentItemRating_2_CommentPanel_2','tctl00$MainCopy$ctl11$rptDocuments$ctrl3$documentItemRating$CommentPanel','MainCopy_ctl11_rptDocuments_documentItemRating_3_CommentPanel_3','tctl00$MainCopy$ctl11$rptDocuments$ctrl4$documentItemRating$CommentPanel','MainCopy_ctl11_rptDocuments_documentItemRating_4_CommentPanel_4','tctl00$MainCopy$ctl11$rptDocuments$ctrl5$documentItemRating$CommentPanel','MainCopy_ctl11_rptDocuments_documentItemRating_5_CommentPanel_5','tctl00$MainCopy$ctl11$rptDocuments$ctrl6$documentItemRating$CommentPanel','MainCopy_ctl11_rptDocuments_documentItemRating_6_CommentPanel_6','tctl00$MainCopy$ctl11$rptDocuments$ctrl7$documentItemRating$CommentPanel','MainCopy_ctl11_rptDocuments_documentItemRating_7_CommentPanel_7','tctl00$MainCopy$ctl11$rptDocuments$ctrl8$documentItemRating$CommentPanel','MainCopy_ctl11_rptDocuments_documentItemRating_8_CommentPanel_8','tctl00$MainCopy$ctl11$rptDocuments$ctrl9$documentItemRating$CommentPanel','MainCopy_ctl11_rptDocuments_documentItemRating_9_CommentPanel_9'], [], [], 90, 'ctl00');
+//]]>
+</script>
+
+                
+            </div>
+            <!--mp_base--><div id="GlobalMessageContainer">
+												<div id="GlobalMessageContent" >
+													<img ID="GlobalMsg_Img" alt="Message Image" src=""/>&nbsp;&nbsp;
+													<span id="GlobalMsg_Text"></span><br /><br />
+												</div>
+										</div>
+            
+            
+            
+            
+            
+            
+            <div id="MPOuterHeader" class="row siteFrame">
+                <div class="col-md-12">
+                    <div id="HEADER" class="row">
+                        <div class="col-md-12">
+                            
+                            
+                            <div id="MPimage" class="MPimage">
+                                <div id="mainskiplinkholder" class="skiplinkholder"><a id="skiplink" href="#MPContentArea">Skip to main content (Press Enter).</a></div>
+                                <div id="MPheader" class="MPheader">
+                                    <div class="row">
+                                        <div class="col-md-12">
+                                            
+                                            <div class="pull-right">
+                                                <div class="inline">
+                                                    
+
+<div class='HLWelcome HLWelcomeHeader'>
+
+    <script type="text/javascript">
+        
+        $(document).ready(function () {
+            $('.Picture_Profile').tipTip({ delay: 200 });
+        });
+
+        function toggleHelp() {
+            
+            if ($("ul#CompleteBarHelpContainer").is(":visible")) {
+                $("ul#CompleteBarHelpContainer").hide();
+            } else {
+                $("ul#CompleteBarHelpContainer").show();
+            }
+        }
+
+        $("span.CompleteBarClose").live('click', function (e) {
+
+            e.stopPropagation();
+            toggleHelp();
+            $(".btn-group").find('button#BtnShowProfile').dropdown('toggle');
+        });
+
+    </script>
+
+    
+
+    
+    <div class="EndDiv">
+    </div>
+    <div id="Welcome_NotLoggedIn" class="Login">
+	
+        <a id="Welcome_LoginLink" class="btn btn-primary" href="/higherlogic/security/YourMembershipLogin.aspx?ReturnUrl=https%3a%2f%2fwww.pad.org%2fcommunities%2fcommunity-home%2flibrarydocuments%3fLibraryKey%3ddc9cc7b6-81f6-4a84-a55c-a52176c73cbd%26LibraryFolderKey%3dbb39ab7b-8016-4600-8754-d9403d37f298%26page%3d4">Sign in</a>
+    
+</div>
+</div>
+
+
+                                                </div>
+                                            </div>
+                                            
+                                            <div class="pull-right">
+                                                <div id="auxskiplinkholder" class="skiplinkholder">
+                                                    <a id="auxskiplink" href="#Logo">Skip auxiliary navigation (Press Enter).</a>
+                                                </div>
+                                                <div id="MPAuxNav" class="inline vertical-align-middle">
+                                                    <div CssSelectorClass="MPAuxNav" id="AuxMenu">
+	<ul class="level1">
+		<li><a title="Read the code of conduct for posting to the lists" class="level1 MPAuxNav" href="/codeofconduct">Code of Conduct</a></li><li><a title="How to get in contact with us" class="level1 MPAuxNav" href="/contactus">Contact Us</a></li><li><a class="level1 MPAuxNav" href="/help">Help</a></li><li><a class="level1 MPAuxNav" href="/new-item">Online Store</a></li>
+	</ul>
+</div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    
+                                    <div id="Logo" class="row" role="banner">
+                                        <div class="col-md-12">
+                                            <div id="DesktopLogoDiv" class="LogoImg inline">
+                                                <a href='https://www.pad.org/home' style=''>
+                                                    <img class="img-responsive" src='https://higherlogicdownload.s3.amazonaws.com/PAD/4b73e9e9-0092-456c-a827-668cf95b5c00/UploadedImages/logos/crest_sigsm.png' alt="Phi Alpha Delta Law Fraternity, International" /></a>
+                                            </div>
+                                            
+                                            <div class="SloganText inline"><font face="arial"><font size="4"><strong>Phi Alpha Delta<br>Law Fraternity, International</strong>Service to the student, the school, the profession and the community.</font></div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            <div style="clear: both"></div>
+                            
+                            
+                        </div>
+                    </div>
+                    <div id="NAV" class="row traditional-nav">
+                        <div class="col-md-12">
+                            
+                                <div id="navskiplinkholder" class="skiplinkholder"><a id="navskiplink" href="#MPContentArea">Skip main navigation (Press Enter).</a></div>
+                                <div id="MPButtonBar">
+                                    <nav class="navbar navbar-default">
+                                        <div class="navbar-header">
+                                            <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-ex1-collapse">
+                                                <span class="sr-only">Toggle navigation</span>
+                                                <span class="icon-bar"></span>
+                                                <span class="icon-bar"></span>
+                                                <span class="icon-bar"></span>
+                                            </button>
+                                        </div>
+                                        <div class="collapse navbar-collapse navbar-ex1-collapse">
+                                            <div class="row">
+                                                <div class="col-md-12 ">
+                                                    <div id="searchColumn" class="pull-right">
+                                                        <div id="MPSearchBlock" role="search">
+                                                            
+<script type="text/javascript">
+
+    $(document).ready(function () {
+
+        $('#SearchControl_SearchOptions').click(function (e) {
+            e.stopPropagation();
+        });
+
+        $('#SearchControl_SearchButton').click(function () {
+            $('#SearchControl_hiddenSearchButton').click();
+        });
+
+        if ('True' == 'True') {
+
+            if ($('#SearchControl_DateRangeDDL').find(":selected").text() == 'on this day') {
+                $('#SearchControl_EndDate').hide();
+            }
+            else {
+                $('#SearchControl_EndDate').show();
+            }
+
+            $('#SearchControl_SearchTerm').focus(function () {
+                $('#SearchControl_SearchOptions').show();
+            });
+
+            $('#SearchControl_DateRangeDDL').change(function () {
+                if ($('#SearchControl_DateRangeDDL').find(":selected").text() == 'on this day') {
+                    $('#SearchControl_EndDate').hide();
+                    $('#SearchControl_EndDate').val("");
+                }
+                else {
+                    $('#SearchControl_EndDate').show();
+                }
+            });
+        }
+
+        $('#SearchControl_SearchInputs')
+            .hl_ui_common_searchBox({
+                controlId: 'SearchControl_SearchInputs',
+                inputId: 'SearchControl_SearchTerm',
+                buttonId:  'SearchControl_hiddenSearchButton'
+            });
+    });
+
+</script>
+<div class=''>
+    <div id="SearchControl_SearchInputs" class="SearchInputs">
+	
+        <div id="SearchControl_WholeSearch" onkeypress="javascript:return WebForm_FireDefaultButton(event, &#39;SearchControl_hiddenSearchButton&#39;)">
+		
+            <div class="input-group" style="vertical-align: middle">
+                <input name="ctl00$SearchControl$SearchTerm" type="text" id="SearchControl_SearchTerm" class="form-control" autocomplete="off" aria-label="search box" placeholder="search" Title="search" />
+                <div class="input-group-btn">
+                    <button id="SearchControl_SearchButton" type="button" class="btn btn-default  " role="button" aria-label="search">
+                        <span class="glyphicon glyphicon-search" style="vertical-align: middle"></span>
+                        
+                    </button>
+                    
+                    <ul class="dropdown-menu pull-right" role="menu">
+                        <li>
+                            <div id="SearchControl_SearchOptions" class="SearchOptions">
+                                
+                                <div class="form-group">
+                                    <div id="SearchControl_ContentTypeDiv" class="col-sm-4 col-md-4">
+                                        <label for="SearchControl_ProductList" id="SearchControl_Label1">Content types</label>
+                                        <br />
+                                        <span id="SearchControl_ProductList" class="checkbox"><input id="SearchControl_ProductList_0" type="checkbox" name="ctl00$SearchControl$ProductList$0" checked="checked" value="Announcement" /><label for="SearchControl_ProductList_0">Announcements</label><br /><input id="SearchControl_ProductList_1" type="checkbox" name="ctl00$SearchControl$ProductList$1" checked="checked" value="Blog" /><label for="SearchControl_ProductList_1">Blogs</label><br /><input id="SearchControl_ProductList_2" type="checkbox" name="ctl00$SearchControl$ProductList$2" checked="checked" value="Community" /><label for="SearchControl_ProductList_2">Communities</label><br /><input id="SearchControl_ProductList_3" type="checkbox" name="ctl00$SearchControl$ProductList$3" checked="checked" value="Egroup" /><label for="SearchControl_ProductList_3">Discussions</label><br /><input id="SearchControl_ProductList_4" type="checkbox" name="ctl00$SearchControl$ProductList$4" checked="checked" value="CalendarEvent" /><label for="SearchControl_ProductList_4">Events</label><br /><input id="SearchControl_ProductList_5" type="checkbox" name="ctl00$SearchControl$ProductList$5" checked="checked" value="Glossary" /><label for="SearchControl_ProductList_5">Glossary</label><br /><input id="SearchControl_ProductList_6" type="checkbox" name="ctl00$SearchControl$ProductList$6" checked="checked" value="Navigation" /><label for="SearchControl_ProductList_6">Site Content</label><br /><input id="SearchControl_ProductList_7" type="checkbox" name="ctl00$SearchControl$ProductList$7" checked="checked" value="Library" /><label for="SearchControl_ProductList_7">Libraries</label></span>
+                                    </div>
+                                    <div id="SearchControl_DateRangeDiv" class="col-sm-4 col-md-4">
+                                        <span id="SearchControl_DateRange">Date range</span><br />
+                                        <br />
+                                        <select name="ctl00$SearchControl$DateRangeDDL" id="SearchControl_DateRangeDDL" class="form-control">
+			<option value="on this day">on this day</option>
+			<option value="between these dates">between these dates</option>
+
+		</select><br/><br/>
+                                        <div id="SearchControl_StartDate" class="form-input">
+			
+    <div id="SearchControl_StartDate_dateTimePicker" class="input-group date">
+				
+        <input name="ctl00$SearchControl$StartDate$ucTextBox" type="text" id="SearchControl_StartDate_ucTextBox" title="date" class="form-control" placeholder="date" />
+        <span class="input-group-addon">
+            <span class="glyphicon glyphicon-calendar"></span>
+        </span>
+    
+			</div>
+    <span id="SearchControl_StartDate_RangeValidator1" class="control-label text-danger" style="display:none;">Not a valid date</span>
+    
+
+		</div>
+
+<script type="text/javascript">
+    $(document).ready(function () {
+        initializeDateTimePicker_ctl00$SearchControl$StartDate();
+
+        if (Sys.WebForms.PageRequestManager != null) // This is for when the control is inside UpdatePanel.
+            Sys.WebForms.PageRequestManager.getInstance().add_endRequest(EndRequestFunction);
+
+        function EndRequestFunction(sender, args) {
+            initializeDateTimePicker_ctl00$SearchControl$StartDate();
+        }
+
+    });
+
+    var DateTimePicker_ctl00$SearchControl$StartDate = null;
+
+    function initializeDateTimePicker_ctl00$SearchControl$StartDate() {
+
+        $(function () {
+
+            var datetimeOpts = {
+                pickTime: false,showToday: true, onSelect: function(dateText, inst) { $(this).find('input:first').blur().change().focus();},onClose: function(dateText, inst) { $(this).find('input:first').blur().change().focus();},icons: { time: 'glyphicon glyphicon-time', date: 'glyphicon glyphicon-calendar', up: 'glyphicon glyphicon-chevron-up', down: 'glyphicon glyphicon-chevron-down' }
+            };
+
+            DateTimePicker_ctl00$SearchControl$StartDate = $('#SearchControl_StartDate_dateTimePicker').datetimepicker(datetimeOpts);
+
+            $('#SearchControl_StartDate_dateTimePicker').on("dp.hide", function(e) {
+
+                // WARNING: If the hide event is enabled, Make sure that you are showing BOTH the
+                // date and time picker. When the time picker is not used, the Bootstrap
+                // date time picker will auto hide the date picker when you select a date.
+                // This will trigger the date time picker change event which in turn triggers
+                // the hide event IF ShowPickTime is FALSE. This will create an infinite loop
+                
+
+
+               $('#SearchControl_StartDate_ucTextBox').focus();
+            });
+
+            
+
+        });
+    }
+</script>
+                                        <div id="SearchControl_EndDate" class="form-input">
+			
+    <div id="SearchControl_EndDate_dateTimePicker" class="input-group date">
+				
+        <input name="ctl00$SearchControl$EndDate$ucTextBox" type="text" id="SearchControl_EndDate_ucTextBox" title="end date" class="form-control" placeholder="end date" />
+        <span class="input-group-addon">
+            <span class="glyphicon glyphicon-calendar"></span>
+        </span>
+    
+			</div>
+    <span id="SearchControl_EndDate_RangeValidator1" class="control-label text-danger" style="display:none;">Not a valid date</span>
+    
+
+		</div>
+
+<script type="text/javascript">
+    $(document).ready(function () {
+        initializeDateTimePicker_ctl00$SearchControl$EndDate();
+
+        if (Sys.WebForms.PageRequestManager != null) // This is for when the control is inside UpdatePanel.
+            Sys.WebForms.PageRequestManager.getInstance().add_endRequest(EndRequestFunction);
+
+        function EndRequestFunction(sender, args) {
+            initializeDateTimePicker_ctl00$SearchControl$EndDate();
+        }
+
+    });
+
+    var DateTimePicker_ctl00$SearchControl$EndDate = null;
+
+    function initializeDateTimePicker_ctl00$SearchControl$EndDate() {
+
+        $(function () {
+
+            var datetimeOpts = {
+                pickTime: false,showToday: true, onSelect: function(dateText, inst) { $(this).find('input:first').blur().change().focus();},onClose: function(dateText, inst) { $(this).find('input:first').blur().change().focus();},icons: { time: 'glyphicon glyphicon-time', date: 'glyphicon glyphicon-calendar', up: 'glyphicon glyphicon-chevron-up', down: 'glyphicon glyphicon-chevron-down' }
+            };
+
+            DateTimePicker_ctl00$SearchControl$EndDate = $('#SearchControl_EndDate_dateTimePicker').datetimepicker(datetimeOpts);
+
+            $('#SearchControl_EndDate_dateTimePicker').on("dp.hide", function(e) {
+
+                // WARNING: If the hide event is enabled, Make sure that you are showing BOTH the
+                // date and time picker. When the time picker is not used, the Bootstrap
+                // date time picker will auto hide the date picker when you select a date.
+                // This will trigger the date time picker change event which in turn triggers
+                // the hide event IF ShowPickTime is FALSE. This will create an infinite loop
+                
+
+
+               $('#SearchControl_EndDate_ucTextBox').focus();
+            });
+
+            
+
+        });
+    }
+</script>
+                                    </div>
+                                    <div id="SearchControl_PostedByDiv" class="col-sm-4 col-md-4">
+                                        <span id="SearchControl_PostedBy">Posted by</span><br />
+                                        <br />
+                                        <input name="ctl00$SearchControl$FirstName" type="text" id="SearchControl_FirstName" class="form-control" placeholder="first name" title="first name" /><br />
+                                        <input name="ctl00$SearchControl$LastName" type="text" id="SearchControl_LastName" class="form-control" placeholder="last name" title="last name" /><br />
+                                        <input name="ctl00$SearchControl$CompanyName" type="text" id="SearchControl_CompanyName" class="form-control" placeholder="company" title="company" /><br />
+                                        <input name="ctl00$SearchControl$EmailAddress" type="text" id="SearchControl_EmailAddress" class="form-control" placeholder="email address" title="email address" />
+                                    </div>
+                                </div>
+                            </div>
+                        </li>
+                    </ul>
+                </div>
+                <input type="submit" name="ctl00$SearchControl$hiddenSearchButton" value="" onclick="javascript:WebForm_DoPostBackWithOptions(new WebForm_PostBackOptions(&quot;ctl00$SearchControl$hiddenSearchButton&quot;, &quot;&quot;, true, &quot;&quot;, &quot;&quot;, false, false))" id="SearchControl_hiddenSearchButton" style="display: none;" />
+            </div>
+        
+	</div>
+    
+</div>   
+</div>
+
+                                                        </div>
+                                                    </div>
+                                                    <ul class="nav navbar-nav">
+                                                        <li class='dropdown'><a href='/home' class='dropdown-toggle' data-toggle='dropdown'><span>Home</span> <strong class='caret'></strong></a><ul class='dropdown-menu'><li ><a href='/home/licensed-vendors' >Licensed Vendors</a></li></ul></li><li class='dropdown'><a href='/join-pad' class='dropdown-toggle' data-toggle='dropdown'><span>JOIN</span> <strong class='caret'></strong></a><ul class='dropdown-menu'><li ><a href='/join-pad/onlineapplicationnew' >Online Application</a></li><li ><a href='/join-pad/eligibility78' >Eligibility & Join Info</a></li></ul></li><li class='dropdown'><a href='/myprofileredirect' class='dropdown-toggle' data-toggle='dropdown'><span>Profile</span> <strong class='caret'></strong></a><ul class='dropdown-menu'><li ><a href='/myprofileredirect/myprofile' >My Profile</a></li><li ><a href='/myprofileredirect/mysubs' >My Subscriptions</a></li><li ><a href='/myprofileredirect/myprivacy' >My Privacy Settings</a></li><li ><a href='/myprofileredirect/mycontacts' >My Contacts</a></li><li ><a href='/myprofileredirect/mymessages' >My Messages</a></li><li ><a href='/myprofileredirect/signature' >My Signature</a></li></ul></li><li class='dropdown'><a href='/about' class='dropdown-toggle' data-toggle='dropdown'><span>About Us</span> <strong class='caret'></strong></a><ul class='dropdown-menu'><li ><a href='/about/aboutpad' >About P.A.D.</a></li><li ><a href='/about/padhistory' >P.A.D. History</a></li><li ><a href='/about/internationalleadership' >International Leadership</a></li><li ><a href='/about/padinternationalfoundation' >P.A.D. International Foundation</a></li><li ><a href='/about/store' >P.A.D. Online Store</a></li><li ><a href='/about/reporter96' >The Reporter</a></li><li class='dropdown-submenu'><a href='/about/pressroom' >Press Room <strong class='caret'></strong></a><ul class='dropdown-submenu'><li ><a href='/about/pressroom/officialimages' >Official Images</a></li></ul></li><li ><a href='/about/prominentpads' >Prominent P.A.D.s</a></li><li class='dropdown-submenu'><a href='/about/nationalinitiatives' >National Initiatives <strong class='caret'></strong></a><ul class='dropdown-submenu'><li ><a href='/about/nationalinitiatives/onwednesdayswewearpurple979' >#OnWednesdaysWeWearPurple</a></li><li ><a href='/about/nationalinitiatives/wintercardexchange' >Holiday Card Exchange</a></li></ul></li></ul></li><li class='dropdown'><a href='/membership' class='dropdown-toggle' data-toggle='dropdown'><span>Membership</span> <strong class='caret'></strong></a><ul class='dropdown-menu'><li ><a href='/membership/join' >Join Phi Alpha Delta</a></li><li class='dropdown-submenu'><a href='/membership/membershipbenefits' >Membership Benefits <strong class='caret'></strong></a><ul class='dropdown-submenu'><li ><a href='/membership/membershipbenefits/powerscore' >PowerScore LSAT Prep</a></li><li ><a href='/membership/membershipbenefits/dcinternships' >DCInternships/TFAS</a></li></ul></li><li class='dropdown-submenu'><a href='/membership/alumni' >ALUMNI <strong class='caret'></strong></a><ul class='dropdown-submenu'><li ><a href='/membership/alumni/list-of-alumni-chapters' >List Of Alumni Chapters</a></li><li ><a href='/membership/alumni/pay-alumni-dues' >Pay My Alumni Dues</a></li></ul></li><li class='dropdown-submenu'><a href='/membership/law' >LAW <strong class='caret'></strong></a><ul class='dropdown-submenu'><li ><a href='/membership/law/list-of-law-school-chapters' >List Of Law School Chapters</a></li><li ><a href='/membership/law/downloads' >Downloads</a></li></ul></li><li class='dropdown-submenu'><a href='/membership/prelaw' >PRE-LAW <strong class='caret'></strong></a><ul class='dropdown-submenu'><li ><a href='/membership/prelaw/listofprelawchapters' >List of Pre-Law Chapters</a></li><li ><a href='/membership/prelaw/downloads' >Downloads</a></li><li ><a href='/membership/prelaw/seniortransition' >Senior Transition Program</a></li><li ><a href='/membership/prelaw/plrecruitmentchallenge' >Fall 2018 Recruitment Challenge</a></li></ul></li><li ><a href='/membership/the-society-of-scholars' >The Society Of Scholars</a></li><li ><a href='/membership/policies' >P.A.D. Policies</a></li><li ><a href='/membership/2018awardwinners' >2018 Law & Alumni Award Winners</a></li><li ><a href='/membership/2018plawards' >2018 Pre-Law Award Winners</a></li></ul></li><li class='dropdown'><a href='/communities' class='dropdown-toggle' data-toggle='dropdown'><span>Communities</span> <strong class='caret'></strong></a><ul class='dropdown-menu'><li ><a href='/communities/allcommunities' >All Communities</a></li><li ><a href='/communities/mycommunities' >My Communities</a></li><li ><a href='/communities/redirectopenforum' >Open Forum</a></li><li ><a href='/communities/chapters' >Chapters</a></li><li ><a href='/communities/districtslink' >Districts</a></li><li ><a href='/communities/new-item' >Job Postings</a></li><li ><a href='/communities/new-item2' >Internship/Externship Opportunities</a></li><li ><a href='/communities/practice-areas' >Practice Areas</a></li></ul></li><li ><a href='/network' ><span>Directory</span></a></li><li class='dropdown'><a href='/events' class='dropdown-toggle' data-toggle='dropdown'><span>Events</span> <strong class='caret'></strong></a><ul class='dropdown-menu'><li ><a href='/events/calendar' >Upcoming Events</a></li><li ><a href='/events/prelawconference' >PRE-LAW CONFERENCE</a></li><li ><a href='/events/lawmocktrial' >LAW MOCK TRIAL 2019</a></li><li ><a href='/events/supremecourtpadday' >P.A.D. DAY AT THE U.S. SUPREME COURT</a></li><li class='dropdown-submenu'><a href='/events/convention2020' >BIENNIAL CONVENTION 2020 <strong class='caret'></strong></a><ul class='dropdown-submenu'><li ><a href='/events/convention2020/grants' >Grants & Applications</a></li></ul></li><li ><a href='/events/summit2019' >LEADERSHIP SUMMIT 2019</a></li></ul></li><li class='dropdown'><a href='/pad-foundation' class='dropdown-toggle' data-toggle='dropdown'><span>Foundation</span> <strong class='caret'></strong></a><ul class='dropdown-menu'><li ><a href='/pad-foundation/new-item2' >About</a></li><li ><a href='/pad-foundation/new-item' >Day of Giving</a></li><li ><a href='/pad-foundation/new-item3' >Donate</a></li></ul></li>
+                                                    </ul>
+                                                </div>
+
+                                            </div>
+                                        </div>
+                                    </nav>
+                                </div>
+                                <div class="MenuBarUnderline">
+                                </div>
+                            
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div id="MPOuter" class="row siteFrame ">
+                
+                
+                <div id="ContentColumn" class="col-md-12">
+                    <!--content-->
+                    
+                    
+                    <div id="BreadCrumb" class="BreadCrumb">
+                        
+                    </div>
+                    <div id="MPContentArea" class="MPContentArea" role="main">
+	
+                        
+                        
+                        <h1 id="PageTitleH1" qa-attribute="PageTitleH1">
+                            Law School Chapter Downloads</h1>
+                        
+                        
+                        
+    <div id="MainCopy_ContentWrapper">       
+        <div class="row row-wide clearfix"><div class="col-md-12 column section1"><div class="ContentUserControl">
+
+	</div><div class="ContentUserControl">
+
+	</div><div class="ContentUserControl">
+
+	</div></div></div><div class="row row-wide clearfix"><div class="col-md-9 column section2"></div><div class="col-md-3 column section3"></div></div><div class="row row-last row-wide clearfix"><div class="col-md-12 column section4"><div class="ContentUserControl">
+		
+<div id="MainCopy_ctl11_DocumentPanel">
+			
+    <div class='row no-margin '>
+        <div class="col-md-12">
+            
+            <div class="Content">
+                <div class="row">
+                    <div class="col-md-4 margin-top-medium margin-bottom-medium">
+                        <div id="LibaryEntryCountDiv" class="text-muted">
+                            47 Entries
+                        </div>
+                    </div>
+                    <div class="col-md-8 text-right">
+                        <div class="form-inline">
+                            <div class="form-group">
+                                <div id="MainCopy_ctl11_LibraryViewSelect" class="row">
+				
+                                    <div class="col-md-12">
+                                        <div class="Content">
+                                            <a id="MainCopy_ctl11_SwitchToListView" title="Switch to List View" class="btn btn-default btn-sm" disabled="disabled" href="javascript:WebForm_DoPostBackWithOptions(new WebForm_PostBackOptions(&quot;ctl00$MainCopy$ctl11$SwitchToListView&quot;, &quot;&quot;, true, &quot;&quot;, &quot;&quot;, false, true))">
+                                                <i class="glyphicon glyphicon-th-list"></i>
+                                            </a>
+                                            <a id="MainCopy_ctl11_SwitchToFolderView" title="Switch to Folder View" class="btn btn-default btn-sm" href="javascript:WebForm_DoPostBackWithOptions(new WebForm_PostBackOptions(&quot;ctl00$MainCopy$ctl11$SwitchToFolderView&quot;, &quot;&quot;, true, &quot;&quot;, &quot;&quot;, false, true))">
+                                                <i class="glyphicon glyphicon-folder-open"></i>
+                                            </a>
+                                        </div>
+                                    </div>
+                                
+			</div>
+                            </div>
+                            &nbsp;
+                            <div id="MainCopy_ctl11_FilterTabContainer" class="form-group">
+                                <div class="row form-group">
+                                    <div class="col-md-12">
+                                        <div class="pull-right">
+                                            <select name="ctl00$MainCopy$ctl11$filterOptions" onchange="javascript:setTimeout(&#39;__doPostBack(\&#39;ctl00$MainCopy$ctl11$filterOptions\&#39;,\&#39;\&#39;)&#39;, 0)" id="MainCopy_ctl11_filterOptions" class="input-small">
+				<option selected="selected" value="?FileType=All">All</option>
+				<option value="?FileType=Document">Document</option>
+
+			</select>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            <div id="MainCopy_ctl11_SortTabContainer" class="form-group">
+                                <div class="row form-group">
+                                    <div class="col-md-12">
+                                        <div class="pull-right">
+                                            <select name="ctl00$MainCopy$ctl11$sortOptions" onchange="javascript:setTimeout(&#39;__doPostBack(\&#39;ctl00$MainCopy$ctl11$sortOptions\&#39;,\&#39;\&#39;)&#39;, 0)" id="MainCopy_ctl11_sortOptions" class="input-small">
+				<option selected="selected" value="?SortType=Recent">Most Recent</option>
+				<option value="?SortType=AtoZ">Title A-Z</option>
+				<option value="?SortType=ZtoA">Title Z-A</option>
+				<option value="?SortType=Viewed">Most Viewed</option>
+				<option value="?SortType=Scorer">Top Scorer</option>
+
+			</select>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            &nbsp;
+                            
+                        </div>
+                    </div>
+                </div>
+
+                <div class="row">
+                    <div class="col-md-12">
+                        
+                    </div>
+                </div>
+                <div id="MainCopy_ctl11_ListViewContent">
+				
+                    
+                            <div id="MainCopy_ctl11_rptDocuments_libListReptContainerDIV_0" class="row library-list">
+                                <div id="MainCopy_ctl11_rptDocuments_OwnerBlock_0" class="col-md-2 col-sm-2 text-center">
+					
+                                    
+<div class='row rlDetailListProfileImg '>
+    <div class="col-md-12">
+        
+        <div class="Content">
+            
+<div class=''>
+    
+    <div class="form-group">
+        <div class="col-md-12">
+            <div id="MainCopy_ctl11_rptDocuments_AuthorImage_0_ProfileImage_0_pnlProfileImage_0" biobubblekey="642a020a-c119-4b11-aaa3-e52588aff52f">
+						
+                
+                <a id="MainCopy_ctl11_rptDocuments_AuthorImage_0_ProfileImage_0_ProfileImageLink_0" href="https://www.pad.org/people/leslie-plummer"><img id="MainCopy_ctl11_rptDocuments_AuthorImage_0_ProfileImage_0_ProfileImage_0" src="https://www.pad.org/HigherLogic/directory/ImageDisplay.aspx?Key=619fe146-99fc-46dc-946f-bde49b000f05&amp;dt=516980280032" alt="" align="middle" /></a>
+            
+					</div>
+            <div visible="False" class="threadViewDetailsContainer">
+                <div id="MainCopy_ctl11_rptDocuments_AuthorImage_0_ProfileImage_0_DigitalRibbonBackground_0" class="digitalRibbonDisplay">
+                    <span></span>
+                </div>
+            </div>
+        </div>
+    </div>
+    
+    
+    
+</div>
+
+        </div>
+    </div>
+</div>
+
+                                
+				</div>
+                                <div id="MainCopy_ctl11_rptDocuments_NameBlock_0" class="col-md-10 col-sm-10">
+					
+                                    <div class="pull-right">
+                                        <div class="row">
+                                            <div class="col-md-12">
+                                                <span id="MainCopy_ctl11_rptDocuments_PostDateTime_0" class="pull-right text-muted timeAgoFormat">4 years ago</span>
+                                            </div>
+                                        </div>
+                                        <div class="row">
+                                            <div class="col-md-12">
+                                                <div id="MainCopy_ctl11_rptDocuments_documentItemRating_0_CommentPanel_0" class="CommentPanel ItemRatingCommentPanel">
+						
+        <script type="text/javascript">
+            function showLikesModal(itemkey, likeModalId, titleText) {
+
+                //find current div with contents, create container div above it
+                var itemKeySelector = "#" + itemkey;
+                var likeModalIdSelector = "#" + likeModalId;
+                if ($(itemKeySelector).html() == "") { return };
+                var div = $("<div title='" + titleText + "' id='" + itemkey + "'></div>");
+                $('body').append(div);
+                $(itemKeySelector).html($(likeModalIdSelector).html());
+
+                var buttonOpts = {};
+
+                buttonOpts['Close'] = function () {
+                    $(this).dialog("close");
+                };
+
+                //use dynamic container due to updatepanels
+                $(itemKeySelector).dialog({
+                    resizable: true,                 
+                    width: 500,
+                    modal: true, focus: function (type, data) {                    
+
+                        $(this).parent()
+                            .find(".ui-dialog-buttonset button").eq(0)
+                            .removeClass()
+                            .addClass("btn btn-default");                   
+
+                    },
+                    buttons: buttonOpts,
+                    open: function () {
+                        var closeBtn = $('.ui-dialog-titlebar-close');
+                        closeBtn.addClass('ui-button ui-widget ui-state-default ui-corner-all ui-button-icon-only ');
+                        if (closeBtn.find('span').length <= 0) {
+                            closeBtn.append('<span class="ui-button-icon-primary ui-icon ui-icon-closethick"></span><span class="ui-button-text">close</span>');
+                        }
+                    }
+
+                });
+
+                $(itemKeySelector).dialog('open');
+            }
+        </script>
+        
+        <div id="MainCopy_ctl11_rptDocuments_documentItemRating_0_likeRatingContainer_0" class="" style="margin-top:5px;">
+            <div id="MainCopy_ctl11_rptDocuments_documentItemRating_0_TotalRatingLikePanel_0">
+                <span id="MainCopy_ctl11_rptDocuments_documentItemRating_0_lblTotalLikes_0">2 people recommend this.</span>
+            </div>    
+            
+                        
+        </div>
+        <!-- Recommend button -->
+        
+        
+        <!-- End of Recommend Button -->
+        <!-- tooltip element -->
+        <div id="MainCopy_ctl11_rptDocuments_documentItemRating_0_LikeModal_0" style="display: none;" title="People who like this">
+            
+        </div>
+        
+    
+					</div>
+
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div>
+                                        
+<div class="row">
+    <div class="col-md-12">
+        <h3>
+            <a id="MainCopy_ctl11_rptDocuments_DocumentDisplay_0_lnkDoc_0" title="P.A.D. Brochure" href="https://www.pad.org/viewdocument/pad-brochure">P.A.D. Brochure</a>
+            
+            
+        </h3>
+    </div>
+</div>
+
+                                    </div>
+
+                                    <div class="libListReptEntByline">
+                                        
+                                        <div class="inline">
+                                            
+
+<div class='row ByLine'>
+    <div class="col-md-12">
+        
+        <div class="Content">
+            <div id="MainCopy_ctl11_rptDocuments_Author_0_PostedByPanel_0">
+						
+                <span id="MainCopy_ctl11_rptDocuments_Author_0_PostedByText_0">by</span>
+                
+                <a id="MainCopy_ctl11_rptDocuments_Author_0_PostedByUserHyperLink_0" biobubblekey="642a020a-c119-4b11-aaa3-e52588aff52f" href="https://www.pad.org/people/leslie-plummer">Leslie P. Plummer</a>
+                
+                
+            
+					</div>
+        </div>
+    </div>
+</div>
+
+                                        </div>
+                                        
+                                    </div>
+                                    <div>
+                                        
+<div class="row margin-bottom-medium">
+    <div class="col-md-12">
+        <p>
+            #recruitment  #law
+        </p>
+    </div>
+</div>
+                                    </div>
+                                    
+                                    <div>
+                                        
+
+
+<div class="libListReptEntAttchLble">
+    <span id="MainCopy_ctl11_rptDocuments_displayDocFiles_0_lblAttachmentSummary_0" class="text-muted">Attachments</span>
+</div>
+
+<div id="MainCopy_ctl11_rptDocuments_displayDocFiles_0_fileListInlineWrapper_0" class="row">
+    <div class="col-md-12">
+        <div class="listIconContainer">
+            
+        </div>
+        <div class="listIconContainer">
+            
+        </div>
+        <div class="listIconContainer">
+            
+        </div>
+        <div class="listIconContainer">
+            
+        </div>
+        <div class="listIconContainer">
+            
+        </div>
+        <div class="listIconContainer">
+            
+        </div>
+        <div class="listIconContainer">
+            
+        </div>
+        <div class="listIconContainer">
+            
+        </div>
+        <div class="listIconContainer">
+            
+        </div>
+        <div class="listIconContainer">
+            <a id="MainCopy_ctl11_rptDocuments_displayDocFiles_0_lnkPdf_0" title="2 PDF" href="/communities/community-home/librarydocuments/viewdocument?DocumentKey=a9bcb9b3-0e66-4ac2-9818-a3e6860f9d48"><div id="MainCopy_ctl11_rptDocuments_displayDocFiles_0_pdfs_0" class="HLMListDocType HLMListTypePdfMul">
+						
+                
+					</div><div id="MainCopy_ctl11_rptDocuments_displayDocFiles_0_pdfCountText_0" class="iconNumberDiv">
+						
+                    2
+                
+					</div></a>
+        </div>
+        <div class="listIconContainer">
+            
+        </div>
+        <div class="listIconContainer">
+            
+        </div>
+        <div class="listIconContainer">
+            
+        </div>
+        <div class="listIconContainer">
+            
+        </div>
+        <div class="listIconContainer">
+            
+        </div>
+        <div class="listIconContainer">
+            
+        </div>
+        <div class="listIconContainer">
+            
+        </div>
+        <div class="listIconContainer">
+            
+        </div>
+        <div class="listIconContainer">
+            
+        </div>
+    <div class="listIconContainer">
+        
+    </div>
+    <div class="listIconContainer">
+        
+    </div>
+    <div class="listIconContainer">
+        
+    </div>
+        <div class="pull-right">
+            <a id="MainCopy_ctl11_rptDocuments_displayDocFiles_0_btnDownloadAll_0" class="btn btn-default" href="/HigherLogic/System/DownloadDocument.ashx?DocumentKey=a9bcb9b3-0e66-4ac2-9818-a3e6860f9d48&amp;DocUrl=https%3a%2f%2fhigherlogicdownload.s3-external-1.amazonaws.com%2fPAD%2fa9bcb9b3-0e66-4ac2-9818-a3e6860f9d48.zip%3fAWSAccessKeyId%3dAKIAJH5D4I4FWRALBOUA%26Expires%3d1549321586%26Signature%3dlLsx2xA%252Bn1VCa39qN5qyMv6P7cw%253D" target="_blank">Download All</a>
+            
+        </div>
+    </div>
+</div>
+
+                                    </div>
+                                
+				</div>
+                            </div>
+                        
+                            <div id="MainCopy_ctl11_rptDocuments_libListReptContainerDIV_1" class="row library-list">
+                                <div id="MainCopy_ctl11_rptDocuments_OwnerBlock_1" class="col-md-2 col-sm-2 text-center">
+					
+                                    
+<div class='row rlDetailListProfileImg '>
+    <div class="col-md-12">
+        
+        <div class="Content">
+            
+<div class=''>
+    
+    <div class="form-group">
+        <div class="col-md-12">
+            <div id="MainCopy_ctl11_rptDocuments_AuthorImage_1_ProfileImage_1_pnlProfileImage_1" biobubblekey="642a020a-c119-4b11-aaa3-e52588aff52f">
+						
+                
+                <a id="MainCopy_ctl11_rptDocuments_AuthorImage_1_ProfileImage_1_ProfileImageLink_1" href="https://www.pad.org/people/leslie-plummer"><img id="MainCopy_ctl11_rptDocuments_AuthorImage_1_ProfileImage_1_ProfileImage_1" src="https://www.pad.org/HigherLogic/directory/ImageDisplay.aspx?Key=619fe146-99fc-46dc-946f-bde49b000f05&amp;dt=516980280032" alt="" align="middle" /></a>
+            
+					</div>
+            <div visible="False" class="threadViewDetailsContainer">
+                <div id="MainCopy_ctl11_rptDocuments_AuthorImage_1_ProfileImage_1_DigitalRibbonBackground_1" class="digitalRibbonDisplay">
+                    <span></span>
+                </div>
+            </div>
+        </div>
+    </div>
+    
+    
+    
+</div>
+
+        </div>
+    </div>
+</div>
+
+                                
+				</div>
+                                <div id="MainCopy_ctl11_rptDocuments_NameBlock_1" class="col-md-10 col-sm-10">
+					
+                                    <div class="pull-right">
+                                        <div class="row">
+                                            <div class="col-md-12">
+                                                <span id="MainCopy_ctl11_rptDocuments_PostDateTime_1" class="pull-right text-muted timeAgoFormat">4 years ago</span>
+                                            </div>
+                                        </div>
+                                        <div class="row">
+                                            <div class="col-md-12">
+                                                <div id="MainCopy_ctl11_rptDocuments_documentItemRating_1_CommentPanel_1" class="CommentPanel ItemRatingCommentPanel">
+						
+        <script type="text/javascript">
+            function showLikesModal(itemkey, likeModalId, titleText) {
+
+                //find current div with contents, create container div above it
+                var itemKeySelector = "#" + itemkey;
+                var likeModalIdSelector = "#" + likeModalId;
+                if ($(itemKeySelector).html() == "") { return };
+                var div = $("<div title='" + titleText + "' id='" + itemkey + "'></div>");
+                $('body').append(div);
+                $(itemKeySelector).html($(likeModalIdSelector).html());
+
+                var buttonOpts = {};
+
+                buttonOpts['Close'] = function () {
+                    $(this).dialog("close");
+                };
+
+                //use dynamic container due to updatepanels
+                $(itemKeySelector).dialog({
+                    resizable: true,                 
+                    width: 500,
+                    modal: true, focus: function (type, data) {                    
+
+                        $(this).parent()
+                            .find(".ui-dialog-buttonset button").eq(0)
+                            .removeClass()
+                            .addClass("btn btn-default");                   
+
+                    },
+                    buttons: buttonOpts,
+                    open: function () {
+                        var closeBtn = $('.ui-dialog-titlebar-close');
+                        closeBtn.addClass('ui-button ui-widget ui-state-default ui-corner-all ui-button-icon-only ');
+                        if (closeBtn.find('span').length <= 0) {
+                            closeBtn.append('<span class="ui-button-icon-primary ui-icon ui-icon-closethick"></span><span class="ui-button-text">close</span>');
+                        }
+                    }
+
+                });
+
+                $(itemKeySelector).dialog('open');
+            }
+        </script>
+        
+        <div id="MainCopy_ctl11_rptDocuments_documentItemRating_1_likeRatingContainer_1" class="" style="margin-top:5px;">
+            <div id="MainCopy_ctl11_rptDocuments_documentItemRating_1_TotalRatingLikePanel_1">
+                <span id="MainCopy_ctl11_rptDocuments_documentItemRating_1_lblTotalLikes_1">Be the first person to recommend this.</span>
+            </div>    
+            
+                        
+        </div>
+        <!-- Recommend button -->
+        
+        
+        <!-- End of Recommend Button -->
+        <!-- tooltip element -->
+        <div id="MainCopy_ctl11_rptDocuments_documentItemRating_1_LikeModal_1" style="display: none;" title="People who like this">
+            
+        </div>
+        
+    
+					</div>
+
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div>
+                                        
+<div class="row">
+    <div class="col-md-12">
+        <h3>
+            <a id="MainCopy_ctl11_rptDocuments_DocumentDisplay_1_lnkDoc_1" title="Law School Chapter Operations Handbook" href="https://www.pad.org/viewdocument/law-school-chapter-o">Law School Chapter Operations Handbook</a>
+            
+            
+        </h3>
+    </div>
+</div>
+
+                                    </div>
+
+                                    <div class="libListReptEntByline">
+                                        
+                                        <div class="inline">
+                                            
+
+<div class='row ByLine'>
+    <div class="col-md-12">
+        
+        <div class="Content">
+            <div id="MainCopy_ctl11_rptDocuments_Author_1_PostedByPanel_1">
+						
+                <span id="MainCopy_ctl11_rptDocuments_Author_1_PostedByText_1">by</span>
+                
+                <a id="MainCopy_ctl11_rptDocuments_Author_1_PostedByUserHyperLink_1" biobubblekey="642a020a-c119-4b11-aaa3-e52588aff52f" href="https://www.pad.org/people/leslie-plummer">Leslie P. Plummer</a>
+                
+                
+            
+					</div>
+        </div>
+    </div>
+</div>
+
+                                        </div>
+                                        
+                                    </div>
+                                    <div>
+                                        
+<div class="row margin-bottom-medium">
+    <div class="col-md-12">
+        <p>
+            #law  #manual
+        </p>
+    </div>
+</div>
+                                    </div>
+                                    
+                                    <div>
+                                        
+
+
+<div class="libListReptEntAttchLble">
+    <span id="MainCopy_ctl11_rptDocuments_displayDocFiles_1_lblAttachmentSummary_1" class="text-muted">Attachments</span>
+</div>
+
+<div id="MainCopy_ctl11_rptDocuments_displayDocFiles_1_fileListInlineWrapper_1" class="row">
+    <div class="col-md-12">
+        <div class="listIconContainer">
+            
+        </div>
+        <div class="listIconContainer">
+            
+        </div>
+        <div class="listIconContainer">
+            
+        </div>
+        <div class="listIconContainer">
+            
+        </div>
+        <div class="listIconContainer">
+            
+        </div>
+        <div class="listIconContainer">
+            
+        </div>
+        <div class="listIconContainer">
+            
+        </div>
+        <div class="listIconContainer">
+            
+        </div>
+        <div class="listIconContainer">
+            
+        </div>
+        <div class="listIconContainer">
+            <a id="MainCopy_ctl11_rptDocuments_displayDocFiles_1_lnkPdf_1" title="1 PDF" href="/communities/community-home/librarydocuments/viewdocument?DocumentKey=f9c5a642-b382-4331-8658-c31b8abab229"><div id="MainCopy_ctl11_rptDocuments_displayDocFiles_1_pdfs_1" class="HLMListDocType HLMListTypePdf">
+						
+                
+					</div></a>
+        </div>
+        <div class="listIconContainer">
+            
+        </div>
+        <div class="listIconContainer">
+            
+        </div>
+        <div class="listIconContainer">
+            
+        </div>
+        <div class="listIconContainer">
+            
+        </div>
+        <div class="listIconContainer">
+            
+        </div>
+        <div class="listIconContainer">
+            
+        </div>
+        <div class="listIconContainer">
+            
+        </div>
+        <div class="listIconContainer">
+            
+        </div>
+        <div class="listIconContainer">
+            
+        </div>
+    <div class="listIconContainer">
+        
+    </div>
+    <div class="listIconContainer">
+        
+    </div>
+    <div class="listIconContainer">
+        
+    </div>
+        <div class="pull-right">
+            
+            <a id="MainCopy_ctl11_rptDocuments_displayDocFiles_1_btnDownloadSingle_1" class="btn btn-default" href="/HigherLogic/System/DownloadDocumentFile.ashx?DocumentFileKey=9af9d041-8502-f7ca-012b-277231d31168" target="_blank">Download</a>
+        </div>
+    </div>
+</div>
+
+                                    </div>
+                                
+				</div>
+                            </div>
+                        
+                            <div id="MainCopy_ctl11_rptDocuments_libListReptContainerDIV_2" class="row library-list">
+                                <div id="MainCopy_ctl11_rptDocuments_OwnerBlock_2" class="col-md-2 col-sm-2 text-center">
+					
+                                    
+<div class='row rlDetailListProfileImg '>
+    <div class="col-md-12">
+        
+        <div class="Content">
+            
+<div class=''>
+    
+    <div class="form-group">
+        <div class="col-md-12">
+            <div id="MainCopy_ctl11_rptDocuments_AuthorImage_2_ProfileImage_2_pnlProfileImage_2" biobubblekey="642a020a-c119-4b11-aaa3-e52588aff52f">
+						
+                
+                <a id="MainCopy_ctl11_rptDocuments_AuthorImage_2_ProfileImage_2_ProfileImageLink_2" href="https://www.pad.org/people/leslie-plummer"><img id="MainCopy_ctl11_rptDocuments_AuthorImage_2_ProfileImage_2_ProfileImage_2" src="https://www.pad.org/HigherLogic/directory/ImageDisplay.aspx?Key=619fe146-99fc-46dc-946f-bde49b000f05&amp;dt=516980280032" alt="" align="middle" /></a>
+            
+					</div>
+            <div visible="False" class="threadViewDetailsContainer">
+                <div id="MainCopy_ctl11_rptDocuments_AuthorImage_2_ProfileImage_2_DigitalRibbonBackground_2" class="digitalRibbonDisplay">
+                    <span></span>
+                </div>
+            </div>
+        </div>
+    </div>
+    
+    
+    
+</div>
+
+        </div>
+    </div>
+</div>
+
+                                
+				</div>
+                                <div id="MainCopy_ctl11_rptDocuments_NameBlock_2" class="col-md-10 col-sm-10">
+					
+                                    <div class="pull-right">
+                                        <div class="row">
+                                            <div class="col-md-12">
+                                                <span id="MainCopy_ctl11_rptDocuments_PostDateTime_2" class="pull-right text-muted timeAgoFormat">4 years ago</span>
+                                            </div>
+                                        </div>
+                                        <div class="row">
+                                            <div class="col-md-12">
+                                                <div id="MainCopy_ctl11_rptDocuments_documentItemRating_2_CommentPanel_2" class="CommentPanel ItemRatingCommentPanel">
+						
+        <script type="text/javascript">
+            function showLikesModal(itemkey, likeModalId, titleText) {
+
+                //find current div with contents, create container div above it
+                var itemKeySelector = "#" + itemkey;
+                var likeModalIdSelector = "#" + likeModalId;
+                if ($(itemKeySelector).html() == "") { return };
+                var div = $("<div title='" + titleText + "' id='" + itemkey + "'></div>");
+                $('body').append(div);
+                $(itemKeySelector).html($(likeModalIdSelector).html());
+
+                var buttonOpts = {};
+
+                buttonOpts['Close'] = function () {
+                    $(this).dialog("close");
+                };
+
+                //use dynamic container due to updatepanels
+                $(itemKeySelector).dialog({
+                    resizable: true,                 
+                    width: 500,
+                    modal: true, focus: function (type, data) {                    
+
+                        $(this).parent()
+                            .find(".ui-dialog-buttonset button").eq(0)
+                            .removeClass()
+                            .addClass("btn btn-default");                   
+
+                    },
+                    buttons: buttonOpts,
+                    open: function () {
+                        var closeBtn = $('.ui-dialog-titlebar-close');
+                        closeBtn.addClass('ui-button ui-widget ui-state-default ui-corner-all ui-button-icon-only ');
+                        if (closeBtn.find('span').length <= 0) {
+                            closeBtn.append('<span class="ui-button-icon-primary ui-icon ui-icon-closethick"></span><span class="ui-button-text">close</span>');
+                        }
+                    }
+
+                });
+
+                $(itemKeySelector).dialog('open');
+            }
+        </script>
+        
+        <div id="MainCopy_ctl11_rptDocuments_documentItemRating_2_likeRatingContainer_2" class="" style="margin-top:5px;">
+            <div id="MainCopy_ctl11_rptDocuments_documentItemRating_2_TotalRatingLikePanel_2">
+                <span id="MainCopy_ctl11_rptDocuments_documentItemRating_2_lblTotalLikes_2">Be the first person to recommend this.</span>
+            </div>    
+            
+                        
+        </div>
+        <!-- Recommend button -->
+        
+        
+        <!-- End of Recommend Button -->
+        <!-- tooltip element -->
+        <div id="MainCopy_ctl11_rptDocuments_documentItemRating_2_LikeModal_2" style="display: none;" title="People who like this">
+            
+        </div>
+        
+    
+					</div>
+
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div>
+                                        
+<div class="row">
+    <div class="col-md-12">
+        <h3>
+            <a id="MainCopy_ctl11_rptDocuments_DocumentDisplay_2_lnkDoc_2" title="Outstanding Social Program Award Application" href="https://www.pad.org/viewdocument/outstanding-social-p">Outstanding Social Program Award Application</a>
+            
+            
+        </h3>
+    </div>
+</div>
+
+                                    </div>
+
+                                    <div class="libListReptEntByline">
+                                        
+                                        <div class="inline">
+                                            
+
+<div class='row ByLine'>
+    <div class="col-md-12">
+        
+        <div class="Content">
+            <div id="MainCopy_ctl11_rptDocuments_Author_2_PostedByPanel_2">
+						
+                <span id="MainCopy_ctl11_rptDocuments_Author_2_PostedByText_2">by</span>
+                
+                <a id="MainCopy_ctl11_rptDocuments_Author_2_PostedByUserHyperLink_2" biobubblekey="642a020a-c119-4b11-aaa3-e52588aff52f" href="https://www.pad.org/people/leslie-plummer">Leslie P. Plummer</a>
+                
+                
+            
+					</div>
+        </div>
+    </div>
+</div>
+
+                                        </div>
+                                        
+                                    </div>
+                                    <div>
+                                        
+<div class="row margin-bottom-medium">
+    <div class="col-md-12">
+        <p>
+            #awards  #application  #law
+        </p>
+    </div>
+</div>
+                                    </div>
+                                    
+                                    <div>
+                                        
+
+
+<div class="libListReptEntAttchLble">
+    <span id="MainCopy_ctl11_rptDocuments_displayDocFiles_2_lblAttachmentSummary_2" class="text-muted">Attachments</span>
+</div>
+
+<div id="MainCopy_ctl11_rptDocuments_displayDocFiles_2_fileListInlineWrapper_2" class="row">
+    <div class="col-md-12">
+        <div class="listIconContainer">
+            
+        </div>
+        <div class="listIconContainer">
+            
+        </div>
+        <div class="listIconContainer">
+            
+        </div>
+        <div class="listIconContainer">
+            
+        </div>
+        <div class="listIconContainer">
+            
+        </div>
+        <div class="listIconContainer">
+            
+        </div>
+        <div class="listIconContainer">
+            
+        </div>
+        <div class="listIconContainer">
+            
+        </div>
+        <div class="listIconContainer">
+            
+        </div>
+        <div class="listIconContainer">
+            <a id="MainCopy_ctl11_rptDocuments_displayDocFiles_2_lnkPdf_2" title="1 PDF" href="/communities/community-home/librarydocuments/viewdocument?DocumentKey=23a6e563-a687-4caf-bea2-24f6dce2f977"><div id="MainCopy_ctl11_rptDocuments_displayDocFiles_2_pdfs_2" class="HLMListDocType HLMListTypePdf">
+						
+                
+					</div></a>
+        </div>
+        <div class="listIconContainer">
+            
+        </div>
+        <div class="listIconContainer">
+            
+        </div>
+        <div class="listIconContainer">
+            
+        </div>
+        <div class="listIconContainer">
+            
+        </div>
+        <div class="listIconContainer">
+            
+        </div>
+        <div class="listIconContainer">
+            
+        </div>
+        <div class="listIconContainer">
+            
+        </div>
+        <div class="listIconContainer">
+            
+        </div>
+        <div class="listIconContainer">
+            
+        </div>
+    <div class="listIconContainer">
+        
+    </div>
+    <div class="listIconContainer">
+        
+    </div>
+    <div class="listIconContainer">
+        
+    </div>
+        <div class="pull-right">
+            
+            <a id="MainCopy_ctl11_rptDocuments_displayDocFiles_2_btnDownloadSingle_2" class="btn btn-default" href="/HigherLogic/System/DownloadDocumentFile.ashx?DocumentFileKey=383053b8-be18-da0f-5429-e49549ebab02" target="_blank">Download</a>
+        </div>
+    </div>
+</div>
+
+                                    </div>
+                                
+				</div>
+                            </div>
+                        
+                            <div id="MainCopy_ctl11_rptDocuments_libListReptContainerDIV_3" class="row library-list">
+                                <div id="MainCopy_ctl11_rptDocuments_OwnerBlock_3" class="col-md-2 col-sm-2 text-center">
+					
+                                    
+<div class='row rlDetailListProfileImg '>
+    <div class="col-md-12">
+        
+        <div class="Content">
+            
+<div class=''>
+    
+    <div class="form-group">
+        <div class="col-md-12">
+            <div id="MainCopy_ctl11_rptDocuments_AuthorImage_3_ProfileImage_3_pnlProfileImage_3" biobubblekey="642a020a-c119-4b11-aaa3-e52588aff52f">
+						
+                
+                <a id="MainCopy_ctl11_rptDocuments_AuthorImage_3_ProfileImage_3_ProfileImageLink_3" href="https://www.pad.org/people/leslie-plummer"><img id="MainCopy_ctl11_rptDocuments_AuthorImage_3_ProfileImage_3_ProfileImage_3" src="https://www.pad.org/HigherLogic/directory/ImageDisplay.aspx?Key=619fe146-99fc-46dc-946f-bde49b000f05&amp;dt=516980280032" alt="" align="middle" /></a>
+            
+					</div>
+            <div visible="False" class="threadViewDetailsContainer">
+                <div id="MainCopy_ctl11_rptDocuments_AuthorImage_3_ProfileImage_3_DigitalRibbonBackground_3" class="digitalRibbonDisplay">
+                    <span></span>
+                </div>
+            </div>
+        </div>
+    </div>
+    
+    
+    
+</div>
+
+        </div>
+    </div>
+</div>
+
+                                
+				</div>
+                                <div id="MainCopy_ctl11_rptDocuments_NameBlock_3" class="col-md-10 col-sm-10">
+					
+                                    <div class="pull-right">
+                                        <div class="row">
+                                            <div class="col-md-12">
+                                                <span id="MainCopy_ctl11_rptDocuments_PostDateTime_3" class="pull-right text-muted timeAgoFormat">4 years ago</span>
+                                            </div>
+                                        </div>
+                                        <div class="row">
+                                            <div class="col-md-12">
+                                                <div id="MainCopy_ctl11_rptDocuments_documentItemRating_3_CommentPanel_3" class="CommentPanel ItemRatingCommentPanel">
+						
+        <script type="text/javascript">
+            function showLikesModal(itemkey, likeModalId, titleText) {
+
+                //find current div with contents, create container div above it
+                var itemKeySelector = "#" + itemkey;
+                var likeModalIdSelector = "#" + likeModalId;
+                if ($(itemKeySelector).html() == "") { return };
+                var div = $("<div title='" + titleText + "' id='" + itemkey + "'></div>");
+                $('body').append(div);
+                $(itemKeySelector).html($(likeModalIdSelector).html());
+
+                var buttonOpts = {};
+
+                buttonOpts['Close'] = function () {
+                    $(this).dialog("close");
+                };
+
+                //use dynamic container due to updatepanels
+                $(itemKeySelector).dialog({
+                    resizable: true,                 
+                    width: 500,
+                    modal: true, focus: function (type, data) {                    
+
+                        $(this).parent()
+                            .find(".ui-dialog-buttonset button").eq(0)
+                            .removeClass()
+                            .addClass("btn btn-default");                   
+
+                    },
+                    buttons: buttonOpts,
+                    open: function () {
+                        var closeBtn = $('.ui-dialog-titlebar-close');
+                        closeBtn.addClass('ui-button ui-widget ui-state-default ui-corner-all ui-button-icon-only ');
+                        if (closeBtn.find('span').length <= 0) {
+                            closeBtn.append('<span class="ui-button-icon-primary ui-icon ui-icon-closethick"></span><span class="ui-button-text">close</span>');
+                        }
+                    }
+
+                });
+
+                $(itemKeySelector).dialog('open');
+            }
+        </script>
+        
+        <div id="MainCopy_ctl11_rptDocuments_documentItemRating_3_likeRatingContainer_3" class="" style="margin-top:5px;">
+            <div id="MainCopy_ctl11_rptDocuments_documentItemRating_3_TotalRatingLikePanel_3">
+                <span id="MainCopy_ctl11_rptDocuments_documentItemRating_3_lblTotalLikes_3">Be the first person to recommend this.</span>
+            </div>    
+            
+                        
+        </div>
+        <!-- Recommend button -->
+        
+        
+        <!-- End of Recommend Button -->
+        <!-- tooltip element -->
+        <div id="MainCopy_ctl11_rptDocuments_documentItemRating_3_LikeModal_3" style="display: none;" title="People who like this">
+            
+        </div>
+        
+    
+					</div>
+
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div>
+                                        
+<div class="row">
+    <div class="col-md-12">
+        <h3>
+            <a id="MainCopy_ctl11_rptDocuments_DocumentDisplay_3_lnkDoc_3" title="Outstanding Academic Program Award Application" href="https://www.pad.org/viewdocument/outstanding-academic">Outstanding Academic Program Award Application</a>
+            
+            
+        </h3>
+    </div>
+</div>
+
+                                    </div>
+
+                                    <div class="libListReptEntByline">
+                                        
+                                        <div class="inline">
+                                            
+
+<div class='row ByLine'>
+    <div class="col-md-12">
+        
+        <div class="Content">
+            <div id="MainCopy_ctl11_rptDocuments_Author_3_PostedByPanel_3">
+						
+                <span id="MainCopy_ctl11_rptDocuments_Author_3_PostedByText_3">by</span>
+                
+                <a id="MainCopy_ctl11_rptDocuments_Author_3_PostedByUserHyperLink_3" biobubblekey="642a020a-c119-4b11-aaa3-e52588aff52f" href="https://www.pad.org/people/leslie-plummer">Leslie P. Plummer</a>
+                
+                
+            
+					</div>
+        </div>
+    </div>
+</div>
+
+                                        </div>
+                                        
+                                    </div>
+                                    <div>
+                                        
+<div class="row margin-bottom-medium">
+    <div class="col-md-12">
+        <p>
+            #law  #application  #awards
+        </p>
+    </div>
+</div>
+                                    </div>
+                                    
+                                    <div>
+                                        
+
+
+<div class="libListReptEntAttchLble">
+    <span id="MainCopy_ctl11_rptDocuments_displayDocFiles_3_lblAttachmentSummary_3" class="text-muted">Attachments</span>
+</div>
+
+<div id="MainCopy_ctl11_rptDocuments_displayDocFiles_3_fileListInlineWrapper_3" class="row">
+    <div class="col-md-12">
+        <div class="listIconContainer">
+            
+        </div>
+        <div class="listIconContainer">
+            
+        </div>
+        <div class="listIconContainer">
+            
+        </div>
+        <div class="listIconContainer">
+            
+        </div>
+        <div class="listIconContainer">
+            
+        </div>
+        <div class="listIconContainer">
+            
+        </div>
+        <div class="listIconContainer">
+            
+        </div>
+        <div class="listIconContainer">
+            
+        </div>
+        <div class="listIconContainer">
+            
+        </div>
+        <div class="listIconContainer">
+            <a id="MainCopy_ctl11_rptDocuments_displayDocFiles_3_lnkPdf_3" title="1 PDF" href="/communities/community-home/librarydocuments/viewdocument?DocumentKey=0180bb3f-ee26-4e00-8c73-7ffe4a64632a"><div id="MainCopy_ctl11_rptDocuments_displayDocFiles_3_pdfs_3" class="HLMListDocType HLMListTypePdf">
+						
+                
+					</div></a>
+        </div>
+        <div class="listIconContainer">
+            
+        </div>
+        <div class="listIconContainer">
+            
+        </div>
+        <div class="listIconContainer">
+            
+        </div>
+        <div class="listIconContainer">
+            
+        </div>
+        <div class="listIconContainer">
+            
+        </div>
+        <div class="listIconContainer">
+            
+        </div>
+        <div class="listIconContainer">
+            
+        </div>
+        <div class="listIconContainer">
+            
+        </div>
+        <div class="listIconContainer">
+            
+        </div>
+    <div class="listIconContainer">
+        
+    </div>
+    <div class="listIconContainer">
+        
+    </div>
+    <div class="listIconContainer">
+        
+    </div>
+        <div class="pull-right">
+            
+            <a id="MainCopy_ctl11_rptDocuments_displayDocFiles_3_btnDownloadSingle_3" class="btn btn-default" href="/HigherLogic/System/DownloadDocumentFile.ashx?DocumentFileKey=2172250d-e0b1-d670-1404-e37a8a72ee98" target="_blank">Download</a>
+        </div>
+    </div>
+</div>
+
+                                    </div>
+                                
+				</div>
+                            </div>
+                        
+                            <div id="MainCopy_ctl11_rptDocuments_libListReptContainerDIV_4" class="row library-list">
+                                <div id="MainCopy_ctl11_rptDocuments_OwnerBlock_4" class="col-md-2 col-sm-2 text-center">
+					
+                                    
+<div class='row rlDetailListProfileImg '>
+    <div class="col-md-12">
+        
+        <div class="Content">
+            
+<div class=''>
+    
+    <div class="form-group">
+        <div class="col-md-12">
+            <div id="MainCopy_ctl11_rptDocuments_AuthorImage_4_ProfileImage_4_pnlProfileImage_4" biobubblekey="642a020a-c119-4b11-aaa3-e52588aff52f">
+						
+                
+                <a id="MainCopy_ctl11_rptDocuments_AuthorImage_4_ProfileImage_4_ProfileImageLink_4" href="https://www.pad.org/people/leslie-plummer"><img id="MainCopy_ctl11_rptDocuments_AuthorImage_4_ProfileImage_4_ProfileImage_4" src="https://www.pad.org/HigherLogic/directory/ImageDisplay.aspx?Key=619fe146-99fc-46dc-946f-bde49b000f05&amp;dt=516980280032" alt="" align="middle" /></a>
+            
+					</div>
+            <div visible="False" class="threadViewDetailsContainer">
+                <div id="MainCopy_ctl11_rptDocuments_AuthorImage_4_ProfileImage_4_DigitalRibbonBackground_4" class="digitalRibbonDisplay">
+                    <span></span>
+                </div>
+            </div>
+        </div>
+    </div>
+    
+    
+    
+</div>
+
+        </div>
+    </div>
+</div>
+
+                                
+				</div>
+                                <div id="MainCopy_ctl11_rptDocuments_NameBlock_4" class="col-md-10 col-sm-10">
+					
+                                    <div class="pull-right">
+                                        <div class="row">
+                                            <div class="col-md-12">
+                                                <span id="MainCopy_ctl11_rptDocuments_PostDateTime_4" class="pull-right text-muted timeAgoFormat">4 years ago</span>
+                                            </div>
+                                        </div>
+                                        <div class="row">
+                                            <div class="col-md-12">
+                                                <div id="MainCopy_ctl11_rptDocuments_documentItemRating_4_CommentPanel_4" class="CommentPanel ItemRatingCommentPanel">
+						
+        <script type="text/javascript">
+            function showLikesModal(itemkey, likeModalId, titleText) {
+
+                //find current div with contents, create container div above it
+                var itemKeySelector = "#" + itemkey;
+                var likeModalIdSelector = "#" + likeModalId;
+                if ($(itemKeySelector).html() == "") { return };
+                var div = $("<div title='" + titleText + "' id='" + itemkey + "'></div>");
+                $('body').append(div);
+                $(itemKeySelector).html($(likeModalIdSelector).html());
+
+                var buttonOpts = {};
+
+                buttonOpts['Close'] = function () {
+                    $(this).dialog("close");
+                };
+
+                //use dynamic container due to updatepanels
+                $(itemKeySelector).dialog({
+                    resizable: true,                 
+                    width: 500,
+                    modal: true, focus: function (type, data) {                    
+
+                        $(this).parent()
+                            .find(".ui-dialog-buttonset button").eq(0)
+                            .removeClass()
+                            .addClass("btn btn-default");                   
+
+                    },
+                    buttons: buttonOpts,
+                    open: function () {
+                        var closeBtn = $('.ui-dialog-titlebar-close');
+                        closeBtn.addClass('ui-button ui-widget ui-state-default ui-corner-all ui-button-icon-only ');
+                        if (closeBtn.find('span').length <= 0) {
+                            closeBtn.append('<span class="ui-button-icon-primary ui-icon ui-icon-closethick"></span><span class="ui-button-text">close</span>');
+                        }
+                    }
+
+                });
+
+                $(itemKeySelector).dialog('open');
+            }
+        </script>
+        
+        <div id="MainCopy_ctl11_rptDocuments_documentItemRating_4_likeRatingContainer_4" class="" style="margin-top:5px;">
+            <div id="MainCopy_ctl11_rptDocuments_documentItemRating_4_TotalRatingLikePanel_4">
+                <span id="MainCopy_ctl11_rptDocuments_documentItemRating_4_lblTotalLikes_4">Be the first person to recommend this.</span>
+            </div>    
+            
+                        
+        </div>
+        <!-- Recommend button -->
+        
+        
+        <!-- End of Recommend Button -->
+        <!-- tooltip element -->
+        <div id="MainCopy_ctl11_rptDocuments_documentItemRating_4_LikeModal_4" style="display: none;" title="People who like this">
+            
+        </div>
+        
+    
+					</div>
+
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div>
+                                        
+<div class="row">
+    <div class="col-md-12">
+        <h3>
+            <a id="MainCopy_ctl11_rptDocuments_DocumentDisplay_4_lnkDoc_4" title="Outstanding Community Service Program Award Application" href="https://www.pad.org/viewdocument/outstanding-communit">Outstanding Community Service Program Award Application</a>
+            
+            
+        </h3>
+    </div>
+</div>
+
+                                    </div>
+
+                                    <div class="libListReptEntByline">
+                                        
+                                        <div class="inline">
+                                            
+
+<div class='row ByLine'>
+    <div class="col-md-12">
+        
+        <div class="Content">
+            <div id="MainCopy_ctl11_rptDocuments_Author_4_PostedByPanel_4">
+						
+                <span id="MainCopy_ctl11_rptDocuments_Author_4_PostedByText_4">by</span>
+                
+                <a id="MainCopy_ctl11_rptDocuments_Author_4_PostedByUserHyperLink_4" biobubblekey="642a020a-c119-4b11-aaa3-e52588aff52f" href="https://www.pad.org/people/leslie-plummer">Leslie P. Plummer</a>
+                
+                
+            
+					</div>
+        </div>
+    </div>
+</div>
+
+                                        </div>
+                                        
+                                    </div>
+                                    <div>
+                                        
+<div class="row margin-bottom-medium">
+    <div class="col-md-12">
+        <p>
+            #application  #awards  #law <br>
+<br>
+#application  #awards  #law
+        </p>
+    </div>
+</div>
+                                    </div>
+                                    
+                                    <div>
+                                        
+
+
+<div class="libListReptEntAttchLble">
+    <span id="MainCopy_ctl11_rptDocuments_displayDocFiles_4_lblAttachmentSummary_4" class="text-muted">Attachments</span>
+</div>
+
+<div id="MainCopy_ctl11_rptDocuments_displayDocFiles_4_fileListInlineWrapper_4" class="row">
+    <div class="col-md-12">
+        <div class="listIconContainer">
+            
+        </div>
+        <div class="listIconContainer">
+            
+        </div>
+        <div class="listIconContainer">
+            
+        </div>
+        <div class="listIconContainer">
+            
+        </div>
+        <div class="listIconContainer">
+            
+        </div>
+        <div class="listIconContainer">
+            
+        </div>
+        <div class="listIconContainer">
+            
+        </div>
+        <div class="listIconContainer">
+            
+        </div>
+        <div class="listIconContainer">
+            
+        </div>
+        <div class="listIconContainer">
+            <a id="MainCopy_ctl11_rptDocuments_displayDocFiles_4_lnkPdf_4" title="1 PDF" href="/communities/community-home/librarydocuments/viewdocument?DocumentKey=efd3baed-25e8-4f59-beb1-57d6883293f4"><div id="MainCopy_ctl11_rptDocuments_displayDocFiles_4_pdfs_4" class="HLMListDocType HLMListTypePdf">
+						
+                
+					</div></a>
+        </div>
+        <div class="listIconContainer">
+            
+        </div>
+        <div class="listIconContainer">
+            
+        </div>
+        <div class="listIconContainer">
+            
+        </div>
+        <div class="listIconContainer">
+            
+        </div>
+        <div class="listIconContainer">
+            
+        </div>
+        <div class="listIconContainer">
+            
+        </div>
+        <div class="listIconContainer">
+            
+        </div>
+        <div class="listIconContainer">
+            
+        </div>
+        <div class="listIconContainer">
+            
+        </div>
+    <div class="listIconContainer">
+        
+    </div>
+    <div class="listIconContainer">
+        
+    </div>
+    <div class="listIconContainer">
+        
+    </div>
+        <div class="pull-right">
+            
+            <a id="MainCopy_ctl11_rptDocuments_displayDocFiles_4_btnDownloadSingle_4" class="btn btn-default" href="/HigherLogic/System/DownloadDocumentFile.ashx?DocumentFileKey=c98979d0-7db0-8eca-7d0e-daffe9bcb84d" target="_blank">Download</a>
+        </div>
+    </div>
+</div>
+
+                                    </div>
+                                
+				</div>
+                            </div>
+                        
+                            <div id="MainCopy_ctl11_rptDocuments_libListReptContainerDIV_5" class="row library-list">
+                                <div id="MainCopy_ctl11_rptDocuments_OwnerBlock_5" class="col-md-2 col-sm-2 text-center">
+					
+                                    
+<div class='row rlDetailListProfileImg '>
+    <div class="col-md-12">
+        
+        <div class="Content">
+            
+<div class=''>
+    
+    <div class="form-group">
+        <div class="col-md-12">
+            <div id="MainCopy_ctl11_rptDocuments_AuthorImage_5_ProfileImage_5_pnlProfileImage_5" biobubblekey="642a020a-c119-4b11-aaa3-e52588aff52f">
+						
+                
+                <a id="MainCopy_ctl11_rptDocuments_AuthorImage_5_ProfileImage_5_ProfileImageLink_5" href="https://www.pad.org/people/leslie-plummer"><img id="MainCopy_ctl11_rptDocuments_AuthorImage_5_ProfileImage_5_ProfileImage_5" src="https://www.pad.org/HigherLogic/directory/ImageDisplay.aspx?Key=619fe146-99fc-46dc-946f-bde49b000f05&amp;dt=516980280032" alt="" align="middle" /></a>
+            
+					</div>
+            <div visible="False" class="threadViewDetailsContainer">
+                <div id="MainCopy_ctl11_rptDocuments_AuthorImage_5_ProfileImage_5_DigitalRibbonBackground_5" class="digitalRibbonDisplay">
+                    <span></span>
+                </div>
+            </div>
+        </div>
+    </div>
+    
+    
+    
+</div>
+
+        </div>
+    </div>
+</div>
+
+                                
+				</div>
+                                <div id="MainCopy_ctl11_rptDocuments_NameBlock_5" class="col-md-10 col-sm-10">
+					
+                                    <div class="pull-right">
+                                        <div class="row">
+                                            <div class="col-md-12">
+                                                <span id="MainCopy_ctl11_rptDocuments_PostDateTime_5" class="pull-right text-muted timeAgoFormat">4 years ago</span>
+                                            </div>
+                                        </div>
+                                        <div class="row">
+                                            <div class="col-md-12">
+                                                <div id="MainCopy_ctl11_rptDocuments_documentItemRating_5_CommentPanel_5" class="CommentPanel ItemRatingCommentPanel">
+						
+        <script type="text/javascript">
+            function showLikesModal(itemkey, likeModalId, titleText) {
+
+                //find current div with contents, create container div above it
+                var itemKeySelector = "#" + itemkey;
+                var likeModalIdSelector = "#" + likeModalId;
+                if ($(itemKeySelector).html() == "") { return };
+                var div = $("<div title='" + titleText + "' id='" + itemkey + "'></div>");
+                $('body').append(div);
+                $(itemKeySelector).html($(likeModalIdSelector).html());
+
+                var buttonOpts = {};
+
+                buttonOpts['Close'] = function () {
+                    $(this).dialog("close");
+                };
+
+                //use dynamic container due to updatepanels
+                $(itemKeySelector).dialog({
+                    resizable: true,                 
+                    width: 500,
+                    modal: true, focus: function (type, data) {                    
+
+                        $(this).parent()
+                            .find(".ui-dialog-buttonset button").eq(0)
+                            .removeClass()
+                            .addClass("btn btn-default");                   
+
+                    },
+                    buttons: buttonOpts,
+                    open: function () {
+                        var closeBtn = $('.ui-dialog-titlebar-close');
+                        closeBtn.addClass('ui-button ui-widget ui-state-default ui-corner-all ui-button-icon-only ');
+                        if (closeBtn.find('span').length <= 0) {
+                            closeBtn.append('<span class="ui-button-icon-primary ui-icon ui-icon-closethick"></span><span class="ui-button-text">close</span>');
+                        }
+                    }
+
+                });
+
+                $(itemKeySelector).dialog('open');
+            }
+        </script>
+        
+        <div id="MainCopy_ctl11_rptDocuments_documentItemRating_5_likeRatingContainer_5" class="" style="margin-top:5px;">
+            <div id="MainCopy_ctl11_rptDocuments_documentItemRating_5_TotalRatingLikePanel_5">
+                <span id="MainCopy_ctl11_rptDocuments_documentItemRating_5_lblTotalLikes_5">Be the first person to recommend this.</span>
+            </div>    
+            
+                        
+        </div>
+        <!-- Recommend button -->
+        
+        
+        <!-- End of Recommend Button -->
+        <!-- tooltip element -->
+        <div id="MainCopy_ctl11_rptDocuments_documentItemRating_5_LikeModal_5" style="display: none;" title="People who like this">
+            
+        </div>
+        
+    
+					</div>
+
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div>
+                                        
+<div class="row">
+    <div class="col-md-12">
+        <h3>
+            <a id="MainCopy_ctl11_rptDocuments_DocumentDisplay_5_lnkDoc_5" title="Outstanding Professional Program Award Application" href="https://www.pad.org/viewdocument/outstanding-professi">Outstanding Professional Program Award Application</a>
+            
+            
+        </h3>
+    </div>
+</div>
+
+                                    </div>
+
+                                    <div class="libListReptEntByline">
+                                        
+                                        <div class="inline">
+                                            
+
+<div class='row ByLine'>
+    <div class="col-md-12">
+        
+        <div class="Content">
+            <div id="MainCopy_ctl11_rptDocuments_Author_5_PostedByPanel_5">
+						
+                <span id="MainCopy_ctl11_rptDocuments_Author_5_PostedByText_5">by</span>
+                
+                <a id="MainCopy_ctl11_rptDocuments_Author_5_PostedByUserHyperLink_5" biobubblekey="642a020a-c119-4b11-aaa3-e52588aff52f" href="https://www.pad.org/people/leslie-plummer">Leslie P. Plummer</a>
+                
+                
+            
+					</div>
+        </div>
+    </div>
+</div>
+
+                                        </div>
+                                        
+                                    </div>
+                                    <div>
+                                        
+<div class="row margin-bottom-medium">
+    <div class="col-md-12">
+        <p>
+            #law  #application  #awards
+        </p>
+    </div>
+</div>
+                                    </div>
+                                    
+                                    <div>
+                                        
+
+
+<div class="libListReptEntAttchLble">
+    <span id="MainCopy_ctl11_rptDocuments_displayDocFiles_5_lblAttachmentSummary_5" class="text-muted">Attachments</span>
+</div>
+
+<div id="MainCopy_ctl11_rptDocuments_displayDocFiles_5_fileListInlineWrapper_5" class="row">
+    <div class="col-md-12">
+        <div class="listIconContainer">
+            
+        </div>
+        <div class="listIconContainer">
+            
+        </div>
+        <div class="listIconContainer">
+            
+        </div>
+        <div class="listIconContainer">
+            
+        </div>
+        <div class="listIconContainer">
+            
+        </div>
+        <div class="listIconContainer">
+            
+        </div>
+        <div class="listIconContainer">
+            
+        </div>
+        <div class="listIconContainer">
+            
+        </div>
+        <div class="listIconContainer">
+            
+        </div>
+        <div class="listIconContainer">
+            <a id="MainCopy_ctl11_rptDocuments_displayDocFiles_5_lnkPdf_5" title="1 PDF" href="/communities/community-home/librarydocuments/viewdocument?DocumentKey=d8de8701-cdfa-4071-82c0-66780ae0c5d9"><div id="MainCopy_ctl11_rptDocuments_displayDocFiles_5_pdfs_5" class="HLMListDocType HLMListTypePdf">
+						
+                
+					</div></a>
+        </div>
+        <div class="listIconContainer">
+            
+        </div>
+        <div class="listIconContainer">
+            
+        </div>
+        <div class="listIconContainer">
+            
+        </div>
+        <div class="listIconContainer">
+            
+        </div>
+        <div class="listIconContainer">
+            
+        </div>
+        <div class="listIconContainer">
+            
+        </div>
+        <div class="listIconContainer">
+            
+        </div>
+        <div class="listIconContainer">
+            
+        </div>
+        <div class="listIconContainer">
+            
+        </div>
+    <div class="listIconContainer">
+        
+    </div>
+    <div class="listIconContainer">
+        
+    </div>
+    <div class="listIconContainer">
+        
+    </div>
+        <div class="pull-right">
+            
+            <a id="MainCopy_ctl11_rptDocuments_displayDocFiles_5_btnDownloadSingle_5" class="btn btn-default" href="/HigherLogic/System/DownloadDocumentFile.ashx?DocumentFileKey=f25e510a-af7e-77c7-7c48-096628f56122" target="_blank">Download</a>
+        </div>
+    </div>
+</div>
+
+                                    </div>
+                                
+				</div>
+                            </div>
+                        
+                            <div id="MainCopy_ctl11_rptDocuments_libListReptContainerDIV_6" class="row library-list">
+                                <div id="MainCopy_ctl11_rptDocuments_OwnerBlock_6" class="col-md-2 col-sm-2 text-center">
+					
+                                    
+<div class='row rlDetailListProfileImg '>
+    <div class="col-md-12">
+        
+        <div class="Content">
+            
+<div class=''>
+    
+    <div class="form-group">
+        <div class="col-md-12">
+            <div id="MainCopy_ctl11_rptDocuments_AuthorImage_6_ProfileImage_6_pnlProfileImage_6" biobubblekey="642a020a-c119-4b11-aaa3-e52588aff52f">
+						
+                
+                <a id="MainCopy_ctl11_rptDocuments_AuthorImage_6_ProfileImage_6_ProfileImageLink_6" href="https://www.pad.org/people/leslie-plummer"><img id="MainCopy_ctl11_rptDocuments_AuthorImage_6_ProfileImage_6_ProfileImage_6" src="https://www.pad.org/HigherLogic/directory/ImageDisplay.aspx?Key=619fe146-99fc-46dc-946f-bde49b000f05&amp;dt=516980280032" alt="" align="middle" /></a>
+            
+					</div>
+            <div visible="False" class="threadViewDetailsContainer">
+                <div id="MainCopy_ctl11_rptDocuments_AuthorImage_6_ProfileImage_6_DigitalRibbonBackground_6" class="digitalRibbonDisplay">
+                    <span></span>
+                </div>
+            </div>
+        </div>
+    </div>
+    
+    
+    
+</div>
+
+        </div>
+    </div>
+</div>
+
+                                
+				</div>
+                                <div id="MainCopy_ctl11_rptDocuments_NameBlock_6" class="col-md-10 col-sm-10">
+					
+                                    <div class="pull-right">
+                                        <div class="row">
+                                            <div class="col-md-12">
+                                                <span id="MainCopy_ctl11_rptDocuments_PostDateTime_6" class="pull-right text-muted timeAgoFormat">4 years ago</span>
+                                            </div>
+                                        </div>
+                                        <div class="row">
+                                            <div class="col-md-12">
+                                                <div id="MainCopy_ctl11_rptDocuments_documentItemRating_6_CommentPanel_6" class="CommentPanel ItemRatingCommentPanel">
+						
+        <script type="text/javascript">
+            function showLikesModal(itemkey, likeModalId, titleText) {
+
+                //find current div with contents, create container div above it
+                var itemKeySelector = "#" + itemkey;
+                var likeModalIdSelector = "#" + likeModalId;
+                if ($(itemKeySelector).html() == "") { return };
+                var div = $("<div title='" + titleText + "' id='" + itemkey + "'></div>");
+                $('body').append(div);
+                $(itemKeySelector).html($(likeModalIdSelector).html());
+
+                var buttonOpts = {};
+
+                buttonOpts['Close'] = function () {
+                    $(this).dialog("close");
+                };
+
+                //use dynamic container due to updatepanels
+                $(itemKeySelector).dialog({
+                    resizable: true,                 
+                    width: 500,
+                    modal: true, focus: function (type, data) {                    
+
+                        $(this).parent()
+                            .find(".ui-dialog-buttonset button").eq(0)
+                            .removeClass()
+                            .addClass("btn btn-default");                   
+
+                    },
+                    buttons: buttonOpts,
+                    open: function () {
+                        var closeBtn = $('.ui-dialog-titlebar-close');
+                        closeBtn.addClass('ui-button ui-widget ui-state-default ui-corner-all ui-button-icon-only ');
+                        if (closeBtn.find('span').length <= 0) {
+                            closeBtn.append('<span class="ui-button-icon-primary ui-icon ui-icon-closethick"></span><span class="ui-button-text">close</span>');
+                        }
+                    }
+
+                });
+
+                $(itemKeySelector).dialog('open');
+            }
+        </script>
+        
+        <div id="MainCopy_ctl11_rptDocuments_documentItemRating_6_likeRatingContainer_6" class="" style="margin-top:5px;">
+            <div id="MainCopy_ctl11_rptDocuments_documentItemRating_6_TotalRatingLikePanel_6">
+                <span id="MainCopy_ctl11_rptDocuments_documentItemRating_6_lblTotalLikes_6">Be the first person to recommend this.</span>
+            </div>    
+            
+                        
+        </div>
+        <!-- Recommend button -->
+        
+        
+        <!-- End of Recommend Button -->
+        <!-- tooltip element -->
+        <div id="MainCopy_ctl11_rptDocuments_documentItemRating_6_LikeModal_6" style="display: none;" title="People who like this">
+            
+        </div>
+        
+    
+					</div>
+
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div>
+                                        
+<div class="row">
+    <div class="col-md-12">
+        <h3>
+            <a id="MainCopy_ctl11_rptDocuments_DocumentDisplay_6_lnkDoc_6" title="Outstanding Alumni Networking Program Award Application" href="https://www.pad.org/viewdocument/outstanding-alumni-n">Outstanding Alumni Networking Program Award Application</a>
+            
+            
+        </h3>
+    </div>
+</div>
+
+                                    </div>
+
+                                    <div class="libListReptEntByline">
+                                        
+                                        <div class="inline">
+                                            
+
+<div class='row ByLine'>
+    <div class="col-md-12">
+        
+        <div class="Content">
+            <div id="MainCopy_ctl11_rptDocuments_Author_6_PostedByPanel_6">
+						
+                <span id="MainCopy_ctl11_rptDocuments_Author_6_PostedByText_6">by</span>
+                
+                <a id="MainCopy_ctl11_rptDocuments_Author_6_PostedByUserHyperLink_6" biobubblekey="642a020a-c119-4b11-aaa3-e52588aff52f" href="https://www.pad.org/people/leslie-plummer">Leslie P. Plummer</a>
+                
+                
+            
+					</div>
+        </div>
+    </div>
+</div>
+
+                                        </div>
+                                        
+                                    </div>
+                                    <div>
+                                        
+<div class="row margin-bottom-medium">
+    <div class="col-md-12">
+        <p>
+            #awards  #law  #application
+        </p>
+    </div>
+</div>
+                                    </div>
+                                    
+                                    <div>
+                                        
+
+
+<div class="libListReptEntAttchLble">
+    <span id="MainCopy_ctl11_rptDocuments_displayDocFiles_6_lblAttachmentSummary_6" class="text-muted">Attachments</span>
+</div>
+
+<div id="MainCopy_ctl11_rptDocuments_displayDocFiles_6_fileListInlineWrapper_6" class="row">
+    <div class="col-md-12">
+        <div class="listIconContainer">
+            
+        </div>
+        <div class="listIconContainer">
+            
+        </div>
+        <div class="listIconContainer">
+            
+        </div>
+        <div class="listIconContainer">
+            
+        </div>
+        <div class="listIconContainer">
+            
+        </div>
+        <div class="listIconContainer">
+            
+        </div>
+        <div class="listIconContainer">
+            
+        </div>
+        <div class="listIconContainer">
+            
+        </div>
+        <div class="listIconContainer">
+            
+        </div>
+        <div class="listIconContainer">
+            <a id="MainCopy_ctl11_rptDocuments_displayDocFiles_6_lnkPdf_6" title="1 PDF" href="/communities/community-home/librarydocuments/viewdocument?DocumentKey=a4e4ac13-7d5e-4fee-b7eb-c790c101c567"><div id="MainCopy_ctl11_rptDocuments_displayDocFiles_6_pdfs_6" class="HLMListDocType HLMListTypePdf">
+						
+                
+					</div></a>
+        </div>
+        <div class="listIconContainer">
+            
+        </div>
+        <div class="listIconContainer">
+            
+        </div>
+        <div class="listIconContainer">
+            
+        </div>
+        <div class="listIconContainer">
+            
+        </div>
+        <div class="listIconContainer">
+            
+        </div>
+        <div class="listIconContainer">
+            
+        </div>
+        <div class="listIconContainer">
+            
+        </div>
+        <div class="listIconContainer">
+            
+        </div>
+        <div class="listIconContainer">
+            
+        </div>
+    <div class="listIconContainer">
+        
+    </div>
+    <div class="listIconContainer">
+        
+    </div>
+    <div class="listIconContainer">
+        
+    </div>
+        <div class="pull-right">
+            
+            <a id="MainCopy_ctl11_rptDocuments_displayDocFiles_6_btnDownloadSingle_6" class="btn btn-default" href="/HigherLogic/System/DownloadDocumentFile.ashx?DocumentFileKey=6b14bc88-d2bb-4cea-4f23-c560d18c4536" target="_blank">Download</a>
+        </div>
+    </div>
+</div>
+
+                                    </div>
+                                
+				</div>
+                            </div>
+                        
+                            <div id="MainCopy_ctl11_rptDocuments_libListReptContainerDIV_7" class="row library-list">
+                                <div id="MainCopy_ctl11_rptDocuments_OwnerBlock_7" class="col-md-2 col-sm-2 text-center">
+					
+                                    
+<div class='row rlDetailListProfileImg '>
+    <div class="col-md-12">
+        
+        <div class="Content">
+            
+<div class=''>
+    
+    <div class="form-group">
+        <div class="col-md-12">
+            <div id="MainCopy_ctl11_rptDocuments_AuthorImage_7_ProfileImage_7_pnlProfileImage_7" biobubblekey="642a020a-c119-4b11-aaa3-e52588aff52f">
+						
+                
+                <a id="MainCopy_ctl11_rptDocuments_AuthorImage_7_ProfileImage_7_ProfileImageLink_7" href="https://www.pad.org/people/leslie-plummer"><img id="MainCopy_ctl11_rptDocuments_AuthorImage_7_ProfileImage_7_ProfileImage_7" src="https://www.pad.org/HigherLogic/directory/ImageDisplay.aspx?Key=619fe146-99fc-46dc-946f-bde49b000f05&amp;dt=516980280032" alt="" align="middle" /></a>
+            
+					</div>
+            <div visible="False" class="threadViewDetailsContainer">
+                <div id="MainCopy_ctl11_rptDocuments_AuthorImage_7_ProfileImage_7_DigitalRibbonBackground_7" class="digitalRibbonDisplay">
+                    <span></span>
+                </div>
+            </div>
+        </div>
+    </div>
+    
+    
+    
+</div>
+
+        </div>
+    </div>
+</div>
+
+                                
+				</div>
+                                <div id="MainCopy_ctl11_rptDocuments_NameBlock_7" class="col-md-10 col-sm-10">
+					
+                                    <div class="pull-right">
+                                        <div class="row">
+                                            <div class="col-md-12">
+                                                <span id="MainCopy_ctl11_rptDocuments_PostDateTime_7" class="pull-right text-muted timeAgoFormat">4 years ago</span>
+                                            </div>
+                                        </div>
+                                        <div class="row">
+                                            <div class="col-md-12">
+                                                <div id="MainCopy_ctl11_rptDocuments_documentItemRating_7_CommentPanel_7" class="CommentPanel ItemRatingCommentPanel">
+						
+        <script type="text/javascript">
+            function showLikesModal(itemkey, likeModalId, titleText) {
+
+                //find current div with contents, create container div above it
+                var itemKeySelector = "#" + itemkey;
+                var likeModalIdSelector = "#" + likeModalId;
+                if ($(itemKeySelector).html() == "") { return };
+                var div = $("<div title='" + titleText + "' id='" + itemkey + "'></div>");
+                $('body').append(div);
+                $(itemKeySelector).html($(likeModalIdSelector).html());
+
+                var buttonOpts = {};
+
+                buttonOpts['Close'] = function () {
+                    $(this).dialog("close");
+                };
+
+                //use dynamic container due to updatepanels
+                $(itemKeySelector).dialog({
+                    resizable: true,                 
+                    width: 500,
+                    modal: true, focus: function (type, data) {                    
+
+                        $(this).parent()
+                            .find(".ui-dialog-buttonset button").eq(0)
+                            .removeClass()
+                            .addClass("btn btn-default");                   
+
+                    },
+                    buttons: buttonOpts,
+                    open: function () {
+                        var closeBtn = $('.ui-dialog-titlebar-close');
+                        closeBtn.addClass('ui-button ui-widget ui-state-default ui-corner-all ui-button-icon-only ');
+                        if (closeBtn.find('span').length <= 0) {
+                            closeBtn.append('<span class="ui-button-icon-primary ui-icon ui-icon-closethick"></span><span class="ui-button-text">close</span>');
+                        }
+                    }
+
+                });
+
+                $(itemKeySelector).dialog('open');
+            }
+        </script>
+        
+        <div id="MainCopy_ctl11_rptDocuments_documentItemRating_7_likeRatingContainer_7" class="" style="margin-top:5px;">
+            <div id="MainCopy_ctl11_rptDocuments_documentItemRating_7_TotalRatingLikePanel_7">
+                <span id="MainCopy_ctl11_rptDocuments_documentItemRating_7_lblTotalLikes_7">Be the first person to recommend this.</span>
+            </div>    
+            
+                        
+        </div>
+        <!-- Recommend button -->
+        
+        
+        <!-- End of Recommend Button -->
+        <!-- tooltip element -->
+        <div id="MainCopy_ctl11_rptDocuments_documentItemRating_7_LikeModal_7" style="display: none;" title="People who like this">
+            
+        </div>
+        
+    
+					</div>
+
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div>
+                                        
+<div class="row">
+    <div class="col-md-12">
+        <h3>
+            <a id="MainCopy_ctl11_rptDocuments_DocumentDisplay_7_lnkDoc_7" title="Outstanding Law School Chapter Marshal Award Application" href="https://www.pad.org/viewdocument/outstanding-law-scho">Outstanding Law School Chapter Marshal Award Application</a>
+            
+            
+        </h3>
+    </div>
+</div>
+
+                                    </div>
+
+                                    <div class="libListReptEntByline">
+                                        
+                                        <div class="inline">
+                                            
+
+<div class='row ByLine'>
+    <div class="col-md-12">
+        
+        <div class="Content">
+            <div id="MainCopy_ctl11_rptDocuments_Author_7_PostedByPanel_7">
+						
+                <span id="MainCopy_ctl11_rptDocuments_Author_7_PostedByText_7">by</span>
+                
+                <a id="MainCopy_ctl11_rptDocuments_Author_7_PostedByUserHyperLink_7" biobubblekey="642a020a-c119-4b11-aaa3-e52588aff52f" href="https://www.pad.org/people/leslie-plummer">Leslie P. Plummer</a>
+                
+                
+            
+					</div>
+        </div>
+    </div>
+</div>
+
+                                        </div>
+                                        
+                                    </div>
+                                    <div>
+                                        
+<div class="row margin-bottom-medium">
+    <div class="col-md-12">
+        <p>
+            #application  #awards  #law
+        </p>
+    </div>
+</div>
+                                    </div>
+                                    
+                                    <div>
+                                        
+
+
+<div class="libListReptEntAttchLble">
+    <span id="MainCopy_ctl11_rptDocuments_displayDocFiles_7_lblAttachmentSummary_7" class="text-muted">Attachments</span>
+</div>
+
+<div id="MainCopy_ctl11_rptDocuments_displayDocFiles_7_fileListInlineWrapper_7" class="row">
+    <div class="col-md-12">
+        <div class="listIconContainer">
+            
+        </div>
+        <div class="listIconContainer">
+            
+        </div>
+        <div class="listIconContainer">
+            
+        </div>
+        <div class="listIconContainer">
+            
+        </div>
+        <div class="listIconContainer">
+            
+        </div>
+        <div class="listIconContainer">
+            
+        </div>
+        <div class="listIconContainer">
+            
+        </div>
+        <div class="listIconContainer">
+            
+        </div>
+        <div class="listIconContainer">
+            
+        </div>
+        <div class="listIconContainer">
+            <a id="MainCopy_ctl11_rptDocuments_displayDocFiles_7_lnkPdf_7" title="1 PDF" href="/communities/community-home/librarydocuments/viewdocument?DocumentKey=15fe74e5-5732-4741-ba62-9c86aecb5b3c"><div id="MainCopy_ctl11_rptDocuments_displayDocFiles_7_pdfs_7" class="HLMListDocType HLMListTypePdf">
+						
+                
+					</div></a>
+        </div>
+        <div class="listIconContainer">
+            
+        </div>
+        <div class="listIconContainer">
+            
+        </div>
+        <div class="listIconContainer">
+            
+        </div>
+        <div class="listIconContainer">
+            
+        </div>
+        <div class="listIconContainer">
+            
+        </div>
+        <div class="listIconContainer">
+            
+        </div>
+        <div class="listIconContainer">
+            
+        </div>
+        <div class="listIconContainer">
+            
+        </div>
+        <div class="listIconContainer">
+            
+        </div>
+    <div class="listIconContainer">
+        
+    </div>
+    <div class="listIconContainer">
+        
+    </div>
+    <div class="listIconContainer">
+        
+    </div>
+        <div class="pull-right">
+            
+            <a id="MainCopy_ctl11_rptDocuments_displayDocFiles_7_btnDownloadSingle_7" class="btn btn-default" href="/HigherLogic/System/DownloadDocumentFile.ashx?DocumentFileKey=f1b94142-40a6-7227-f503-f9de00c3cc9d" target="_blank">Download</a>
+        </div>
+    </div>
+</div>
+
+                                    </div>
+                                
+				</div>
+                            </div>
+                        
+                            <div id="MainCopy_ctl11_rptDocuments_libListReptContainerDIV_8" class="row library-list">
+                                <div id="MainCopy_ctl11_rptDocuments_OwnerBlock_8" class="col-md-2 col-sm-2 text-center">
+					
+                                    
+<div class='row rlDetailListProfileImg '>
+    <div class="col-md-12">
+        
+        <div class="Content">
+            
+<div class=''>
+    
+    <div class="form-group">
+        <div class="col-md-12">
+            <div id="MainCopy_ctl11_rptDocuments_AuthorImage_8_ProfileImage_8_pnlProfileImage_8" biobubblekey="642a020a-c119-4b11-aaa3-e52588aff52f">
+						
+                
+                <a id="MainCopy_ctl11_rptDocuments_AuthorImage_8_ProfileImage_8_ProfileImageLink_8" href="https://www.pad.org/people/leslie-plummer"><img id="MainCopy_ctl11_rptDocuments_AuthorImage_8_ProfileImage_8_ProfileImage_8" src="https://www.pad.org/HigherLogic/directory/ImageDisplay.aspx?Key=619fe146-99fc-46dc-946f-bde49b000f05&amp;dt=516980280032" alt="" align="middle" /></a>
+            
+					</div>
+            <div visible="False" class="threadViewDetailsContainer">
+                <div id="MainCopy_ctl11_rptDocuments_AuthorImage_8_ProfileImage_8_DigitalRibbonBackground_8" class="digitalRibbonDisplay">
+                    <span></span>
+                </div>
+            </div>
+        </div>
+    </div>
+    
+    
+    
+</div>
+
+        </div>
+    </div>
+</div>
+
+                                
+				</div>
+                                <div id="MainCopy_ctl11_rptDocuments_NameBlock_8" class="col-md-10 col-sm-10">
+					
+                                    <div class="pull-right">
+                                        <div class="row">
+                                            <div class="col-md-12">
+                                                <span id="MainCopy_ctl11_rptDocuments_PostDateTime_8" class="pull-right text-muted timeAgoFormat">4 years ago</span>
+                                            </div>
+                                        </div>
+                                        <div class="row">
+                                            <div class="col-md-12">
+                                                <div id="MainCopy_ctl11_rptDocuments_documentItemRating_8_CommentPanel_8" class="CommentPanel ItemRatingCommentPanel">
+						
+        <script type="text/javascript">
+            function showLikesModal(itemkey, likeModalId, titleText) {
+
+                //find current div with contents, create container div above it
+                var itemKeySelector = "#" + itemkey;
+                var likeModalIdSelector = "#" + likeModalId;
+                if ($(itemKeySelector).html() == "") { return };
+                var div = $("<div title='" + titleText + "' id='" + itemkey + "'></div>");
+                $('body').append(div);
+                $(itemKeySelector).html($(likeModalIdSelector).html());
+
+                var buttonOpts = {};
+
+                buttonOpts['Close'] = function () {
+                    $(this).dialog("close");
+                };
+
+                //use dynamic container due to updatepanels
+                $(itemKeySelector).dialog({
+                    resizable: true,                 
+                    width: 500,
+                    modal: true, focus: function (type, data) {                    
+
+                        $(this).parent()
+                            .find(".ui-dialog-buttonset button").eq(0)
+                            .removeClass()
+                            .addClass("btn btn-default");                   
+
+                    },
+                    buttons: buttonOpts,
+                    open: function () {
+                        var closeBtn = $('.ui-dialog-titlebar-close');
+                        closeBtn.addClass('ui-button ui-widget ui-state-default ui-corner-all ui-button-icon-only ');
+                        if (closeBtn.find('span').length <= 0) {
+                            closeBtn.append('<span class="ui-button-icon-primary ui-icon ui-icon-closethick"></span><span class="ui-button-text">close</span>');
+                        }
+                    }
+
+                });
+
+                $(itemKeySelector).dialog('open');
+            }
+        </script>
+        
+        <div id="MainCopy_ctl11_rptDocuments_documentItemRating_8_likeRatingContainer_8" class="" style="margin-top:5px;">
+            <div id="MainCopy_ctl11_rptDocuments_documentItemRating_8_TotalRatingLikePanel_8">
+                <span id="MainCopy_ctl11_rptDocuments_documentItemRating_8_lblTotalLikes_8">Be the first person to recommend this.</span>
+            </div>    
+            
+                        
+        </div>
+        <!-- Recommend button -->
+        
+        
+        <!-- End of Recommend Button -->
+        <!-- tooltip element -->
+        <div id="MainCopy_ctl11_rptDocuments_documentItemRating_8_LikeModal_8" style="display: none;" title="People who like this">
+            
+        </div>
+        
+    
+					</div>
+
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div>
+                                        
+<div class="row">
+    <div class="col-md-12">
+        <h3>
+            <a id="MainCopy_ctl11_rptDocuments_DocumentDisplay_8_lnkDoc_8" title="Outstanding Law School Chapter Treasurer Award Application" href="https://www.pad.org/viewdocument/outstanding-law-scho-1">Outstanding Law School Chapter Treasurer Award Application</a>
+            
+            
+        </h3>
+    </div>
+</div>
+
+                                    </div>
+
+                                    <div class="libListReptEntByline">
+                                        
+                                        <div class="inline">
+                                            
+
+<div class='row ByLine'>
+    <div class="col-md-12">
+        
+        <div class="Content">
+            <div id="MainCopy_ctl11_rptDocuments_Author_8_PostedByPanel_8">
+						
+                <span id="MainCopy_ctl11_rptDocuments_Author_8_PostedByText_8">by</span>
+                
+                <a id="MainCopy_ctl11_rptDocuments_Author_8_PostedByUserHyperLink_8" biobubblekey="642a020a-c119-4b11-aaa3-e52588aff52f" href="https://www.pad.org/people/leslie-plummer">Leslie P. Plummer</a>
+                
+                
+            
+					</div>
+        </div>
+    </div>
+</div>
+
+                                        </div>
+                                        
+                                    </div>
+                                    <div>
+                                        
+<div class="row margin-bottom-medium">
+    <div class="col-md-12">
+        <p>
+            #application  #awards  #law
+        </p>
+    </div>
+</div>
+                                    </div>
+                                    
+                                    <div>
+                                        
+
+
+<div class="libListReptEntAttchLble">
+    <span id="MainCopy_ctl11_rptDocuments_displayDocFiles_8_lblAttachmentSummary_8" class="text-muted">Attachments</span>
+</div>
+
+<div id="MainCopy_ctl11_rptDocuments_displayDocFiles_8_fileListInlineWrapper_8" class="row">
+    <div class="col-md-12">
+        <div class="listIconContainer">
+            
+        </div>
+        <div class="listIconContainer">
+            
+        </div>
+        <div class="listIconContainer">
+            
+        </div>
+        <div class="listIconContainer">
+            
+        </div>
+        <div class="listIconContainer">
+            
+        </div>
+        <div class="listIconContainer">
+            
+        </div>
+        <div class="listIconContainer">
+            
+        </div>
+        <div class="listIconContainer">
+            
+        </div>
+        <div class="listIconContainer">
+            
+        </div>
+        <div class="listIconContainer">
+            <a id="MainCopy_ctl11_rptDocuments_displayDocFiles_8_lnkPdf_8" title="1 PDF" href="/communities/community-home/librarydocuments/viewdocument?DocumentKey=7c525f41-4875-43b0-a807-c7b2fecc6998"><div id="MainCopy_ctl11_rptDocuments_displayDocFiles_8_pdfs_8" class="HLMListDocType HLMListTypePdf">
+						
+                
+					</div></a>
+        </div>
+        <div class="listIconContainer">
+            
+        </div>
+        <div class="listIconContainer">
+            
+        </div>
+        <div class="listIconContainer">
+            
+        </div>
+        <div class="listIconContainer">
+            
+        </div>
+        <div class="listIconContainer">
+            
+        </div>
+        <div class="listIconContainer">
+            
+        </div>
+        <div class="listIconContainer">
+            
+        </div>
+        <div class="listIconContainer">
+            
+        </div>
+        <div class="listIconContainer">
+            
+        </div>
+    <div class="listIconContainer">
+        
+    </div>
+    <div class="listIconContainer">
+        
+    </div>
+    <div class="listIconContainer">
+        
+    </div>
+        <div class="pull-right">
+            
+            <a id="MainCopy_ctl11_rptDocuments_displayDocFiles_8_btnDownloadSingle_8" class="btn btn-default" href="/HigherLogic/System/DownloadDocumentFile.ashx?DocumentFileKey=409e4c2c-ebfc-126b-ddab-f7044e788498" target="_blank">Download</a>
+        </div>
+    </div>
+</div>
+
+                                    </div>
+                                
+				</div>
+                            </div>
+                        
+                            <div id="MainCopy_ctl11_rptDocuments_libListReptContainerDIV_9" class="row library-list">
+                                <div id="MainCopy_ctl11_rptDocuments_OwnerBlock_9" class="col-md-2 col-sm-2 text-center">
+					
+                                    
+<div class='row rlDetailListProfileImg '>
+    <div class="col-md-12">
+        
+        <div class="Content">
+            
+<div class=''>
+    
+    <div class="form-group">
+        <div class="col-md-12">
+            <div id="MainCopy_ctl11_rptDocuments_AuthorImage_9_ProfileImage_9_pnlProfileImage_9" biobubblekey="642a020a-c119-4b11-aaa3-e52588aff52f">
+						
+                
+                <a id="MainCopy_ctl11_rptDocuments_AuthorImage_9_ProfileImage_9_ProfileImageLink_9" href="https://www.pad.org/people/leslie-plummer"><img id="MainCopy_ctl11_rptDocuments_AuthorImage_9_ProfileImage_9_ProfileImage_9" src="https://www.pad.org/HigherLogic/directory/ImageDisplay.aspx?Key=619fe146-99fc-46dc-946f-bde49b000f05&amp;dt=516980280032" alt="" align="middle" /></a>
+            
+					</div>
+            <div visible="False" class="threadViewDetailsContainer">
+                <div id="MainCopy_ctl11_rptDocuments_AuthorImage_9_ProfileImage_9_DigitalRibbonBackground_9" class="digitalRibbonDisplay">
+                    <span></span>
+                </div>
+            </div>
+        </div>
+    </div>
+    
+    
+    
+</div>
+
+        </div>
+    </div>
+</div>
+
+                                
+				</div>
+                                <div id="MainCopy_ctl11_rptDocuments_NameBlock_9" class="col-md-10 col-sm-10">
+					
+                                    <div class="pull-right">
+                                        <div class="row">
+                                            <div class="col-md-12">
+                                                <span id="MainCopy_ctl11_rptDocuments_PostDateTime_9" class="pull-right text-muted timeAgoFormat">4 years ago</span>
+                                            </div>
+                                        </div>
+                                        <div class="row">
+                                            <div class="col-md-12">
+                                                <div id="MainCopy_ctl11_rptDocuments_documentItemRating_9_CommentPanel_9" class="CommentPanel ItemRatingCommentPanel">
+						
+        <script type="text/javascript">
+            function showLikesModal(itemkey, likeModalId, titleText) {
+
+                //find current div with contents, create container div above it
+                var itemKeySelector = "#" + itemkey;
+                var likeModalIdSelector = "#" + likeModalId;
+                if ($(itemKeySelector).html() == "") { return };
+                var div = $("<div title='" + titleText + "' id='" + itemkey + "'></div>");
+                $('body').append(div);
+                $(itemKeySelector).html($(likeModalIdSelector).html());
+
+                var buttonOpts = {};
+
+                buttonOpts['Close'] = function () {
+                    $(this).dialog("close");
+                };
+
+                //use dynamic container due to updatepanels
+                $(itemKeySelector).dialog({
+                    resizable: true,                 
+                    width: 500,
+                    modal: true, focus: function (type, data) {                    
+
+                        $(this).parent()
+                            .find(".ui-dialog-buttonset button").eq(0)
+                            .removeClass()
+                            .addClass("btn btn-default");                   
+
+                    },
+                    buttons: buttonOpts,
+                    open: function () {
+                        var closeBtn = $('.ui-dialog-titlebar-close');
+                        closeBtn.addClass('ui-button ui-widget ui-state-default ui-corner-all ui-button-icon-only ');
+                        if (closeBtn.find('span').length <= 0) {
+                            closeBtn.append('<span class="ui-button-icon-primary ui-icon ui-icon-closethick"></span><span class="ui-button-text">close</span>');
+                        }
+                    }
+
+                });
+
+                $(itemKeySelector).dialog('open');
+            }
+        </script>
+        
+        <div id="MainCopy_ctl11_rptDocuments_documentItemRating_9_likeRatingContainer_9" class="" style="margin-top:5px;">
+            <div id="MainCopy_ctl11_rptDocuments_documentItemRating_9_TotalRatingLikePanel_9">
+                <span id="MainCopy_ctl11_rptDocuments_documentItemRating_9_lblTotalLikes_9">Be the first person to recommend this.</span>
+            </div>    
+            
+                        
+        </div>
+        <!-- Recommend button -->
+        
+        
+        <!-- End of Recommend Button -->
+        <!-- tooltip element -->
+        <div id="MainCopy_ctl11_rptDocuments_documentItemRating_9_LikeModal_9" style="display: none;" title="People who like this">
+            
+        </div>
+        
+    
+					</div>
+
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div>
+                                        
+<div class="row">
+    <div class="col-md-12">
+        <h3>
+            <a id="MainCopy_ctl11_rptDocuments_DocumentDisplay_9_lnkDoc_9" title="Outstanding Law School Chapter Vice Justice Award Application" href="https://www.pad.org/viewdocument/outstanding-law-scho-2">Outstanding Law School Chapter Vice Justice Award Application</a>
+            
+            
+        </h3>
+    </div>
+</div>
+
+                                    </div>
+
+                                    <div class="libListReptEntByline">
+                                        
+                                        <div class="inline">
+                                            
+
+<div class='row ByLine'>
+    <div class="col-md-12">
+        
+        <div class="Content">
+            <div id="MainCopy_ctl11_rptDocuments_Author_9_PostedByPanel_9">
+						
+                <span id="MainCopy_ctl11_rptDocuments_Author_9_PostedByText_9">by</span>
+                
+                <a id="MainCopy_ctl11_rptDocuments_Author_9_PostedByUserHyperLink_9" biobubblekey="642a020a-c119-4b11-aaa3-e52588aff52f" href="https://www.pad.org/people/leslie-plummer">Leslie P. Plummer</a>
+                
+                
+            
+					</div>
+        </div>
+    </div>
+</div>
+
+                                        </div>
+                                        
+                                    </div>
+                                    <div>
+                                        
+<div class="row margin-bottom-medium">
+    <div class="col-md-12">
+        <p>
+            #law  #application  #awards
+        </p>
+    </div>
+</div>
+                                    </div>
+                                    
+                                    <div>
+                                        
+
+
+<div class="libListReptEntAttchLble">
+    <span id="MainCopy_ctl11_rptDocuments_displayDocFiles_9_lblAttachmentSummary_9" class="text-muted">Attachments</span>
+</div>
+
+<div id="MainCopy_ctl11_rptDocuments_displayDocFiles_9_fileListInlineWrapper_9" class="row">
+    <div class="col-md-12">
+        <div class="listIconContainer">
+            
+        </div>
+        <div class="listIconContainer">
+            
+        </div>
+        <div class="listIconContainer">
+            
+        </div>
+        <div class="listIconContainer">
+            
+        </div>
+        <div class="listIconContainer">
+            
+        </div>
+        <div class="listIconContainer">
+            
+        </div>
+        <div class="listIconContainer">
+            
+        </div>
+        <div class="listIconContainer">
+            
+        </div>
+        <div class="listIconContainer">
+            
+        </div>
+        <div class="listIconContainer">
+            <a id="MainCopy_ctl11_rptDocuments_displayDocFiles_9_lnkPdf_9" title="1 PDF" href="/communities/community-home/librarydocuments/viewdocument?DocumentKey=2fdf0797-72d2-4677-b464-d52506f1fa5e"><div id="MainCopy_ctl11_rptDocuments_displayDocFiles_9_pdfs_9" class="HLMListDocType HLMListTypePdf">
+						
+                
+					</div></a>
+        </div>
+        <div class="listIconContainer">
+            
+        </div>
+        <div class="listIconContainer">
+            
+        </div>
+        <div class="listIconContainer">
+            
+        </div>
+        <div class="listIconContainer">
+            
+        </div>
+        <div class="listIconContainer">
+            
+        </div>
+        <div class="listIconContainer">
+            
+        </div>
+        <div class="listIconContainer">
+            
+        </div>
+        <div class="listIconContainer">
+            
+        </div>
+        <div class="listIconContainer">
+            
+        </div>
+    <div class="listIconContainer">
+        
+    </div>
+    <div class="listIconContainer">
+        
+    </div>
+    <div class="listIconContainer">
+        
+    </div>
+        <div class="pull-right">
+            
+            <a id="MainCopy_ctl11_rptDocuments_displayDocFiles_9_btnDownloadSingle_9" class="btn btn-default" href="/HigherLogic/System/DownloadDocumentFile.ashx?DocumentFileKey=6c79f727-6a2d-ef7c-5011-da96b25fb5b7" target="_blank">Download</a>
+        </div>
+    </div>
+</div>
+
+                                    </div>
+                                
+				</div>
+                            </div>
+                        
+
+                    <ul class="pagination">
+					<li><a href="/communities/community-home/librarydocuments?LibraryKey=dc9cc7b6-81f6-4a84-a55c-a52176c73cbd&amp;LibraryFolderKey=bb39ab7b-8016-4600-8754-d9403d37f298&amp;page=3">«</a></li><li><a class="NumericButton" href="/communities/community-home/librarydocuments?LibraryKey=dc9cc7b6-81f6-4a84-a55c-a52176c73cbd&amp;LibraryFolderKey=bb39ab7b-8016-4600-8754-d9403d37f298&amp;page=1">1</a></li><li><a class="NumericButton" href="/communities/community-home/librarydocuments?LibraryKey=dc9cc7b6-81f6-4a84-a55c-a52176c73cbd&amp;LibraryFolderKey=bb39ab7b-8016-4600-8754-d9403d37f298&amp;page=2">2</a></li><li><a class="NumericButton" href="/communities/community-home/librarydocuments?LibraryKey=dc9cc7b6-81f6-4a84-a55c-a52176c73cbd&amp;LibraryFolderKey=bb39ab7b-8016-4600-8754-d9403d37f298&amp;page=3">3</a></li><li class="active"><span class="CurrentPageLabel">4</span></li><li><a class="NumericButton" href="/communities/community-home/librarydocuments?LibraryKey=dc9cc7b6-81f6-4a84-a55c-a52176c73cbd&amp;LibraryFolderKey=bb39ab7b-8016-4600-8754-d9403d37f298&amp;page=5">5</a></li><li><a href="/communities/community-home/librarydocuments?LibraryKey=dc9cc7b6-81f6-4a84-a55c-a52176c73cbd&amp;LibraryFolderKey=bb39ab7b-8016-4600-8754-d9403d37f298&amp;page=5">»</a></li>
+				</ul>
+                
+			</div>
+                
+            </div>
+        </div>
+    </div>
+
+		</div>
+
+<script>
+    $(document).ready(function () {
+        $('#MainCopy_ctl11_sortOptions').selectpicker();
+        $('#MainCopy_ctl11_filterOptions').selectpicker();
+    });
+</script>
+
+
+
+
+
+
+
+	</div></div></div>
+        <div id="MainCopy_extraPanel">
+		
+        
+	</div>
+        
+    </div>
+
+                        
+                        
+
+                        
+                    
+</div>
+                    
+                    
+                    <!--end content-->
+                </div>
+
+            </div>
+            <div id="MPOuterFooter" class="row siteFrame">
+                <div id="FOOTER" class="col-md-12">
+                    <div class="row">
+                        <div class="col-md-12">
+                            
+                            <div class="ContentItemHtml footer-content"><div class="HtmlContent"><div class="address-and-copyright">
+<div class="row">
+<div class="col-md-8 tomenu"></div>
+<div class="col-md-4">
+<h3>Phi Alpha Delta Law Fraternity, International</h3>
+<address>606 Baltimore Avenue<br /> Suite 303<br /> Towson MD 21204</address>
+<ul class="contact">
+<li><label for="phone">Phone:</label> <a href="tel:4103473118">410-347-3118</a></li>
+<li><label for="email">Email:</label> <a href="mailto:info@pad.org">info@pad.org</a></li>
+</ul>
+<span class="copy">© 2019 Phi Alpha Delta Law Fraternity, International</span> <span class="credit">Site Designed by <a href="//www.personifyinteractive.com" target="_blank" rel="noopener">Personify Interactive</a></span></div>
+</div>
+</div></div><div class="HtmlFooter"></div></div>
+                        </div>
+                    </div>
+                    <div id="MPFooter" class="row">
+                        <div class="Footer col-md-12">
+                            <div id="FooterContent">
+	
+                            
+</div>
+                            <div id="MPBottomMenu" class="MPBottomMenu" align="center">
+                                <ul class="FatFooterMenu list-inline"><li class="static" role="menuitem"><a href="/home" class="level1">Home</a><ul class="level2 static" tabindex="0" role="menubar"><li class="static" role="menuitem"><a href="/home/licensed-vendors" class="level2">Licensed Vendors</a></li></ul></li><li class="static" role="menuitem"><a href="/join-pad" class="level1">JOIN</a><ul class="level2 static" tabindex="0" role="menubar"><li class="static" role="menuitem"><a href="/join-pad/onlineapplicationnew" class="level2">Online Application</a></li><li class="static" role="menuitem"><a href="/join-pad/eligibility78" class="level2">Eligibility & Join Info</a></li></ul></li><li class="static" role="menuitem"><a href="/myprofileredirect" class="level1">Profile</a><ul class="level2 static" tabindex="0" role="menubar"><li class="static" role="menuitem"><a href="/myprofileredirect/myprofile" class="level2">My Profile</a></li><li class="static" role="menuitem"><a href="/myprofileredirect/mysubs" class="level2">My Subscriptions</a></li><li class="static" role="menuitem"><a href="/myprofileredirect/myprivacy" class="level2">My Privacy Settings</a></li><li class="static" role="menuitem"><a href="/myprofileredirect/mycontacts" class="level2">My Contacts</a></li><li class="static" role="menuitem"><a href="/myprofileredirect/mymessages" class="level2">My Messages</a></li><li class="static" role="menuitem"><a href="/myprofileredirect/signature" class="level2">My Signature</a></li></ul></li><li class="static" role="menuitem"><a href="/about" class="level1">About Us</a><ul class="level2 static" tabindex="0" role="menubar"><li class="static" role="menuitem"><a href="/about/aboutpad" class="level2">About P.A.D.</a></li><li class="static" role="menuitem"><a href="/about/padhistory" class="level2">P.A.D. History</a></li><li class="static" role="menuitem"><a href="/about/internationalleadership" class="level2">International Leadership</a></li><li class="static" role="menuitem"><a href="/about/padinternationalfoundation" class="level2">P.A.D. International Foundation</a></li><li class="static" role="menuitem"><a href="/about/store" class="level2">P.A.D. Online Store</a></li><li class="static" role="menuitem"><a href="/about/reporter96" class="level2">The Reporter</a></li><li class="static" role="menuitem"><a href="/about/pressroom" class="level2">Press Room</a></li><li class="static" role="menuitem"><a href="/about/prominentpads" class="level2">Prominent P.A.D.s</a></li><li class="static" role="menuitem"><a href="/about/nationalinitiatives" class="level2">National Initiatives</a></li></ul></li><li class="static" role="menuitem"><a href="/membership" class="level1">Membership</a><ul class="level2 static" tabindex="0" role="menubar"><li class="static" role="menuitem"><a href="/membership/join" class="level2">Join Phi Alpha Delta</a></li><li class="static" role="menuitem"><a href="/membership/membershipbenefits" class="level2">Membership Benefits</a></li><li class="static" role="menuitem"><a href="/membership/alumni" class="level2">ALUMNI</a></li><li class="static" role="menuitem"><a href="/membership/law" class="level2">LAW</a></li><li class="static" role="menuitem"><a href="/membership/prelaw" class="level2">PRE-LAW</a></li><li class="static" role="menuitem"><a href="/membership/the-society-of-scholars" class="level2">The Society Of Scholars</a></li><li class="static" role="menuitem"><a href="/membership/policies" class="level2">P.A.D. Policies</a></li><li class="static" role="menuitem"><a href="/membership/2018awardwinners" class="level2">2018 Law & Alumni Award Winners</a></li><li class="static" role="menuitem"><a href="/membership/2018plawards" class="level2">2018 Pre-Law Award Winners</a></li></ul></li><li class="static" role="menuitem"><a href="/communities" class="level1">Communities</a><ul class="level2 static" tabindex="0" role="menubar"><li class="static" role="menuitem"><a href="/communities/allcommunities" class="level2">All Communities</a></li><li class="static" role="menuitem"><a href="/communities/mycommunities" class="level2">My Communities</a></li><li class="static" role="menuitem"><a href="/communities/redirectopenforum" class="level2">Open Forum</a></li><li class="static" role="menuitem"><a href="/communities/chapters" class="level2">Chapters</a></li><li class="static" role="menuitem"><a href="/communities/districtslink" class="level2">Districts</a></li><li class="static" role="menuitem"><a href="/communities/new-item" class="level2">Job Postings</a></li><li class="static" role="menuitem"><a href="/communities/new-item2" class="level2">Internship/Externship Opportunities</a></li><li class="static" role="menuitem"><a href="/communities/practice-areas" class="level2">Practice Areas</a></li></ul></li><li class="static" role="menuitem"><a href="/network" class="level1">Directory</a></li><li class="static" role="menuitem"><a href="/events" class="level1">Events</a><ul class="level2 static" tabindex="0" role="menubar"><li class="static" role="menuitem"><a href="/events/calendar" class="level2">Upcoming Events</a></li><li class="static" role="menuitem"><a href="/events/prelawconference" class="level2">PRE-LAW CONFERENCE</a></li><li class="static" role="menuitem"><a href="/events/lawmocktrial" class="level2">LAW MOCK TRIAL 2019</a></li><li class="static" role="menuitem"><a href="/events/supremecourtpadday" class="level2">P.A.D. DAY AT THE U.S. SUPREME COURT</a></li><li class="static" role="menuitem"><a href="/events/convention2020" class="level2">BIENNIAL CONVENTION 2020</a></li><li class="static" role="menuitem"><a href="/events/summit2019" class="level2">LEADERSHIP SUMMIT 2019</a></li></ul></li><li class="static" role="menuitem"><a href="/pad-foundation" class="level1">Foundation</a><ul class="level2 static" tabindex="0" role="menubar"><li class="static" role="menuitem"><a href="/pad-foundation/new-item2" class="level2">About</a></li><li class="static" role="menuitem"><a href="/pad-foundation/new-item" class="level2">Day of Giving</a></li><li class="static" role="menuitem"><a href="/pad-foundation/new-item3" class="level2">Donate</a></li></ul></li></ul>
+                                
+                            </div>
+                        </div>
+                    </div>
+                    <div class="row">
+                        <div id="MPCopyright" class="col-md-12">
+                            Copyright © 2019 Phi Alpha Delta Law Fraternity, International. All rights reserved.
+                        </div>
+                    </div>
+                    
+                    
+                    <div class="row">
+                        <div class="col-md-12">
+                            
+                            <div class="ContentUserControl">
+	
+<script charset="utf-8">$('#MPBottomMenu').appendTo('.tomenu');
+$( document ).ready(function() {
+$('.FatFooterMenu > li > a').each(function(){
+$(this).parent().addClass(function( index ) {
+return "nav-" + $(this).children('a').text().replace(/ /g,'').replace(/&/g,"");
+}); });
+});</script>
+</div>
+                        </div>
+                    </div>
+                    <div class="row">
+                        <div class="col-md-12"></div>
+                    </div>
+                    <div class="row">
+                        <div class="col-md-12">
+                            
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div id="MPFooterLink" class="row siteFrame">
+                <div class="col-md-12">
+                    <div id="MPFooterLinkContent">
+                        <a href="http://www.higherlogic.com" target="_blank">Powered by Higher Logic</a>
+                    </div>
+                </div>
+            </div>
+            <!--mp_base--><div id="GlobalPopupContainer">
+												<div id="GlobalPopupContent" >
+													<img ID="imgGlobalProcessing" alt="" src="https://d2x5ku95bkycr3.cloudfront.net/img/loading.gif" />
+												</div>
+											 </div>
+            
+            
+        
+<script type="text/javascript">
+//<![CDATA[
+var Page_Validators =  new Array(document.getElementById("SearchControl_StartDate_RangeValidator1"), document.getElementById("SearchControl_EndDate_RangeValidator1"));
+//]]>
+</script>
+
+<script type="text/javascript">
+//<![CDATA[
+var SearchControl_StartDate_RangeValidator1 = document.all ? document.all["SearchControl_StartDate_RangeValidator1"] : document.getElementById("SearchControl_StartDate_RangeValidator1");
+SearchControl_StartDate_RangeValidator1.controltovalidate = "SearchControl_StartDate_ucTextBox";
+SearchControl_StartDate_RangeValidator1.focusOnError = "t";
+SearchControl_StartDate_RangeValidator1.errormessage = "Not a valid date";
+SearchControl_StartDate_RangeValidator1.display = "Dynamic";
+SearchControl_StartDate_RangeValidator1.type = "Date";
+SearchControl_StartDate_RangeValidator1.dateorder = "mdy";
+SearchControl_StartDate_RangeValidator1.cutoffyear = "2029";
+SearchControl_StartDate_RangeValidator1.century = "2000";
+SearchControl_StartDate_RangeValidator1.evaluationfunction = "RangeValidatorEvaluateIsValid";
+SearchControl_StartDate_RangeValidator1.maximumvalue = "9999/12/31";
+SearchControl_StartDate_RangeValidator1.minimumvalue = "0001/01/01";
+var SearchControl_EndDate_RangeValidator1 = document.all ? document.all["SearchControl_EndDate_RangeValidator1"] : document.getElementById("SearchControl_EndDate_RangeValidator1");
+SearchControl_EndDate_RangeValidator1.controltovalidate = "SearchControl_EndDate_ucTextBox";
+SearchControl_EndDate_RangeValidator1.focusOnError = "t";
+SearchControl_EndDate_RangeValidator1.errormessage = "Not a valid date";
+SearchControl_EndDate_RangeValidator1.display = "Dynamic";
+SearchControl_EndDate_RangeValidator1.type = "Date";
+SearchControl_EndDate_RangeValidator1.dateorder = "mdy";
+SearchControl_EndDate_RangeValidator1.cutoffyear = "2029";
+SearchControl_EndDate_RangeValidator1.century = "2000";
+SearchControl_EndDate_RangeValidator1.evaluationfunction = "RangeValidatorEvaluateIsValid";
+SearchControl_EndDate_RangeValidator1.maximumvalue = "9999/12/31";
+SearchControl_EndDate_RangeValidator1.minimumvalue = "0001/01/01";
+//]]>
+</script>
+
+
+<script type="text/javascript">
+//<![CDATA[
+var _suppressGlobalPopupContainer = false;
+			  
+									Sys.Application.add_load(GlobalApplicationLoadHandler);
+
+									function GlobalApplicationLoadHandler(sender, args) {
+										var prm = Sys.WebForms.PageRequestManager.getInstance();
+										if (!prm.get_isInAsyncPostBack()) {
+											prm.add_initializeRequest(initRequest);
+											prm.add_endRequest(endRequest);
+										}
+									}
+									function initRequest(sender, args) {
+										if (!_suppressGlobalPopupContainer) {
+											hl_common_ui_blockUI();
+										}
+									}
+
+									function endRequest(sender, args) {
+										 hl_common_ui_unBlockUI();
+									}
+WebForm_InitCallback();//]]>
+</script>
+<script type='text/javascript'>new Sys.WebForms.Menu({ element: 'AuxMenu', disappearAfter: 500, orientation: 'horizontal', tabIndex: 0, disabled: false });</script>
+<script type="text/javascript">
+//<![CDATA[
+
+var Page_ValidationActive = false;
+if (typeof(ValidatorOnLoad) == "function") {
+    ValidatorOnLoad();
+}
+
+function ValidatorOnSubmit() {
+    if (Page_ValidationActive) {
+        return ValidatorCommonOnSubmit();
+    }
+    else {
+        return true;
+    }
+}
+        
+document.getElementById('SearchControl_StartDate_RangeValidator1').dispose = function() {
+    Array.remove(Page_Validators, document.getElementById('SearchControl_StartDate_RangeValidator1'));
+}
+
+document.getElementById('SearchControl_EndDate_RangeValidator1').dispose = function() {
+    Array.remove(Page_Validators, document.getElementById('SearchControl_EndDate_RangeValidator1'));
+}
+//]]>
+</script>
+</form>
+    </div>
+    <script>
+
+        $(document).ready(function () {
+
+            var path = window.location.pathname;
+            var lastChar = path.substr(-1); // Selects the last character
+            if (lastChar != '?' && lastChar != '/' && lastChar != ';') {         // If the last character is not a slash
+                path = path + '/';            // Append a slash to it.
+            }
+
+            $('ul.navbar-nav a').each(function () {
+                var myHref = $(this).attr('href');
+                var lastChar2 = myHref.substr(-1); // Selects the last character
+                if (lastChar2 != '?' && lastChar2 != '/' && lastChar2 != ';') {         // If the last character is not a slash
+                    myHref = myHref + '/';            // Append a slash to it.
+                }
+                if (path == myHref) {
+                    $(this).parents('li').last().addClass('active current-page');
+                    $(this).parent('li').addClass('active current-page');
+                }
+            });
+
+            $('#modalTags').on('tagAdded', function() {
+                var oldCount = parseInt($('#litCommunityTagsCount').text());
+                $('#litCommunityTagsCount').text(oldCount + 1);
+            }).on('tagRemoved', function() {
+                var oldCount = parseInt($('#litCommunityTagsCount').text());
+                $('#litCommunityTagsCount').text(oldCount - 1);
+            });
+            
+            var isImpersonating = false;
+
+            
+
+            //var btn = $.fn.button.noConflict(); // reverts $.fn.button to jqueryui btn
+            //$.fn.btn = btn; // assigns bootstrap button functionality to $.fn.btn
+        });
+    </script>
+</body>
+
+</html>

@@ -1,0 +1,134 @@
+/* Background Images and Footer */
+#MPOuterHeader { background-image: url('https://higherlogicdownload.s3.amazonaws.com/PAD/4b73e9e9-0092-456c-a827-668cf95b5c00/UploadedImages/PAD-Header-BG.jpg'); background-repeat: repeat; }
+.bodyBackground { background-image: url('http://higherlogicdownload.s3.amazonaws.com/PAD/4b73e9e9-0092-456c-a827-668cf95b5c00/UploadedImages/PAD-BG.png'); background-repeat: repeat; }
+#MPCopyright { clear: both; float: none; text-align: center; }
+/* Color Picker */
+/********************* Basics **************************/    body {      color: #000000;  }        a {      color: #5D4A9C;  }   /*  a.user-content-mention {      color: ;  }  */  /*  a.user-content-hashtag {      color: ;  }  */    a:hover {      color: #5D4A9C;  }    /*  a.user-content-mention:hover {      color: ;  }  */ /*  a.user-content-hashtag:hover {      color: ;  }  */   .bodyBackground {      background-color: #FFFFFF;  }      /*  a.user-content-hashtag {  background: ; } */  /* a.user-content-hashtag:hover {  background: ; } */      .siteFrame {      background-color: #FFFFFF;  }        #MPOuterMost {      border-color: #777777;  }      h1, .Heading1 {      color: #5D4A9C;      /*background-color: ;*/  }    h2, .Heading2, h2 a, h2 a:hover, .text-muted-h2 h2 {      color: #000000;      /*background-color: ;*/  }    h3, .Heading3, h3 a, h3 a:hover {      color: #000000;      /*background-color: ;*/  }    /*  hr, hr.delimiter, .HLLandingControl ul li {      border-bottom-color: ;  }  */    #MPOuterFooter {      background-color: #F1D50D;      color: #FFFFFF;  }      fieldset {      border-color: #5D4A9C;  }      fieldset legend {      background-color: #5D4A9C;      border-color: #5D4A9C;      color: #FFFFFF;  }      .SearchResults .SortBy {      color: #FFFFFF;  }          /*********************** Landing Controls ******************/  .HLLandingControl .heading, .HLLandingControl h2, .headerItem, .drItemSubHeader {      /*background-color: ;*/      color: #000000;  }      .drItemSubHeader a:not(.skip-header-text-color){         color: #000000;  }      .ContentUserControl .HLLandingControl, .ContentUserControl.HLLandingControl, .ContentItemHtml.HLLandingControl {      border-color: #777777;      color: #000000;      background-color: #FFFFFF;  }      .HLLandingControl .Content a:not(.btn) {      color: #5D4A9C;  }        .HLLandingControl .ByLine {      color: #000000;  }        .HLLandingControl h5, .HLLandingControl h4, .HLEngagement h3 {      color: #F1D50D;  }        .HLLandingControl .Content h3 a, .HLAnnouncements .Content h2 a, .HLRSSReader .Content h2 a {      color: #5D4A9C;  }      /************************ Tabs **********************/  .nav-tabs > li.active > a, .nav-tabs > li.active > a:hover, .nav-tabs > li.active > a:focus {      /*background-color: ;*/      /*border-color: ;*/      color: #5D4A9C;  }  /*  .nav-tabs {      border-bottom-color: ;  }  */    .nav-tabs > li > a:hover, .nav-tabs > li > a:focus, .nav .open > a:hover, .nav .open > a:focus {      /*background-color: ;*/      /*border-bottom-color: ;*/      color: #5D4A9C;  }  .nav-tabs > li > a {      /*background-color: ;*/      /*color: ;*/  }    /************************ Miscellaneous **********************/    .SloganText {      color: #5D4A9C;  }      .ModalPopupHeading, .CustomTableModalPopup .CustomTableModalPopupHeaderRow {      background-color: #5D4A9C;      color: #FFFFFF;  }      .lblratingBig {      color: #5D4A9C;  }    /************************ Tables **********************/  .Container thead .Header td, th, .ListContainer .ListHeader, .drItemSubHeader,  .table-thead-background tr th, .table-thead-background tr td {      background-color: #5D4A9C;      color: #FFFFFF;  }      th a, th a:hover  {      color: #FFFFFF;  }        .TableRowAlternate, .table-hover > tbody > tr:hover > td  {      background-color: #FFFFFF;  }      /************************ Menus ***********************/    #MPAuxNav ul.level1 li a {      color: #5D4A9C;  }        #MPAuxNav ul.level1 li ul {      background-color: #F1D50D;  }        #MPAuxNav ul.level1 li li.dynamic {      border-right-color: #5D4A9C;  }      /*  #SideMenu ul.level1 li ul {      background-color: White;  }  */    /*  .MPSideNavBottom {      color: #0069A5;  }  */    /*  .breadcrumb {      background-color: ;  }  */      .breadcrumb li {      color: #000000;  }        .breadcrumb li a {      color: #5D4A9C;  }        .MPBottomMenu ul li a {      color: #FFFFFF;  }          /************************ Bootstrap Menus ***********************/    .navbar-default, #NAV {      background-color: #F1D50D;      border-color: #F1D50D;  }        .navbar-default .navbar-nav > li > a {      color: #330033;  }      .navbar .navbar-nav > .active > a,    .navbar .navbar-nav > .active > a:hover,    .navbar .navbar-nav > .active > a:focus,   .navbar .navbar-nav > li > a:hover {        background-color: #5D4A9C;      color: #FFFFFF;  }    .navbar-default .navbar-nav > .open > a, .navbar-default .navbar-nav > .open > a:hover, .navbar-default .navbar-nav > .open > a:focus {      background-color: #5D4A9C;      color: #FFFFFF;  }      #MPButtonBar .dropdown-menu {      background-color: #F1D50D;  }        #MPButtonBar .dropdown-menu li a {      color: #FFFFFF;  }        #MPButtonBar .dropdown-menu li a:hover,    #MPButtonBar .dropdown-menu li a:focus {       background-color: #231761;  }      #MPButtonBar .dropdown-menu .active > a,   #MPButtonBar li .dropdown-menu .active > a:hover,   #MPButtonBar .dropdown-menu .dropdown-submenu .active a:hover,   #MPButtonBar .dropdown-submenu .dropdown-submenu .active a:hover {      background-color: #5D4A9C;      color: #FFFFFF;  }    /*  #MPButtonBar .dropdown-menu {      border-color: ;  }  */    /************************ Bootstrap Buttons ***********************/  .btn-primary, .ui-widget-content a.btn-primary {      /*background-color: ;*/      /*border-color: ;*/      /*color: !important;*/  }    .btn-primary:hover, .btn-primary:focus, .btn-primary:active, .open .dropdown-toggle.btn-primary {      /*background-color: ;*/      /*border-color: ;*/      /*color: ;*/  }    .btn-info {      /*background-color: ;*/      /*border-color: ;*/      /*color: ;*/  }    .btn-info:hover, .btn-info:focus, .btn-info:active, .open .dropdown-toggle.btn-info {      /*background-color: ;*/      /*border-color: ;*/      /*color: ;*/  }    .btn-success {      /*background-color: ;*/      /*border-color: ;*/      /*color: ;*/  }    .btn-success:hover, .btn-success:focus, .btn-success:active, .open .dropdown-toggle.btn-success {      /*background-color: ;*/      /*border-color: ;*/      /*color: ;*/  }    .btn-danger {      /*background-color: ;*/      /*border-color: ;*/      /*color: ;*/  }    .btn-danger:hover, .btn-danger:focus, .btn-danger:active, .open .dropdown-toggle.btn-danger {      /*background-color: ;*/      /*border-color: ;*/      /*color: ;*/  }    .btn-default {      /*background-color: ;*/      /*border-color: ;*/      /*color: ;*/  }    .btn-default:hover, .btn-default:focus, .btn-default:active, .open .dropdown-toggle.btn-default {      /*background-color: ;*/      /*border-color: ;*/      /*color: ;*/  }    .pagination > .active > span, .pagination > .active > span:hover, .pagination li.active>a, .pagination li.active>a:hover {      /*background-color: ;*/      /*border-color: ;*/      /*color: ;*/  }    .pagination > li > a {      /*background-color: ;*/      /*border-color: ;*/      /*color: ;*/  }    .pagination > li > a:hover {      /*background-color: ;*/      /*border-color: ;*/      /*color: ;*/  }    .label-default {      /*background-color: ;*/      /*color: ;*/  }    .badge, .badge a, a.badge a:hover {      /*background-color: ;*/      /*color: ;*/  }    .modal-header {      background-color: #FFFFFF;      color: #000000;  }    .modal-body, .panel-body {      background-color: #FFFFFF;      color: #000000;  }    .modal-footer, .panel-footer {      /*background-color: ;*/  }  /*  #MPFooterLink {      background-color: ;  }  */    /*  #MPFooterLink a {      color: ;  }  */    /*  .faceted-search-main .facets .header {      color: ;  }  */    /*  .faceted-search-main .facets .header {      background-color: ;  }  */ /*  .cookie-notification-bar {      background-color: ;  }  */ /*  .cookie-notification-bar span {      color: ;  }  */
+/* CSS Overrides */
+.traditional-nav > .col-md-12 {
+    padding-left:0;
+    padding-right:0;
+}
+#MPOuterFooter h3 {font-size:16px; font-weight:bold}
+#MPOuterFooter h3, #MPOuterFooter a {color:#fff}
+
+.navbar-default .navbar-nav > li > a {font-family:Arial, sans-serif; font-weight:bold}
+
+.FatFooterMenu > li {display:none !important}
+.FatFooterMenu > li.nav-Home,
+.FatFooterMenu > li.nav-AboutUs,
+.FatFooterMenu > li.nav-Membership,
+.FatFooterMenu > li.nav-Events {display:block !important; float:none}
+
+.FatFooterMenu > li > a {font-weight:bold; padding-bottom:5px}
+div .MPBottomMenu ul.level2 {padding-left:0px; padding-bottom:20px}
+
+.home .HLAnnouncements h3 {font-size:16px; font-weight:bold}
+.title h2 {font-weight:bold; font-size:24px; color:#5d4a9c; }
+
+.SloganText {color: #fff; font-family:Georgia,serif;
+    font-size: 18px;
+    font-weight: bold;
+    vertical-align: top; font-style:italic; font-weight:normal}
+.SloganText strong {font-style:normal; color:#000; display:block; margin:0px 0px 15px 0px; font-weight:bold}
+
+div#MPOuterFooter {background-image:url('http://higherlogicdownload.s3.amazonaws.com/PAD/4b73e9e9-0092-456c-a827-668cf95b5c00/UploadedImages/footer2.png');  background-position: 15px 0;
+    background-repeat: repeat-x; background-color:#1e0577}
+
+body.bodyBackground {background-repeat:repeat-x; padding:0px}
+
+.MPBottomMenu {margin-top:15px}
+
+#MPOuterFooter .level2 { }
+
+.HLHomePage .HtmlContent {border:0px solid #777; margin-bottom:15px}
+.HLHomePage .HtmlContent img {border:1px solid #777; margin-left:8px}
+#MPBottomAds {padding-bottom:20px}
+.title .HtmlContent {border:0px none}
+
+
+#MPOuterHeader {background-position:top right; 
+background-color:#b2a2ea; background-repeat:no-repeat}
+#MPButtonBar .dropdown-menu {background-color:#5d4a9c}
+
+.navbar {border-radius:0px; border:0px none; border-bottom:5px solid #231761}
+.nav > .active > a, .dropdown-menu {border-radius:0 !important}
+.navbar-default .navbar-nav > .open > a, .navbar-default .navbar-nav > .open > a:hover, .navbar-default .navbar-nav > .open > a:focus {background-color:#4b3a8a}
+
+.LogoImg img {margin-top:-20px; margin-bottom:15px}
+
+#MPOuterFooter, .navbar-default .navbar-toggle {background-color:#5d4a9c}
+.navbar-default .navbar-toggle {border-color:#231761}
+.navbar-default .navbar-toggle:hover, .navbar-default .navbar-toggle:focus {opacity:.9; background-color:#5d4a9c}
+
+
+
+    /* Custom, iPhone Retina */ 
+    @media only screen and (min-width : 320px) {
+        
+    }
+
+    /* Extra Small Devices, Phones */ 
+    @media only screen and (min-width : 480px) {
+
+    }
+
+   
+    @media only screen and (min-width : 768px) {
+
+    }
+
+    
+    @media only screen and (min-width : 992px) {
+#MPOuterHeader {background-size:contain}
+.FatFooterMenu > li {float:left !important; min-height:230px; min-width:150px; max-width:150px; margin-right:30px}
+.tomenu {/* background-image:url('https://higherlogicdownload.s3.amazonaws.com/PAD/4b73e9e9-0092-456c-a827-668cf95b5c00/UploadedImages/PAD-Logo.png'); background-repeat:no-repeat; background-position:center bottom */}
+.SloganText { margin-top:-8px; margin-left:15px}
+    }
+
+  
+    @media only screen and (min-width : 1200px) {
+#MPOuter {min-height:600px}
+#MPOuterFooter {/* left: 0;
+    position: absolute;
+    width: 100%; */}
+#FOOTER {max-width:1200px; margin:0px auto}
+    }
+
+
+
+
+
+
+
+
+   
+    @media only screen and (max-width : 1200px) {
+
+    }
+
+   
+    @media only screen and (max-width : 992px) {
+
+    }
+
+  
+    @media only screen and (max-width : 768px) {
+
+    }
+
+    /* Extra Small Devices, Phones */ 
+    @media only screen and (max-width : 480px) {
+.SloganText {display:none}
+    }
+
+    /* Custom, iPhone Retina */ 
+    @media only screen and (max-width : 320px) {
+        
+    }
+
+
+.carousel-indicators li {
+    display: none;
+   
+}

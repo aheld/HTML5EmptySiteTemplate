@@ -1,0 +1,1225 @@
+
+
+<!DOCTYPE html>
+<html lang="en">
+<head id="Head1"><meta name="viewport" content="width=device-width, initial-scale=1.0" /><meta http-equiv="X-UA-Compatible" content="IE=edge" /><meta name="KEYWORDS" content="TEXTVALUEFORMAT="[CONTACT.EMAILADDRESS] | PROFILE | [MICROSITEGROUP.DESCRIPTION]"
+- [CONTACT.COMPANYNAME]" /><meta name="DESCRIPTION" content="Member Directory and Social Networking Tools" /><!-- Google Tag Manager --><script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start': new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src='//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);})(window,document,'script','dataLayer','GTM-KFFVR2');</script><!-- End Google Tag Manager --><!-- Google Tag Manager --><script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start': new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src='//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);})(window,document,'script','dataLayer','GTM-TLKCXW');</script><!-- End Google Tag Manager --><meta name='audience' content='ALL' /><meta name='rating' content='General' /><meta name='distribution' content='Global, Worldwide' /><meta name='copyright' content='Higher Logic, LLC' /><meta name='content-language' content='EN' /><link rel='SHORTCUT ICON' href='https://higherlogicdownload.s3.amazonaws.com/PAD/4b73e9e9-0092-456c-a827-668cf95b5c00/UploadedImages/favicon-32x32.png' type='image/png' /><script type='text/javascript' src='https://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js'></script><script src='https://d2x5ku95bkycr3.cloudfront.net/HigherLogic/JavaScript/Desktop/3rdParty/tinymce-4.6.4-fsupdate/tinymce.min.js'></script>
+									<script src='https://d2x5ku95bkycr3.cloudfront.net/HigherLogic/JavaScript/jquery-migrate-1.2.1.min.js'></script><script type='text/javascript' src='https://ajax.googleapis.com/ajax/libs/jqueryui/1.10.1/jquery-ui.min.js'></script><script src='https://d2x5ku95bkycr3.cloudfront.net/jquery/bootstrap-3.0.1/js/bootstrap.min.js'></script><script type='text/javascript' src='/HigherLogic/CORS/easyXDM/easyXDM.Min.js'></script><script crossorigin src='https://d2x5ku95bkycr3.cloudfront.net/react/react.production.16.5.1.min.js'></script><script crossorigin src='https://d2x5ku95bkycr3.cloudfront.net/react/react-dom.production.16.5.1.min.js'></script><script type='text/javascript' src='https://d2x5ku95bkycr3.cloudfront.net/ScriptBundles/R4/JavaScript/396/Desktop_bundle.min.js'></script><script type='text/javascript' src='https://static.filestackapi.com/filestack-js/1.x.x/filestack.min.js'></script><link href='https://higherlogiccloudfront.s3.amazonaws.com/HigherLogic/Font-Awesome/5.3.1-pro/css/fontawesome.all.min.css' type='text/css' rel='stylesheet' /><link href='https://d2x5ku95bkycr3.cloudfront.net/jquery/bootstrap-3.0.1/css/bootstrap.min.css' rel='stylesheet' />
+                                <!--[if gt IE 8]>
+                                    <link href='https://d2x5ku95bkycr3.cloudfront.net/jquery/bootstrap-3.0.1/css/bootstrap.min.css' rel='stylesheet' />
+                                 <![endif]--> 
+                                <!--[if lt IE 9]><link rel='stylesheet' type='text/css' href='/higherlogic/css/bootstrap-3.0.1.min.css' /><![endif]-->
+                                 <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
+                                    <!--[if lt IE 9]>
+                                      <script src='https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js'></script>
+                                      <script src='https://oss.maxcdn.com/respond/1.4.2/respond.min.js'></script>
+                                    <![endif]--><link type='text/css'  rel='stylesheet' href='https://d2x5ku95bkycr3.cloudfront.net/ScriptBundles/R4/Css/637/Desktop_bundle.min.css'/><link href='https://ajax.googleapis.com/ajax/libs/jqueryui/1.10.1/themes/base/jquery-ui.css' type='text/css' rel='stylesheet' /><link href='/higherlogic/generated.css?k=5a63f509-32ea-4189-af5a-6800d4d652b6&d=636844557305500000' type='text/css' rel='stylesheet' /><script type="text/javascript"> var _gaq = _gaq || []; _gaq.push(['t1._setAccount', 'UA-40760409-1']); _gaq.push(['t1._trackPageview']); (function() {var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true; ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js'; var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s); })(); </script><style type="text/css">
+	/* <![CDATA[ */
+	#AuxMenu img.icon { border-style:none;vertical-align:middle; }
+	#AuxMenu img.separator { border-style:none;display:block; }
+	#AuxMenu img.horizontal-separator { border-style:none;vertical-align:middle; }
+	#AuxMenu ul { list-style:none;margin:0;padding:0;width:auto; }
+	#AuxMenu ul.dynamic { z-index:1; }
+	#AuxMenu a { text-decoration:none;white-space:nowrap;display:block; }
+	#AuxMenu a.static { text-decoration:none;border-style:none;padding-left:0.15em;padding-right:0.15em; }
+	#AuxMenu a.popout { background-image:url("/WebResource.axd?d=YAYach_zykzn7tRotFpEUup3eGoCmUF_gB2eiL-h8NebNNSxFR1P2Up45RF2PIqBlf5gv1SoGJlXC6Ao5Qi6X_H1nok1&t=636776545224055265");background-repeat:no-repeat;background-position:right center;padding-right:14px; }
+	/* ]]> */
+</style><title>
+	Cory Freeman - Profile | Phi Alpha Delta Law Fraternity, International
+</title></head>
+<body class="bodyBackground  interior ">
+    <!-- Google Tag Manager (noscript) --><noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-KFFVR2" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript><!-- End Google Tag Manager (noscript) --><!-- Google Tag Manager (noscript) --><noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-TLKCXW" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript><!-- End Google Tag Manager (noscript) -->
+    
+    
+    
+
+    
+    <div id="MPOuterMost" class="container wide">
+        <form method="post" action="./cory-freeman" onsubmit="javascript:return WebForm_OnSubmit();" id="MasterPageForm" class="form">
+<div class="aspNetHidden">
+<input type="hidden" name="ScriptManager1_TSM" id="ScriptManager1_TSM" value="" />
+<input type="hidden" name="StyleSheetManager1_TSSM" id="StyleSheetManager1_TSSM" value="" />
+<input type="hidden" name="__EVENTTARGET" id="__EVENTTARGET" value="" />
+<input type="hidden" name="__EVENTARGUMENT" id="__EVENTARGUMENT" value="" />
+<input type="hidden" name="__VSTATE" id="__VSTATE" value="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" />
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="" />
+</div>
+
+<script type="text/javascript">
+//<![CDATA[
+var theForm = document.forms['MasterPageForm'];
+if (!theForm) {
+    theForm = document.MasterPageForm;
+}
+function __doPostBack(eventTarget, eventArgument) {
+    if (!theForm.onsubmit || (theForm.onsubmit() != false)) {
+        theForm.__EVENTTARGET.value = eventTarget;
+        theForm.__EVENTARGUMENT.value = eventArgument;
+        theForm.submit();
+    }
+}
+//]]>
+</script>
+
+
+<script src="https://ajax.aspnetcdn.com/ajax/4.6/1/WebForms.js" type="text/javascript"></script>
+<script type="text/javascript">
+//<![CDATA[
+window.WebForm_PostBackOptions||document.write('<script type="text/javascript" src="/WebResource.axd?d=pynGkmcFUV13He1Qd6_TZKrTEgnAJ6IBPdiINmN0V5qZyDfVq0Wrp10YlHgakruiDZtd4Q2&amp;t=636776545224055265"><\/script>');//]]>
+</script>
+
+
+
+<script type="text/javascript">
+//<![CDATA[
+$(document).ready(function () { 
+                                            hl_common_util_attach_dropdown_config('ManageDropdownMainCopy_ctl04_conditionalDialog_profileDropdown636848963983105396',false,'');
+                                        });$(document).ready(function () { 
+                                            hl_common_util_attach_dropdown_config('ManageDropdownMainCopy_ctl04_ManageDropDown1636848963983105396',false,'');
+                                        });$(document).ready(function () { 
+                                            hl_common_util_attach_dropdown_config('ManageDropdownMainCopy_ctl08_conditionalDialog_profileDropdown636848963983105396',false,'');
+                                        });$(document).ready(function () { 
+                                            hl_common_util_attach_dropdown_config('ManageDropdownMainCopy_ctl12_MessageOptions636848963983261881',false,'');
+                                        });$(document).ready(function () { 
+                                            hl_common_util_attach_dropdown_config('ManageDropdownMainCopy_ctl12_conditionalDialog_profileDropdown636848963983261881',false,'');
+                                        });$(document).ready(function () { 
+                                            hl_common_util_attach_dropdown_config('ManageDropdownMainCopy_ctl12_mdEmptySocialMediaSites636848963983261881',false,'');
+                                        });$(document).ready(function () { 
+                                            hl_common_util_attach_dropdown_config('ManageDropdownMainCopy_ctl27_conditionalDialog_profileDropdown636848963983261881',false,'');
+                                        });$(document).ready(function () { 
+                                            hl_common_util_attach_dropdown_config('ManageDropdownMainCopy_ctl32_conditionalDialog_profileDropdown636848963983418153',false,'');
+                                        });$(document).ready(function () { 
+                                            hl_common_util_attach_dropdown_config('ManageDropdownMainCopy_ctl34_conditionalDialog_profileDropdown636848963983418153',false,'');
+                                        });$(document).ready(function () { 
+                                            hl_common_util_attach_dropdown_config('ManageDropdownMainCopy_ctl36_conditionalDialog_profileDropdown636848963983418153',false,'');
+                                        });$(document).ready(function () { 
+                                            hl_common_util_attach_dropdown_config('ManageDropdownMainCopy_ctl38_conditionalDialog_profileDropdown636848963983418153',false,'');
+                                        });$(document).ready(function () { 
+                                            hl_common_util_attach_dropdown_config('ManageDropdownMainCopy_ctl40_conditionalDialog_profileDropdown636848963983418153',false,'');
+                                        });$(document).ready(function () { 
+                                            hl_common_util_attach_dropdown_config('ManageDropdownMainCopy_ctl42_conditionalDialog_profileDropdown636848963983418153',false,'');
+                                        });$(document).ready(function () { 
+                                            hl_common_util_attach_dropdown_config('ManageDropdownMainCopy_ctl47_conditionalDialog_profileDropdown636848963983574331',false,'');
+                                        });//]]>
+</script>
+
+<script src="https://ajax.aspnetcdn.com/ajax/4.6/1/MenuStandards.js" type="text/javascript"></script>
+<script src="https://ajax.aspnetcdn.com/ajax/4.6/1/WebUIValidation.js" type="text/javascript"></script>
+<script src="https://ajax.aspnetcdn.com/ajax/4.6/1/MicrosoftAjax.js" type="text/javascript"></script>
+<script type="text/javascript">
+//<![CDATA[
+(window.Sys && Sys._Application && Sys.Observer)||document.write('<script type="text/javascript" src="/ScriptResource.axd?d=uHIkleVeDJf4xS50Krz-yI126qQ3MvbDm3cE_zYEVmzoJ75OvveNdz8qLpL8n-ZwTQTtMnNj2Xi82coXUoUdd2VZYv7wlXep2xTYkxwnUvNmzQ-06-nXm5zF0koc2oEAU_KywcXONr7Vw42XotQ07fJ09481&t=ffffffff999c3159"><\/script>');//]]>
+</script>
+
+<script src="https://ajax.aspnetcdn.com/ajax/4.6/1/MicrosoftAjaxWebForms.js" type="text/javascript"></script>
+<script type="text/javascript">
+//<![CDATA[
+(window.Sys && Sys.WebForms)||document.write('<script type="text/javascript" src="/ScriptResource.axd?d=Jw6tUGWnA15YEa3ai3FadA3Y7gBZFmlYayNHZHyrg_532GoSDiUNT-H7Tt9F-w_iP3EuVWV-QarpAaHkdF6GowUqREtWboBJ4ZNQRaLx3VaVpKX7KL2Wb7h8WyPqfGuH3QJchahlDJWILnJDCB8LQvq5Buo1&t=ffffffff999c3159"><\/script>');function WebForm_OnSubmit() {
+null;if (typeof(ValidatorOnSubmit) == "function" && ValidatorOnSubmit() == false) return false;
+return true;
+}
+//]]>
+</script>
+
+<div class="aspNetHidden">
+
+	<input type="hidden" name="__SCROLLPOSITIONX" id="__SCROLLPOSITIONX" value="0" />
+	<input type="hidden" name="__SCROLLPOSITIONY" id="__SCROLLPOSITIONY" value="0" />
+</div>
+             <input name="__HL-RequestVerificationToken" type="hidden" value="BmNT-Mv50stNsOoh_q1GYcvHPVTz1gscI7KteBuSKLh8vt0vXx4HZ246ThzRo04y4VThEZHbwpcGsboc7183TP_rIT41" />
+        
+            
+            <div id="GlobalMain">
+                <script type="text/javascript">
+//<![CDATA[
+Sys.WebForms.PageRequestManager._initialize('ctl00$ScriptManager1', 'MasterPageForm', ['tctl00$MainCopy$ctl02$DisplayPresentJob1$UpdatePanel1','MainCopy_ctl02_DisplayPresentJob1_UpdatePanel1','tctl00$MainCopy$ctl04$upnlProfileImage','MainCopy_ctl04_upnlProfileImage','tctl00$MainCopy$ctl06$UpdatePanel1','MainCopy_ctl06_UpdatePanel1','tctl00$MainCopy$ctl08$UpdatePanel1','MainCopy_ctl08_UpdatePanel1','tctl00$MainCopy$ctl08$presentJob$UpdatePanel1','MainCopy_ctl08_presentJob_UpdatePanel1','tctl00$MainCopy$ctl17$UpdatePanel1','MainCopy_ctl17_UpdatePanel1','tctl00$MainCopy$ctl21$DisplayPresentJob1$UpdatePanel1','MainCopy_ctl21_DisplayPresentJob1_UpdatePanel1','tctl00$MainCopy$ctl27$UpdatePanel1','MainCopy_ctl27_UpdatePanel1'], [], [], 90, 'ctl00');
+//]]>
+</script>
+
+                
+            </div>
+            <!--mp_base--><div id="GlobalMessageContainer">
+												<div id="GlobalMessageContent" >
+													<img ID="GlobalMsg_Img" alt="Message Image" src=""/>&nbsp;&nbsp;
+													<span id="GlobalMsg_Text"></span><br /><br />
+												</div>
+										</div>
+            
+            
+            
+            
+            
+            
+            <div id="MPOuterHeader" class="row siteFrame">
+                <div class="col-md-12">
+                    <div id="HEADER" class="row">
+                        <div class="col-md-12">
+                            
+                            
+                            <div id="MPimage" class="MPimage">
+                                <div id="mainskiplinkholder" class="skiplinkholder"><a id="skiplink" href="#MPContentArea">Skip to main content (Press Enter).</a></div>
+                                <div id="MPheader" class="MPheader">
+                                    <div class="row">
+                                        <div class="col-md-12">
+                                            
+                                            <div class="pull-right">
+                                                <div class="inline">
+                                                    
+
+<div class='HLWelcome HLWelcomeHeader'>
+
+    <script type="text/javascript">
+        
+        $(document).ready(function () {
+            $('.Picture_Profile').tipTip({ delay: 200 });
+        });
+
+        function toggleHelp() {
+            
+            if ($("ul#CompleteBarHelpContainer").is(":visible")) {
+                $("ul#CompleteBarHelpContainer").hide();
+            } else {
+                $("ul#CompleteBarHelpContainer").show();
+            }
+        }
+
+        $("span.CompleteBarClose").live('click', function (e) {
+
+            e.stopPropagation();
+            toggleHelp();
+            $(".btn-group").find('button#BtnShowProfile').dropdown('toggle');
+        });
+
+    </script>
+
+    
+
+    
+    <div class="EndDiv">
+    </div>
+    <div id="Welcome_NotLoggedIn" class="Login">
+	
+        <a id="Welcome_LoginLink" class="btn btn-primary" href="/higherlogic/security/YourMembershipLogin.aspx?ReturnUrl=https%3a%2f%2fwww.pad.org%2fpeople%2fcory-freeman">Sign in</a>
+    
+</div>
+</div>
+
+
+                                                </div>
+                                            </div>
+                                            
+                                            <div class="pull-right">
+                                                <div id="auxskiplinkholder" class="skiplinkholder">
+                                                    <a id="auxskiplink" href="#Logo">Skip auxiliary navigation (Press Enter).</a>
+                                                </div>
+                                                <div id="MPAuxNav" class="inline vertical-align-middle">
+                                                    <div CssSelectorClass="MPAuxNav" id="AuxMenu">
+	<ul class="level1">
+		<li><a title="Read the code of conduct for posting to the lists" class="level1 MPAuxNav" href="/codeofconduct">Code of Conduct</a></li><li><a title="How to get in contact with us" class="level1 MPAuxNav" href="/contactus">Contact Us</a></li><li><a class="level1 MPAuxNav" href="/help">Help</a></li><li><a class="level1 MPAuxNav" href="/new-item">Online Store</a></li>
+	</ul>
+</div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    
+                                    <div id="Logo" class="row" role="banner">
+                                        <div class="col-md-12">
+                                            <div id="DesktopLogoDiv" class="LogoImg inline">
+                                                <a href='https://www.pad.org/home' style=''>
+                                                    <img class="img-responsive" src='https://higherlogicdownload.s3.amazonaws.com/PAD/4b73e9e9-0092-456c-a827-668cf95b5c00/UploadedImages/logos/crest_sigsm.png' alt="Phi Alpha Delta Law Fraternity, International" /></a>
+                                            </div>
+                                            
+                                            <div class="SloganText inline"><font face="arial"><font size="4"><strong>Phi Alpha Delta<br>Law Fraternity, International</strong>Service to the student, the school, the profession and the community.</font></div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            <div style="clear: both"></div>
+                            
+                            
+                        </div>
+                    </div>
+                    <div id="NAV" class="row traditional-nav">
+                        <div class="col-md-12">
+                            
+                                <div id="navskiplinkholder" class="skiplinkholder"><a id="navskiplink" href="#MPContentArea">Skip main navigation (Press Enter).</a></div>
+                                <div id="MPButtonBar">
+                                    <nav class="navbar navbar-default">
+                                        <div class="navbar-header">
+                                            <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-ex1-collapse">
+                                                <span class="sr-only">Toggle navigation</span>
+                                                <span class="icon-bar"></span>
+                                                <span class="icon-bar"></span>
+                                                <span class="icon-bar"></span>
+                                            </button>
+                                        </div>
+                                        <div class="collapse navbar-collapse navbar-ex1-collapse">
+                                            <div class="row">
+                                                <div class="col-md-12 ">
+                                                    <div id="searchColumn" class="pull-right">
+                                                        <div id="MPSearchBlock" role="search">
+                                                            
+<script type="text/javascript">
+
+    $(document).ready(function () {
+
+        $('#SearchControl_SearchOptions').click(function (e) {
+            e.stopPropagation();
+        });
+
+        $('#SearchControl_SearchButton').click(function () {
+            $('#SearchControl_hiddenSearchButton').click();
+        });
+
+        if ('True' == 'True') {
+
+            if ($('#SearchControl_DateRangeDDL').find(":selected").text() == 'on this day') {
+                $('#SearchControl_EndDate').hide();
+            }
+            else {
+                $('#SearchControl_EndDate').show();
+            }
+
+            $('#SearchControl_SearchTerm').focus(function () {
+                $('#SearchControl_SearchOptions').show();
+            });
+
+            $('#SearchControl_DateRangeDDL').change(function () {
+                if ($('#SearchControl_DateRangeDDL').find(":selected").text() == 'on this day') {
+                    $('#SearchControl_EndDate').hide();
+                    $('#SearchControl_EndDate').val("");
+                }
+                else {
+                    $('#SearchControl_EndDate').show();
+                }
+            });
+        }
+
+        $('#SearchControl_SearchInputs')
+            .hl_ui_common_searchBox({
+                controlId: 'SearchControl_SearchInputs',
+                inputId: 'SearchControl_SearchTerm',
+                buttonId:  'SearchControl_hiddenSearchButton'
+            });
+    });
+
+</script>
+<div class=''>
+    <div id="SearchControl_SearchInputs" class="SearchInputs">
+	
+        <div id="SearchControl_WholeSearch" onkeypress="javascript:return WebForm_FireDefaultButton(event, &#39;SearchControl_hiddenSearchButton&#39;)">
+		
+            <div class="input-group" style="vertical-align: middle">
+                <input name="ctl00$SearchControl$SearchTerm" type="text" id="SearchControl_SearchTerm" class="form-control" autocomplete="off" aria-label="search box" placeholder="search" Title="search" />
+                <div class="input-group-btn">
+                    <button id="SearchControl_SearchButton" type="button" class="btn btn-default  " role="button" aria-label="search">
+                        <span class="glyphicon glyphicon-search" style="vertical-align: middle"></span>
+                        
+                    </button>
+                    
+                    <ul class="dropdown-menu pull-right" role="menu">
+                        <li>
+                            <div id="SearchControl_SearchOptions" class="SearchOptions">
+                                
+                                <div class="form-group">
+                                    <div id="SearchControl_ContentTypeDiv" class="col-sm-4 col-md-4">
+                                        <label for="SearchControl_ProductList" id="SearchControl_Label1">Content types</label>
+                                        <br />
+                                        <span id="SearchControl_ProductList" class="checkbox"><input id="SearchControl_ProductList_0" type="checkbox" name="ctl00$SearchControl$ProductList$0" checked="checked" value="Announcement" /><label for="SearchControl_ProductList_0">Announcements</label><br /><input id="SearchControl_ProductList_1" type="checkbox" name="ctl00$SearchControl$ProductList$1" checked="checked" value="Blog" /><label for="SearchControl_ProductList_1">Blogs</label><br /><input id="SearchControl_ProductList_2" type="checkbox" name="ctl00$SearchControl$ProductList$2" checked="checked" value="Community" /><label for="SearchControl_ProductList_2">Communities</label><br /><input id="SearchControl_ProductList_3" type="checkbox" name="ctl00$SearchControl$ProductList$3" checked="checked" value="Egroup" /><label for="SearchControl_ProductList_3">Discussions</label><br /><input id="SearchControl_ProductList_4" type="checkbox" name="ctl00$SearchControl$ProductList$4" checked="checked" value="CalendarEvent" /><label for="SearchControl_ProductList_4">Events</label><br /><input id="SearchControl_ProductList_5" type="checkbox" name="ctl00$SearchControl$ProductList$5" checked="checked" value="Glossary" /><label for="SearchControl_ProductList_5">Glossary</label><br /><input id="SearchControl_ProductList_6" type="checkbox" name="ctl00$SearchControl$ProductList$6" checked="checked" value="Navigation" /><label for="SearchControl_ProductList_6">Site Content</label><br /><input id="SearchControl_ProductList_7" type="checkbox" name="ctl00$SearchControl$ProductList$7" checked="checked" value="Library" /><label for="SearchControl_ProductList_7">Libraries</label></span>
+                                    </div>
+                                    <div id="SearchControl_DateRangeDiv" class="col-sm-4 col-md-4">
+                                        <span id="SearchControl_DateRange">Date range</span><br />
+                                        <br />
+                                        <select name="ctl00$SearchControl$DateRangeDDL" id="SearchControl_DateRangeDDL" class="form-control">
+			<option value="on this day">on this day</option>
+			<option value="between these dates">between these dates</option>
+
+		</select><br/><br/>
+                                        <div id="SearchControl_StartDate" class="form-input">
+			
+    <div id="SearchControl_StartDate_dateTimePicker" class="input-group date">
+				
+        <input name="ctl00$SearchControl$StartDate$ucTextBox" type="text" id="SearchControl_StartDate_ucTextBox" title="date" class="form-control" placeholder="date" />
+        <span class="input-group-addon">
+            <span class="glyphicon glyphicon-calendar"></span>
+        </span>
+    
+			</div>
+    <span id="SearchControl_StartDate_RangeValidator1" class="control-label text-danger" style="display:none;">Not a valid date</span>
+    
+
+		</div>
+
+<script type="text/javascript">
+    $(document).ready(function () {
+        initializeDateTimePicker_ctl00$SearchControl$StartDate();
+
+        if (Sys.WebForms.PageRequestManager != null) // This is for when the control is inside UpdatePanel.
+            Sys.WebForms.PageRequestManager.getInstance().add_endRequest(EndRequestFunction);
+
+        function EndRequestFunction(sender, args) {
+            initializeDateTimePicker_ctl00$SearchControl$StartDate();
+        }
+
+    });
+
+    var DateTimePicker_ctl00$SearchControl$StartDate = null;
+
+    function initializeDateTimePicker_ctl00$SearchControl$StartDate() {
+
+        $(function () {
+
+            var datetimeOpts = {
+                pickTime: false,showToday: true, onSelect: function(dateText, inst) { $(this).find('input:first').blur().change().focus();},onClose: function(dateText, inst) { $(this).find('input:first').blur().change().focus();},icons: { time: 'glyphicon glyphicon-time', date: 'glyphicon glyphicon-calendar', up: 'glyphicon glyphicon-chevron-up', down: 'glyphicon glyphicon-chevron-down' }
+            };
+
+            DateTimePicker_ctl00$SearchControl$StartDate = $('#SearchControl_StartDate_dateTimePicker').datetimepicker(datetimeOpts);
+
+            $('#SearchControl_StartDate_dateTimePicker').on("dp.hide", function(e) {
+
+                // WARNING: If the hide event is enabled, Make sure that you are showing BOTH the
+                // date and time picker. When the time picker is not used, the Bootstrap
+                // date time picker will auto hide the date picker when you select a date.
+                // This will trigger the date time picker change event which in turn triggers
+                // the hide event IF ShowPickTime is FALSE. This will create an infinite loop
+                
+
+
+               $('#SearchControl_StartDate_ucTextBox').focus();
+            });
+
+            
+
+        });
+    }
+</script>
+                                        <div id="SearchControl_EndDate" class="form-input">
+			
+    <div id="SearchControl_EndDate_dateTimePicker" class="input-group date">
+				
+        <input name="ctl00$SearchControl$EndDate$ucTextBox" type="text" id="SearchControl_EndDate_ucTextBox" title="end date" class="form-control" placeholder="end date" />
+        <span class="input-group-addon">
+            <span class="glyphicon glyphicon-calendar"></span>
+        </span>
+    
+			</div>
+    <span id="SearchControl_EndDate_RangeValidator1" class="control-label text-danger" style="display:none;">Not a valid date</span>
+    
+
+		</div>
+
+<script type="text/javascript">
+    $(document).ready(function () {
+        initializeDateTimePicker_ctl00$SearchControl$EndDate();
+
+        if (Sys.WebForms.PageRequestManager != null) // This is for when the control is inside UpdatePanel.
+            Sys.WebForms.PageRequestManager.getInstance().add_endRequest(EndRequestFunction);
+
+        function EndRequestFunction(sender, args) {
+            initializeDateTimePicker_ctl00$SearchControl$EndDate();
+        }
+
+    });
+
+    var DateTimePicker_ctl00$SearchControl$EndDate = null;
+
+    function initializeDateTimePicker_ctl00$SearchControl$EndDate() {
+
+        $(function () {
+
+            var datetimeOpts = {
+                pickTime: false,showToday: true, onSelect: function(dateText, inst) { $(this).find('input:first').blur().change().focus();},onClose: function(dateText, inst) { $(this).find('input:first').blur().change().focus();},icons: { time: 'glyphicon glyphicon-time', date: 'glyphicon glyphicon-calendar', up: 'glyphicon glyphicon-chevron-up', down: 'glyphicon glyphicon-chevron-down' }
+            };
+
+            DateTimePicker_ctl00$SearchControl$EndDate = $('#SearchControl_EndDate_dateTimePicker').datetimepicker(datetimeOpts);
+
+            $('#SearchControl_EndDate_dateTimePicker').on("dp.hide", function(e) {
+
+                // WARNING: If the hide event is enabled, Make sure that you are showing BOTH the
+                // date and time picker. When the time picker is not used, the Bootstrap
+                // date time picker will auto hide the date picker when you select a date.
+                // This will trigger the date time picker change event which in turn triggers
+                // the hide event IF ShowPickTime is FALSE. This will create an infinite loop
+                
+
+
+               $('#SearchControl_EndDate_ucTextBox').focus();
+            });
+
+            
+
+        });
+    }
+</script>
+                                    </div>
+                                    <div id="SearchControl_PostedByDiv" class="col-sm-4 col-md-4">
+                                        <span id="SearchControl_PostedBy">Posted by</span><br />
+                                        <br />
+                                        <input name="ctl00$SearchControl$FirstName" type="text" id="SearchControl_FirstName" class="form-control" placeholder="first name" title="first name" /><br />
+                                        <input name="ctl00$SearchControl$LastName" type="text" id="SearchControl_LastName" class="form-control" placeholder="last name" title="last name" /><br />
+                                        <input name="ctl00$SearchControl$CompanyName" type="text" id="SearchControl_CompanyName" class="form-control" placeholder="company" title="company" /><br />
+                                        <input name="ctl00$SearchControl$EmailAddress" type="text" id="SearchControl_EmailAddress" class="form-control" placeholder="email address" title="email address" />
+                                    </div>
+                                </div>
+                            </div>
+                        </li>
+                    </ul>
+                </div>
+                <input type="submit" name="ctl00$SearchControl$hiddenSearchButton" value="" onclick="javascript:WebForm_DoPostBackWithOptions(new WebForm_PostBackOptions(&quot;ctl00$SearchControl$hiddenSearchButton&quot;, &quot;&quot;, true, &quot;&quot;, &quot;&quot;, false, false))" id="SearchControl_hiddenSearchButton" style="display: none;" />
+            </div>
+        
+	</div>
+    
+</div>   
+</div>
+
+                                                        </div>
+                                                    </div>
+                                                    <ul class="nav navbar-nav">
+                                                        <li class='dropdown'><a href='/home' class='dropdown-toggle' data-toggle='dropdown'><span>Home</span> <strong class='caret'></strong></a><ul class='dropdown-menu'><li ><a href='/home/licensed-vendors' >Licensed Vendors</a></li></ul></li><li class='dropdown'><a href='/join-pad' class='dropdown-toggle' data-toggle='dropdown'><span>JOIN</span> <strong class='caret'></strong></a><ul class='dropdown-menu'><li ><a href='/join-pad/onlineapplicationnew' >Online Application</a></li><li ><a href='/join-pad/eligibility78' >Eligibility & Join Info</a></li></ul></li><li class='dropdown'><a href='/myprofileredirect' class='dropdown-toggle' data-toggle='dropdown'><span>Profile</span> <strong class='caret'></strong></a><ul class='dropdown-menu'><li ><a href='/myprofileredirect/myprofile' >My Profile</a></li><li ><a href='/myprofileredirect/mysubs' >My Subscriptions</a></li><li ><a href='/myprofileredirect/myprivacy' >My Privacy Settings</a></li><li ><a href='/myprofileredirect/mycontacts' >My Contacts</a></li><li ><a href='/myprofileredirect/mymessages' >My Messages</a></li><li ><a href='/myprofileredirect/signature' >My Signature</a></li></ul></li><li class='dropdown'><a href='/about' class='dropdown-toggle' data-toggle='dropdown'><span>About Us</span> <strong class='caret'></strong></a><ul class='dropdown-menu'><li ><a href='/about/aboutpad' >About P.A.D.</a></li><li ><a href='/about/padhistory' >P.A.D. History</a></li><li ><a href='/about/internationalleadership' >International Leadership</a></li><li ><a href='/about/padinternationalfoundation' >P.A.D. International Foundation</a></li><li ><a href='/about/store' >P.A.D. Online Store</a></li><li ><a href='/about/reporter96' >The Reporter</a></li><li class='dropdown-submenu'><a href='/about/pressroom' >Press Room <strong class='caret'></strong></a><ul class='dropdown-submenu'><li ><a href='/about/pressroom/officialimages' >Official Images</a></li></ul></li><li ><a href='/about/prominentpads' >Prominent P.A.D.s</a></li><li class='dropdown-submenu'><a href='/about/nationalinitiatives' >National Initiatives <strong class='caret'></strong></a><ul class='dropdown-submenu'><li ><a href='/about/nationalinitiatives/onwednesdayswewearpurple979' >#OnWednesdaysWeWearPurple</a></li><li ><a href='/about/nationalinitiatives/wintercardexchange' >Holiday Card Exchange</a></li></ul></li></ul></li><li class='dropdown'><a href='/membership' class='dropdown-toggle' data-toggle='dropdown'><span>Membership</span> <strong class='caret'></strong></a><ul class='dropdown-menu'><li ><a href='/membership/join' >Join Phi Alpha Delta</a></li><li class='dropdown-submenu'><a href='/membership/membershipbenefits' >Membership Benefits <strong class='caret'></strong></a><ul class='dropdown-submenu'><li ><a href='/membership/membershipbenefits/powerscore' >PowerScore LSAT Prep</a></li><li ><a href='/membership/membershipbenefits/dcinternships' >DCInternships/TFAS</a></li></ul></li><li class='dropdown-submenu'><a href='/membership/alumni' >ALUMNI <strong class='caret'></strong></a><ul class='dropdown-submenu'><li ><a href='/membership/alumni/list-of-alumni-chapters' >List Of Alumni Chapters</a></li><li ><a href='/membership/alumni/pay-alumni-dues' >Pay My Alumni Dues</a></li></ul></li><li class='dropdown-submenu'><a href='/membership/law' >LAW <strong class='caret'></strong></a><ul class='dropdown-submenu'><li ><a href='/membership/law/list-of-law-school-chapters' >List Of Law School Chapters</a></li><li ><a href='/membership/law/downloads' >Downloads</a></li></ul></li><li class='dropdown-submenu'><a href='/membership/prelaw' >PRE-LAW <strong class='caret'></strong></a><ul class='dropdown-submenu'><li ><a href='/membership/prelaw/listofprelawchapters' >List of Pre-Law Chapters</a></li><li ><a href='/membership/prelaw/downloads' >Downloads</a></li><li ><a href='/membership/prelaw/seniortransition' >Senior Transition Program</a></li><li ><a href='/membership/prelaw/plrecruitmentchallenge' >Fall 2018 Recruitment Challenge</a></li></ul></li><li ><a href='/membership/the-society-of-scholars' >The Society Of Scholars</a></li><li ><a href='/membership/policies' >P.A.D. Policies</a></li><li ><a href='/membership/2018awardwinners' >2018 Law & Alumni Award Winners</a></li><li ><a href='/membership/2018plawards' >2018 Pre-Law Award Winners</a></li></ul></li><li class='dropdown'><a href='/communities' class='dropdown-toggle' data-toggle='dropdown'><span>Communities</span> <strong class='caret'></strong></a><ul class='dropdown-menu'><li ><a href='/communities/allcommunities' >All Communities</a></li><li ><a href='/communities/mycommunities' >My Communities</a></li><li ><a href='/communities/redirectopenforum' >Open Forum</a></li><li ><a href='/communities/chapters' >Chapters</a></li><li ><a href='/communities/districtslink' >Districts</a></li><li ><a href='/communities/new-item' >Job Postings</a></li><li ><a href='/communities/new-item2' >Internship/Externship Opportunities</a></li><li ><a href='/communities/practice-areas' >Practice Areas</a></li></ul></li><li ><a href='/network' ><span>Directory</span></a></li><li class='dropdown'><a href='/events' class='dropdown-toggle' data-toggle='dropdown'><span>Events</span> <strong class='caret'></strong></a><ul class='dropdown-menu'><li ><a href='/events/calendar' >Upcoming Events</a></li><li ><a href='/events/prelawconference' >PRE-LAW CONFERENCE</a></li><li ><a href='/events/lawmocktrial' >LAW MOCK TRIAL 2019</a></li><li ><a href='/events/supremecourtpadday' >P.A.D. DAY AT THE U.S. SUPREME COURT</a></li><li class='dropdown-submenu'><a href='/events/convention2020' >BIENNIAL CONVENTION 2020 <strong class='caret'></strong></a><ul class='dropdown-submenu'><li ><a href='/events/convention2020/grants' >Grants & Applications</a></li></ul></li><li ><a href='/events/summit2019' >LEADERSHIP SUMMIT 2019</a></li></ul></li><li class='dropdown'><a href='/pad-foundation' class='dropdown-toggle' data-toggle='dropdown'><span>Foundation</span> <strong class='caret'></strong></a><ul class='dropdown-menu'><li ><a href='/pad-foundation/new-item2' >About</a></li><li ><a href='/pad-foundation/new-item' >Day of Giving</a></li><li ><a href='/pad-foundation/new-item3' >Donate</a></li></ul></li>
+                                                    </ul>
+                                                </div>
+
+                                            </div>
+                                        </div>
+                                    </nav>
+                                </div>
+                                <div class="MenuBarUnderline">
+                                </div>
+                            
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div id="MPOuter" class="row siteFrame ">
+                
+                
+                <div id="ContentColumn" class="col-md-12">
+                    <!--content-->
+                    
+                    
+                    <div id="BreadCrumb" class="BreadCrumb">
+                        
+                    </div>
+                    <div id="MPContentArea" class="MPContentArea no-pageTitle-padding" role="main">
+	
+                        
+                        
+                        <h1 id="PageTitleH1" qa-attribute="PageTitleH1" style="display: none;" aria-hidden="true">
+                            Profile</h1>
+                        
+                        
+                        
+    <div id="MainCopy_ContentWrapper" class="text-muted-h2">       
+        <div class="row row-wide clearfix"><div class="col-md-3 section1"><div class="ContentUserControl visible-sm visible-xs">
+		
+<div class=''>
+    
+    <div class="row">
+        <div class="col-md-8">
+            
+
+
+<div class=''>
+    
+    <div class="row">
+        <div id="MainCopy_ctl02_DisplayPresentJob1_UpdatePanel1" Class="col-md-12">
+			
+                <div class="ProfileJobInfo">
+                    
+                    <div id="MainCopy_ctl02_DisplayPresentJob1_CompanyNamePanel">
+				
+                        Phi Alpha Delta Law Fraternity, International
+                    
+			</div>
+                </div>
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+            
+		</div>
+    </div>
+</div>
+
+
+            </div>
+        <div class="col-md-4">
+            
+        </div>
+    </div>
+</div>
+
+	</div><div class="ContentUserControl">
+		
+<script type="text/javascript">
+    function confirmimagedelete() {
+        hl_common_ui_showjQueryUIDialogConfirmOkBtnCallback('MainCopy_ctl04_lnkDeletePictureHidden', "deleteprofileimage", "Yes, delete this image.", false, 400, 200, "Delete this image?", "Are you sure you want to remove this image?");
+    }
+    function confirmimagedeleteusegravatar() {
+        hl_common_ui_showjQueryUIDialogConfirmOkBtnCallback('MainCopy_ctl04_lnkDeletePictureHidden', "deleteprofileimage", "Yes, replace this image.", false, 400, 200, "Replace this image?", "Are you sure you want to replace this image with your Gravatar image?");
+    }
+</script>
+<div id="MainCopy_ctl04_upnlProfileImage" class="UserControl">
+			
+        <div class="row">
+        <div class="col-md-12">
+            
+            <div class="row">
+                <div class="col-md-12 text-center">
+                    <div id="MainCopy_ctl04_pnlImage">
+				
+                        <a id="MainCopy_ctl04_ImageControl_lnkDisplay" biobubblekey="23de0158-de01-45b7-a1f7-81f1abacad4d" href="https://www.pad.org/people/cory-freeman"><img id="MainCopy_ctl04_ImageControl_imgDisplay" title="Cory Freeman" biobubblekey="23de0158-de01-45b7-a1f7-81f1abacad4d" src="https://www.pad.org/HigherLogic/directory/ImageDisplay.aspx?Key=8e7c011e-012f-4dee-9018-adb04c59b415&amp;dt=557400032909&amp;h=200&amp;w=200" alt="" /></a>
+
+
+
+
+                    
+			</div>
+                </div>
+            </div>
+            <div class="row form-group margin-top-small">
+                <div class="col-md-12 text-center">
+                    
+                    
+                </div>
+            </div>
+            <input type="hidden" name="ctl00$MainCopy$ctl04$profileImage_hdnImageUrl" id="MainCopy_ctl04_profileImage_hdnImageUrl" />
+            <input type="submit" name="ctl00$MainCopy$ctl04$btnSaveCroppedImage" value="" onclick="javascript:WebForm_DoPostBackWithOptions(new WebForm_PostBackOptions(&quot;ctl00$MainCopy$ctl04$btnSaveCroppedImage&quot;, &quot;&quot;, true, &quot;&quot;, &quot;&quot;, false, false))" id="MainCopy_ctl04_btnSaveCroppedImage" style="display: none;" />
+            
+            <div style="clear: both;">
+            </div>
+        </div>
+    </div>
+    
+		</div>
+
+	</div><div class="ContentUserControl">
+		
+<div class='row '>
+    <div class="col-md-12">
+        
+        <div class="Content">
+            <div id="MainCopy_ctl06_UpdatePanel1">
+			
+                    
+                
+		</div>
+        </div>
+    </div>
+</div>
+
+<script>
+    function onWhatsThisClick() {
+        hl_common_ui_alertDialog('');
+        return false;
+    }
+</script>
+	</div><div class="ContentUserControl">
+		
+<script type="text/javascript">
+    function displayEditContactPanel() {
+        return hl_directory_profile_hideShowEditMode('#MainCopy_ctl08_pnlLinkEditContact', '#MainCopy_ctl08_pnlEditContactInfo');
+    }
+    function hideEditContactPanel() {
+        return hl_directory_profile_hideEditMode('MainCopy_ctl08_pnlEditContactInfo');
+    }
+
+    $(document).ready(function () {
+
+        //grab the website and error url elements, then bind the validation method on blur
+        bindValidateUrl($('#MainCopy_ctl08_WebsiteUrl'), $('#MainCopy_ctl08_WebsiteUrlErrorLabel'));
+    });
+
+    function bindValidateUrl($websiteUrlElement, $websiteErrorElement) {
+
+        $websiteUrlElement.blur(function () {
+
+            //remove the error class and label
+            $websiteErrorElement.hide().closest('div.form-group').removeClass('has-error');
+
+            //if the websiteurl has any text then test to see if the url is valid
+            if (!hl_common_util_stringIsNullOrWhiteSpace($websiteUrlElement.val())) {
+                hl_common_ui_validateUrl($websiteUrlElement.val(),
+                    function (data) {
+                        if (!data.Item1) {
+                            $websiteErrorElement.show().closest('div.form-group').addClass('has-error');
+                        } else {
+                            $websiteUrlElement.val(data.Item2);
+                        }
+                    });
+            }
+        });
+    }
+
+
+    function validatePassword() {
+        if (hl_common_util_stringIsNullOrWhiteSpace($('#MainCopy_ctl08_EnterPasswordModal_Password').val())
+            || hl_common_util_stringIsNullOrWhiteSpace($('#MainCopy_ctl08_EnterPasswordModal_ConfirmPassword').val())) {
+            $('#EnterPasswordModal').find('.form-group').addClass('has-error');
+            $('#MainCopy_ctl08_EnterPasswordModal_PasswordHelpText').text('Please enter and confirm your current password.').show();
+            return false;
+        }
+        if ($('#MainCopy_ctl08_EnterPasswordModal_Password').val() !== $('#MainCopy_ctl08_EnterPasswordModal_ConfirmPassword').val()) {
+            $('#EnterPasswordModal').find('.form-group').addClass('has-error');
+            $('#MainCopy_ctl08_EnterPasswordModal_PasswordHelpText').text('Passwords do not match.').show();
+            return false;
+        }
+    }
+
+    $(function() {
+        $('#MainCopy_ctl08_EnterPasswordModal_ConfirmPassword').keyup(validatePassword);
+    });
+</script>
+<div class='row  profileContactOptions'>
+    <div class="col-md-12">
+        <h2>
+            Contact Details
+            
+            
+        </h2>
+        <div style="clear: both;">
+        </div>
+        <div id="MainCopy_ctl08_UpdatePanel1">
+			
+                <div style="clear: both;">
+                </div>
+                <div class="Content">
+                    <div id="MainCopy_ctl08_pnlLinkEditContact">
+				
+                        <div>
+                            
+
+
+<div class=''>
+    
+    <div class="row">
+        <div id="MainCopy_ctl08_presentJob_UpdatePanel1" Class="col-md-12">
+					
+                <div class="ProfileJobInfo">
+                    
+                    <div id="MainCopy_ctl08_presentJob_CompanyNamePanel">
+						
+                        Phi Alpha Delta Law Fraternity, International
+                    
+					</div>
+                </div>
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+            
+				</div>
+    </div>
+</div>
+
+
+                        </div>
+                    
+			</div>
+                    
+                    <div id="EnterPasswordModal" role="dialog" class="modal"><div class="modal-dialog "><div class="modal-content"><div class="modal-header"><button class="close" data-dismiss="modal" aria-hidden="true">&#215;</button><h4 class="modal-title">Enter Password</h4></div><div class="modal-body">
+                            
+                            
+                            <div onkeypress="javascript:return WebForm_FireDefaultButton(event, &#39;MainCopy_ctl08_EnterPasswordModal_SubmitEnterPasswordBtn&#39;)">
+				
+                                <div class="form-group">
+                                    <label for="MainCopy_ctl08_EnterPasswordModal_Password" class="control-label">Enter Password</label>
+                                    <input name="ctl00$MainCopy$ctl08$EnterPasswordModal$Password" type="password" id="MainCopy_ctl08_EnterPasswordModal_Password" class="form-control" />
+                                </div>
+                                <div class="form-group">
+                                    <label for="MainCopy_ctl08_EnterPasswordModal_ConfirmPassword" class="control-label">Confirm Password</label>
+                                    <input name="ctl00$MainCopy$ctl08$EnterPasswordModal$ConfirmPassword" type="password" id="MainCopy_ctl08_EnterPasswordModal_ConfirmPassword" class="form-control" />
+                                    <span id="MainCopy_ctl08_EnterPasswordModal_PasswordHelpText" class="help-block" style="display: none;"></span>
+                                </div>
+                            
+			</div>
+                        </div><div class="modal-footer"><div class="text-left">
+                            <input type="submit" name="ctl00$MainCopy$ctl08$EnterPasswordModal$SubmitEnterPasswordBtn" value="Submit" onclick="return validatePassword();WebForm_DoPostBackWithOptions(new WebForm_PostBackOptions(&quot;ctl00$MainCopy$ctl08$EnterPasswordModal$SubmitEnterPasswordBtn&quot;, &quot;&quot;, true, &quot;&quot;, &quot;&quot;, false, false))" id="MainCopy_ctl08_EnterPasswordModal_SubmitEnterPasswordBtn" class="btn btn-primary" />
+                            <input type="submit" name="ctl00$MainCopy$ctl08$EnterPasswordModal$CancelEnterPasswordBtn" value="Cancel" onclick="javascript:WebForm_DoPostBackWithOptions(new WebForm_PostBackOptions(&quot;ctl00$MainCopy$ctl08$EnterPasswordModal$CancelEnterPasswordBtn&quot;, &quot;&quot;, true, &quot;&quot;, &quot;&quot;, false, false))" id="MainCopy_ctl08_EnterPasswordModal_CancelEnterPasswordBtn" class="btn btn-default" />
+                        </div></div></div></div></div>
+                </div>
+            
+		</div>
+    </div>
+</div>
+
+	</div><div class="ContentUserControl">
+
+	</div><div class="ContentUserControl">
+
+	</div><div class="ContentUserControl">
+
+	</div></div><div class="col-md-9"><div class="row row-wide clearfix"><div class="col-md-12 section2"><div class="ContentUserControl hidden-sm hidden-xs">
+		
+<script>
+    function showEditNamePanel() {
+        return hl_directory_profile_showEditMode('MainCopy_ctl17_pnlEditName', '');
+    }
+
+    function hideNamePanel() {
+        return hl_directory_profile_hideEditMode('MainCopy_ctl17_pnlEditName');
+    }
+</script>
+<div class=' nameOptionsToAttach'>
+    
+    <div class="row">
+        <div class="col-md-12">
+            <div id="MainCopy_ctl17_UpdatePanel1">
+			
+                    <div class="row">
+                        <div id="MainCopy_ctl17_pnlNameDisplay" class="col-md-12">
+				
+                            <h2 class="ProfileUserName">
+                            <span id="MainCopy_ctl17_lblName">Cory Freeman</span>
+                            
+                            </h2>
+                            
+                        
+			</div>
+                        
+                    </div>
+                
+		</div>
+        </div>
+    </div>
+</div>
+
+
+	</div><div class="ContentUserControl">
+		
+
+<script>
+    $(document).ready(function() {
+        $('MainCopy_ctl19_EnableDisableContainer').hl_directory_disableUserAccount({
+            btnEnableAccountID: 'MainCopy_ctl19_btnEnableAccount',
+            btnDisableAccountID: 'MainCopy_ctl19_btnDisableAccount',
+            containerID: 'MainCopy_ctl19_EnableDisableContainer'
+        });
+    });
+</script>
+
+
+
+
+<br/>
+<span id="MainCopy_ctl19_Message"></span>
+<table id="MainCopy_ctl19_InfoTable" qa-attributes="admin">
+
+		</table>
+
+
+
+
+
+
+	</div><div class="ContentUserControl hidden-sm hidden-xs">
+		
+<div class=''>
+    
+    <div class="row">
+        <div class="col-md-8">
+            
+
+
+<div class=''>
+    
+    <div class="row">
+        <div id="MainCopy_ctl21_DisplayPresentJob1_UpdatePanel1" Class="col-md-12">
+			
+                <div class="ProfileJobInfo">
+                    
+                    <div id="MainCopy_ctl21_DisplayPresentJob1_CompanyNamePanel">
+				
+                        Phi Alpha Delta Law Fraternity, International
+                    
+			</div>
+                </div>
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+            
+		</div>
+    </div>
+</div>
+
+
+            </div>
+        <div class="col-md-4">
+            
+        </div>
+    </div>
+</div>
+
+	</div><div class="ContentUserControl">
+
+	</div><div class="ContentUserControl">
+		<ul id="MainCopy_ctl25_ProfileTabList" class="nav nav-tabs margin-top-xlarge" role="navigation">
+    <li id="MainCopy_ctl25_ProfileTab" class=" active">
+        <a id="MainCopy_ctl25_ProfileLink" class="dropdown-toggle" href="/network/members/profile">Profile</a>
+        
+    </li>
+    <li id="MainCopy_ctl25_ConnectionsTab" class="dropdown">
+        <a id="MainCopy_ctl25_ConnectionsLink" class="dropdown-toggle" data-toggle="dropdown" aria-label="Connections, collapsed, use ALT + ARROW keys" href="javascript:void(0)">Connections<span id="MainCopy_ctl25_ConnectionsCaret" class="caret"></span></a>
+        <ul id="MainCopy_ctl25_ConnectionsSubNavMenu" class="dropdown-menu" role="menu">
+            <li id="MainCopy_ctl25_Contacts">
+                <a id="MainCopy_ctl25_ContactsLink" href="/network/members/profile/connections/contacts?UserKey=23de0158-de01-45b7-a1f7-81f1abacad4d">Contacts</a>
+            </li>
+            
+            
+            
+        </ul>
+    </li>
+    <li id="MainCopy_ctl25_ContributionsTab" class="dropdown">
+        <a id="MainCopy_ctl25_ContributionsLink" class="dropdown-toggle" data-toggle="dropdown" aria-label="Contributions, collapsed, use ALT + ARROW keys" href="/network/members/profile/contributions">Contributions<span id="MainCopy_ctl25_ContributionsCaret" class="caret"></span></a>
+        <ul id="MainCopy_ctl25_ContributionsSubNavMenu" class="dropdown-menu" role="menu">
+            
+            
+            <li id="MainCopy_ctl25_Achievements">
+                <a id="MainCopy_ctl25_AchievementsLink" href="/network/members/profile/contributions/contributions-achievements">Achievements</a>
+            </li>
+            <li id="MainCopy_ctl25_ListOfContributions">
+                <a id="MainCopy_ctl25_ListOfContributionsLink" href="/network/members/profile/contributions/contributions-list">List of Contributions</a>
+            </li>
+        </ul>
+    </li>
+    
+    
+</ul>
+
+
+<script>
+    $(document).ready(function () {
+        $('MainCopy_ctl25_pnlDisableMyAccount').hl_directory_disableMyAccount({
+            disableAccountLinkID: 'MainCopy_ctl25_DisableAccountLink',
+            containerID: 'MainCopy_ctl25_pnlDisableMyAccount'
+        });
+    });
+</script>
+
+	</div><div class="ContentUserControl">
+		
+
+<script type="text/javascript">
+    function displayBioPanel() {
+        return hl_directory_profile_hideShowEditMode('#MainCopy_ctl27_pnlSummaryEdit', '#MainCopy_ctl27_pnlSummaryDisplay');
+    }
+    function hideBioPanel() {
+        return hl_directory_profile_hideEditMode('MainCopy_ctl27_pnlSummaryDisplay');
+    }
+</script>
+<div class="row  bioControl margin-bottom-xlarge">
+    <div class="col-md-12 Content">
+        <div id="MainCopy_ctl27_UpdatePanel1">
+			
+                <h2 id="Title">
+                    Bio
+                    
+                </h2>
+
+                
+                <div id="MainCopy_ctl27_pnlData">
+                    <div id="MainCopy_ctl27_pnlSummaryEdit">
+                        <div>
+                            <span id="MainCopy_ctl27_Label1">Cory Freeman graduated with a degree in Communications & Public Relations from Towson University in 2011. With a background in alumni relations with the University, she began her career with P.A.D. shortly after in 2011 as Receptionist.<br /><br />As Receptionist, she initiated new projects and job duties with the Alumni Department and with The Reporter. In 2012, upon the departure of Justin Roberts, Cory was promoted to Alumni Relations Coordinator and assumed the role of developing the program, which was only a year old at the time.<br /><br />She has since focused efforts on the law school graduate-to-alumni program, alumni advisory program and increasing the activity and amount of active Alumni Chapters, which has grown from 19 to 31 during her time with the Fraternity.<br /><br />Additionally, Cory manages P.A.D.'s national social media platforms including Facebook, Twitter, LinkedIn, and Pinterest, which she established in 2012. She also coordinates all merchandising efforts and manages the Merchandise Department entirely.<br /><br />She is  Editor to P.A.D.'s quarterly magazine, The Reporter, and works with Technical Director Leslie Plummer, and Director of Law Operations Marlena Weiss on layout and graphic design.<br /><br />As Director of Communications & Alumni Relations, she works to improve membership for all members, including alumni, and nationally promote the positive image, vision, and values that P.A.D. holds dear.<br /><br />Cory is from Maryland and has lived in the Towson area for 7 years. She enjoys gardening, music, and weekend mini trips along the east coast.</span>
+                        </div>
+                        
+                    </div>
+                    
+                </div>
+            
+		</div>
+    </div>
+</div>
+
+	</div><div class="ContentUserControl">
+
+	</div></div></div><div class="row row-wide clearfix"><div class="col-md-6 section3"><div class="ContentUserControl">
+
+	</div><div class="ContentUserControl">
+
+	</div><div class="ContentUserControl">
+
+	</div><div class="ContentUserControl">
+
+	</div><div class="ContentUserControl">
+
+	</div><div class="ContentUserControl text-muted-h2">
+
+	</div><div class="ContentUserControl text-muted-h2">
+
+	</div></div><div class="col-md-6 section4"><div class="ContentUserControl text-muted-h2">
+
+	</div><div class="ContentUserControl text-muted-h2">
+
+	</div></div></div></div></div><div class="row row-last row-wide clearfix"><div class="col-md-12 section5"></div></div>
+        <div id="MainCopy_extraPanel">
+		
+        
+	</div>
+        
+    </div>
+
+                        
+                        
+
+                        
+                    
+</div>
+                    
+                    
+                    <!--end content-->
+                </div>
+
+            </div>
+            <div id="MPOuterFooter" class="row siteFrame">
+                <div id="FOOTER" class="col-md-12">
+                    <div class="row">
+                        <div class="col-md-12">
+                            
+                            <div class="ContentItemHtml footer-content"><div class="HtmlContent"><div class="address-and-copyright">
+<div class="row">
+<div class="col-md-8 tomenu"></div>
+<div class="col-md-4">
+<h3>Phi Alpha Delta Law Fraternity, International</h3>
+<address>606 Baltimore Avenue<br /> Suite 303<br /> Towson MD 21204</address>
+<ul class="contact">
+<li><label for="phone">Phone:</label> <a href="tel:4103473118">410-347-3118</a></li>
+<li><label for="email">Email:</label> <a href="mailto:info@pad.org">info@pad.org</a></li>
+</ul>
+<span class="copy">© 2019 Phi Alpha Delta Law Fraternity, International</span> <span class="credit">Site Designed by <a href="//www.personifyinteractive.com" target="_blank" rel="noopener">Personify Interactive</a></span></div>
+</div>
+</div></div><div class="HtmlFooter"></div></div>
+                        </div>
+                    </div>
+                    <div id="MPFooter" class="row">
+                        <div class="Footer col-md-12">
+                            <div id="FooterContent">
+	
+                            
+</div>
+                            <div id="MPBottomMenu" class="MPBottomMenu" align="center">
+                                <ul class="FatFooterMenu list-inline"><li class="static" role="menuitem"><a href="/home" class="level1">Home</a><ul class="level2 static" tabindex="0" role="menubar"><li class="static" role="menuitem"><a href="/home/licensed-vendors" class="level2">Licensed Vendors</a></li></ul></li><li class="static" role="menuitem"><a href="/join-pad" class="level1">JOIN</a><ul class="level2 static" tabindex="0" role="menubar"><li class="static" role="menuitem"><a href="/join-pad/onlineapplicationnew" class="level2">Online Application</a></li><li class="static" role="menuitem"><a href="/join-pad/eligibility78" class="level2">Eligibility & Join Info</a></li></ul></li><li class="static" role="menuitem"><a href="/myprofileredirect" class="level1">Profile</a><ul class="level2 static" tabindex="0" role="menubar"><li class="static" role="menuitem"><a href="/myprofileredirect/myprofile" class="level2">My Profile</a></li><li class="static" role="menuitem"><a href="/myprofileredirect/mysubs" class="level2">My Subscriptions</a></li><li class="static" role="menuitem"><a href="/myprofileredirect/myprivacy" class="level2">My Privacy Settings</a></li><li class="static" role="menuitem"><a href="/myprofileredirect/mycontacts" class="level2">My Contacts</a></li><li class="static" role="menuitem"><a href="/myprofileredirect/mymessages" class="level2">My Messages</a></li><li class="static" role="menuitem"><a href="/myprofileredirect/signature" class="level2">My Signature</a></li></ul></li><li class="static" role="menuitem"><a href="/about" class="level1">About Us</a><ul class="level2 static" tabindex="0" role="menubar"><li class="static" role="menuitem"><a href="/about/aboutpad" class="level2">About P.A.D.</a></li><li class="static" role="menuitem"><a href="/about/padhistory" class="level2">P.A.D. History</a></li><li class="static" role="menuitem"><a href="/about/internationalleadership" class="level2">International Leadership</a></li><li class="static" role="menuitem"><a href="/about/padinternationalfoundation" class="level2">P.A.D. International Foundation</a></li><li class="static" role="menuitem"><a href="/about/store" class="level2">P.A.D. Online Store</a></li><li class="static" role="menuitem"><a href="/about/reporter96" class="level2">The Reporter</a></li><li class="static" role="menuitem"><a href="/about/pressroom" class="level2">Press Room</a></li><li class="static" role="menuitem"><a href="/about/prominentpads" class="level2">Prominent P.A.D.s</a></li><li class="static" role="menuitem"><a href="/about/nationalinitiatives" class="level2">National Initiatives</a></li></ul></li><li class="static" role="menuitem"><a href="/membership" class="level1">Membership</a><ul class="level2 static" tabindex="0" role="menubar"><li class="static" role="menuitem"><a href="/membership/join" class="level2">Join Phi Alpha Delta</a></li><li class="static" role="menuitem"><a href="/membership/membershipbenefits" class="level2">Membership Benefits</a></li><li class="static" role="menuitem"><a href="/membership/alumni" class="level2">ALUMNI</a></li><li class="static" role="menuitem"><a href="/membership/law" class="level2">LAW</a></li><li class="static" role="menuitem"><a href="/membership/prelaw" class="level2">PRE-LAW</a></li><li class="static" role="menuitem"><a href="/membership/the-society-of-scholars" class="level2">The Society Of Scholars</a></li><li class="static" role="menuitem"><a href="/membership/policies" class="level2">P.A.D. Policies</a></li><li class="static" role="menuitem"><a href="/membership/2018awardwinners" class="level2">2018 Law & Alumni Award Winners</a></li><li class="static" role="menuitem"><a href="/membership/2018plawards" class="level2">2018 Pre-Law Award Winners</a></li></ul></li><li class="static" role="menuitem"><a href="/communities" class="level1">Communities</a><ul class="level2 static" tabindex="0" role="menubar"><li class="static" role="menuitem"><a href="/communities/allcommunities" class="level2">All Communities</a></li><li class="static" role="menuitem"><a href="/communities/mycommunities" class="level2">My Communities</a></li><li class="static" role="menuitem"><a href="/communities/redirectopenforum" class="level2">Open Forum</a></li><li class="static" role="menuitem"><a href="/communities/chapters" class="level2">Chapters</a></li><li class="static" role="menuitem"><a href="/communities/districtslink" class="level2">Districts</a></li><li class="static" role="menuitem"><a href="/communities/new-item" class="level2">Job Postings</a></li><li class="static" role="menuitem"><a href="/communities/new-item2" class="level2">Internship/Externship Opportunities</a></li><li class="static" role="menuitem"><a href="/communities/practice-areas" class="level2">Practice Areas</a></li></ul></li><li class="static" role="menuitem"><a href="/network" class="level1">Directory</a></li><li class="static" role="menuitem"><a href="/events" class="level1">Events</a><ul class="level2 static" tabindex="0" role="menubar"><li class="static" role="menuitem"><a href="/events/calendar" class="level2">Upcoming Events</a></li><li class="static" role="menuitem"><a href="/events/prelawconference" class="level2">PRE-LAW CONFERENCE</a></li><li class="static" role="menuitem"><a href="/events/lawmocktrial" class="level2">LAW MOCK TRIAL 2019</a></li><li class="static" role="menuitem"><a href="/events/supremecourtpadday" class="level2">P.A.D. DAY AT THE U.S. SUPREME COURT</a></li><li class="static" role="menuitem"><a href="/events/convention2020" class="level2">BIENNIAL CONVENTION 2020</a></li><li class="static" role="menuitem"><a href="/events/summit2019" class="level2">LEADERSHIP SUMMIT 2019</a></li></ul></li><li class="static" role="menuitem"><a href="/pad-foundation" class="level1">Foundation</a><ul class="level2 static" tabindex="0" role="menubar"><li class="static" role="menuitem"><a href="/pad-foundation/new-item2" class="level2">About</a></li><li class="static" role="menuitem"><a href="/pad-foundation/new-item" class="level2">Day of Giving</a></li><li class="static" role="menuitem"><a href="/pad-foundation/new-item3" class="level2">Donate</a></li></ul></li></ul>
+                                
+                            </div>
+                        </div>
+                    </div>
+                    <div class="row">
+                        <div id="MPCopyright" class="col-md-12">
+                            Copyright © 2019 Phi Alpha Delta Law Fraternity, International. All rights reserved.
+                        </div>
+                    </div>
+                    
+                    
+                    <div class="row">
+                        <div class="col-md-12">
+                            
+                            <div class="ContentUserControl">
+	
+<script charset="utf-8">$('#MPBottomMenu').appendTo('.tomenu');
+$( document ).ready(function() {
+$('.FatFooterMenu > li > a').each(function(){
+$(this).parent().addClass(function( index ) {
+return "nav-" + $(this).children('a').text().replace(/ /g,'').replace(/&/g,"");
+}); });
+});</script>
+</div>
+                        </div>
+                    </div>
+                    <div class="row">
+                        <div class="col-md-12"></div>
+                    </div>
+                    <div class="row">
+                        <div class="col-md-12">
+                            
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div id="MPFooterLink" class="row siteFrame">
+                <div class="col-md-12">
+                    <div id="MPFooterLinkContent">
+                        <a href="http://www.higherlogic.com" target="_blank">Powered by Higher Logic</a>
+                    </div>
+                </div>
+            </div>
+            <!--mp_base--><div id="GlobalPopupContainer">
+												<div id="GlobalPopupContent" >
+													<img ID="imgGlobalProcessing" alt="" src="https://d2x5ku95bkycr3.cloudfront.net/img/loading.gif" />
+												</div>
+											 </div>
+            
+            
+        
+<script type="text/javascript">
+//<![CDATA[
+var Page_Validators =  new Array(document.getElementById("SearchControl_StartDate_RangeValidator1"), document.getElementById("SearchControl_EndDate_RangeValidator1"));
+//]]>
+</script>
+
+<script type="text/javascript">
+//<![CDATA[
+var SearchControl_StartDate_RangeValidator1 = document.all ? document.all["SearchControl_StartDate_RangeValidator1"] : document.getElementById("SearchControl_StartDate_RangeValidator1");
+SearchControl_StartDate_RangeValidator1.controltovalidate = "SearchControl_StartDate_ucTextBox";
+SearchControl_StartDate_RangeValidator1.focusOnError = "t";
+SearchControl_StartDate_RangeValidator1.errormessage = "Not a valid date";
+SearchControl_StartDate_RangeValidator1.display = "Dynamic";
+SearchControl_StartDate_RangeValidator1.type = "Date";
+SearchControl_StartDate_RangeValidator1.dateorder = "mdy";
+SearchControl_StartDate_RangeValidator1.cutoffyear = "2029";
+SearchControl_StartDate_RangeValidator1.century = "2000";
+SearchControl_StartDate_RangeValidator1.evaluationfunction = "RangeValidatorEvaluateIsValid";
+SearchControl_StartDate_RangeValidator1.maximumvalue = "9999/12/31";
+SearchControl_StartDate_RangeValidator1.minimumvalue = "0001/01/01";
+var SearchControl_EndDate_RangeValidator1 = document.all ? document.all["SearchControl_EndDate_RangeValidator1"] : document.getElementById("SearchControl_EndDate_RangeValidator1");
+SearchControl_EndDate_RangeValidator1.controltovalidate = "SearchControl_EndDate_ucTextBox";
+SearchControl_EndDate_RangeValidator1.focusOnError = "t";
+SearchControl_EndDate_RangeValidator1.errormessage = "Not a valid date";
+SearchControl_EndDate_RangeValidator1.display = "Dynamic";
+SearchControl_EndDate_RangeValidator1.type = "Date";
+SearchControl_EndDate_RangeValidator1.dateorder = "mdy";
+SearchControl_EndDate_RangeValidator1.cutoffyear = "2029";
+SearchControl_EndDate_RangeValidator1.century = "2000";
+SearchControl_EndDate_RangeValidator1.evaluationfunction = "RangeValidatorEvaluateIsValid";
+SearchControl_EndDate_RangeValidator1.maximumvalue = "9999/12/31";
+SearchControl_EndDate_RangeValidator1.minimumvalue = "0001/01/01";
+//]]>
+</script>
+
+
+<script type="text/javascript">
+//<![CDATA[
+var _suppressGlobalPopupContainer = false;
+			  
+									Sys.Application.add_load(GlobalApplicationLoadHandler);
+
+									function GlobalApplicationLoadHandler(sender, args) {
+										var prm = Sys.WebForms.PageRequestManager.getInstance();
+										if (!prm.get_isInAsyncPostBack()) {
+											prm.add_initializeRequest(initRequest);
+											prm.add_endRequest(endRequest);
+										}
+									}
+									function initRequest(sender, args) {
+										if (!_suppressGlobalPopupContainer) {
+											hl_common_ui_blockUI();
+										}
+									}
+
+									function endRequest(sender, args) {
+										 hl_common_ui_unBlockUI();
+									}//]]>
+</script>
+<script type='text/javascript'>new Sys.WebForms.Menu({ element: 'AuxMenu', disappearAfter: 500, orientation: 'horizontal', tabIndex: 0, disabled: false });</script>
+<script type="text/javascript">
+//<![CDATA[
+
+var Page_ValidationActive = false;
+if (typeof(ValidatorOnLoad) == "function") {
+    ValidatorOnLoad();
+}
+
+function ValidatorOnSubmit() {
+    if (Page_ValidationActive) {
+        return ValidatorCommonOnSubmit();
+    }
+    else {
+        return true;
+    }
+}
+        $('#MainCopy_ctl19_modalTermsAndConditions_cbTermsAndConditions').change(function () {
+                            if (this.checked) {
+                                $('#MainCopy_ctl19_modalTermsAndConditions_Continue').prop('disabled', false);
+                            } else {
+                                $('#MainCopy_ctl19_modalTermsAndConditions_Continue').prop('disabled', true);
+                            }
+                        });
+
+                        $('#MainCopy_ctl19_modalImpersonation_tbImpersonationDescription').keyup(function () {
+                            if (this.value == '') {
+                                $('#MainCopy_ctl19_modalImpersonation_StartSession').prop('disabled', true);
+                            } else {
+                                $('#MainCopy_ctl19_modalImpersonation_StartSession').prop('disabled', false);
+                            }
+                        });
+theForm.oldSubmit = theForm.submit;
+theForm.submit = WebForm_SaveScrollPositionSubmit;
+
+theForm.oldOnSubmit = theForm.onsubmit;
+theForm.onsubmit = WebForm_SaveScrollPositionOnSubmit;
+
+document.getElementById('SearchControl_StartDate_RangeValidator1').dispose = function() {
+    Array.remove(Page_Validators, document.getElementById('SearchControl_StartDate_RangeValidator1'));
+}
+
+document.getElementById('SearchControl_EndDate_RangeValidator1').dispose = function() {
+    Array.remove(Page_Validators, document.getElementById('SearchControl_EndDate_RangeValidator1'));
+}
+//]]>
+</script>
+</form>
+    </div>
+    <script>
+
+        $(document).ready(function () {
+
+            var path = window.location.pathname;
+            var lastChar = path.substr(-1); // Selects the last character
+            if (lastChar != '?' && lastChar != '/' && lastChar != ';') {         // If the last character is not a slash
+                path = path + '/';            // Append a slash to it.
+            }
+
+            $('ul.navbar-nav a').each(function () {
+                var myHref = $(this).attr('href');
+                var lastChar2 = myHref.substr(-1); // Selects the last character
+                if (lastChar2 != '?' && lastChar2 != '/' && lastChar2 != ';') {         // If the last character is not a slash
+                    myHref = myHref + '/';            // Append a slash to it.
+                }
+                if (path == myHref) {
+                    $(this).parents('li').last().addClass('active current-page');
+                    $(this).parent('li').addClass('active current-page');
+                }
+            });
+
+            $('#modalTags').on('tagAdded', function() {
+                var oldCount = parseInt($('#litCommunityTagsCount').text());
+                $('#litCommunityTagsCount').text(oldCount + 1);
+            }).on('tagRemoved', function() {
+                var oldCount = parseInt($('#litCommunityTagsCount').text());
+                $('#litCommunityTagsCount').text(oldCount - 1);
+            });
+            
+            var isImpersonating = false;
+
+            
+
+            //var btn = $.fn.button.noConflict(); // reverts $.fn.button to jqueryui btn
+            //$.fn.btn = btn; // assigns bootstrap button functionality to $.fn.btn
+        });
+    </script>
+</body>
+
+</html>

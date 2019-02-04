@@ -1,0 +1,2681 @@
+
+
+<!DOCTYPE html>
+<html lang="en">
+<head id="Head1"><meta name="viewport" content="width=device-width, initial-scale=1.0" /><meta http-equiv="X-UA-Compatible" content="IE=edge" /><meta name="DESCRIPTION" content="Search Page" /><!-- Google Tag Manager --><script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start': new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src='//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);})(window,document,'script','dataLayer','GTM-KFFVR2');</script><!-- End Google Tag Manager --><!-- Google Tag Manager --><script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start': new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src='//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);})(window,document,'script','dataLayer','GTM-TLKCXW');</script><!-- End Google Tag Manager --><meta name='audience' content='ALL' /><meta name='rating' content='General' /><meta name='distribution' content='Global, Worldwide' /><meta name='copyright' content='Higher Logic, LLC' /><meta name='content-language' content='EN' /><link rel='SHORTCUT ICON' href='https://higherlogicdownload.s3.amazonaws.com/PAD/4b73e9e9-0092-456c-a827-668cf95b5c00/UploadedImages/favicon-32x32.png' type='image/png' /><script type='text/javascript' src='https://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js'></script><script src='https://d2x5ku95bkycr3.cloudfront.net/HigherLogic/JavaScript/Desktop/3rdParty/tinymce-4.6.4-fsupdate/tinymce.min.js'></script>
+									<script src='https://d2x5ku95bkycr3.cloudfront.net/HigherLogic/JavaScript/jquery-migrate-1.2.1.min.js'></script><script type='text/javascript' src='https://ajax.googleapis.com/ajax/libs/jqueryui/1.10.1/jquery-ui.min.js'></script><script src='https://d2x5ku95bkycr3.cloudfront.net/jquery/bootstrap-3.0.1/js/bootstrap.min.js'></script><script type='text/javascript' src='/HigherLogic/CORS/easyXDM/easyXDM.Min.js'></script><script crossorigin src='https://d2x5ku95bkycr3.cloudfront.net/react/react.production.16.5.1.min.js'></script><script crossorigin src='https://d2x5ku95bkycr3.cloudfront.net/react/react-dom.production.16.5.1.min.js'></script><script type='text/javascript' src='https://d2x5ku95bkycr3.cloudfront.net/ScriptBundles/R4/JavaScript/396/Desktop_bundle.min.js'></script><script type='text/javascript' src='https://static.filestackapi.com/filestack-js/1.x.x/filestack.min.js'></script><link href='https://higherlogiccloudfront.s3.amazonaws.com/HigherLogic/Font-Awesome/5.3.1-pro/css/fontawesome.all.min.css' type='text/css' rel='stylesheet' /><link href='https://d2x5ku95bkycr3.cloudfront.net/jquery/bootstrap-3.0.1/css/bootstrap.min.css' rel='stylesheet' />
+                                <!--[if gt IE 8]>
+                                    <link href='https://d2x5ku95bkycr3.cloudfront.net/jquery/bootstrap-3.0.1/css/bootstrap.min.css' rel='stylesheet' />
+                                 <![endif]--> 
+                                <!--[if lt IE 9]><link rel='stylesheet' type='text/css' href='/higherlogic/css/bootstrap-3.0.1.min.css' /><![endif]-->
+                                 <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
+                                    <!--[if lt IE 9]>
+                                      <script src='https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js'></script>
+                                      <script src='https://oss.maxcdn.com/respond/1.4.2/respond.min.js'></script>
+                                    <![endif]--><link type='text/css'  rel='stylesheet' href='https://d2x5ku95bkycr3.cloudfront.net/ScriptBundles/R4/Css/637/Desktop_bundle.min.css'/><link href='https://ajax.googleapis.com/ajax/libs/jqueryui/1.10.1/themes/base/jquery-ui.css' type='text/css' rel='stylesheet' /><link href='/higherlogic/generated.css?k=5a63f509-32ea-4189-af5a-6800d4d652b6&d=636844557305500000' type='text/css' rel='stylesheet' /><script type="text/javascript"> var _gaq = _gaq || []; _gaq.push(['t1._setAccount', 'UA-40760409-1']); _gaq.push(['t1._trackPageview']); (function() {var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true; ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js'; var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s); })(); </script><style type="text/css">
+	/* <![CDATA[ */
+	#AuxMenu img.icon { border-style:none;vertical-align:middle; }
+	#AuxMenu img.separator { border-style:none;display:block; }
+	#AuxMenu img.horizontal-separator { border-style:none;vertical-align:middle; }
+	#AuxMenu ul { list-style:none;margin:0;padding:0;width:auto; }
+	#AuxMenu ul.dynamic { z-index:1; }
+	#AuxMenu a { text-decoration:none;white-space:nowrap;display:block; }
+	#AuxMenu a.static { text-decoration:none;border-style:none;padding-left:0.15em;padding-right:0.15em; }
+	#AuxMenu a.popout { background-image:url("/WebResource.axd?d=YAYach_zykzn7tRotFpEUup3eGoCmUF_gB2eiL-h8NebNNSxFR1P2Up45RF2PIqBlf5gv1SoGJlXC6Ao5Qi6X_H1nok1&t=636776545224055265");background-repeat:no-repeat;background-position:right center;padding-right:14px; }
+	/* ]]> */
+</style><title>
+	Search - Phi Alpha Delta Law Fraternity, International
+</title></head>
+<body class="bodyBackground  interior ">
+    <!-- Google Tag Manager (noscript) --><noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-KFFVR2" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript><!-- End Google Tag Manager (noscript) --><!-- Google Tag Manager (noscript) --><noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-TLKCXW" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript><!-- End Google Tag Manager (noscript) -->
+    
+    
+    
+
+    
+    <div id="MPOuterMost" class="container wide">
+        <form method="post" action="./search?s=tags%3a%22prelaw%22&amp;executesearch=true" onsubmit="javascript:return WebForm_OnSubmit();" id="MasterPageForm" class="form">
+<div class="aspNetHidden">
+<input type="hidden" name="ScriptManager1_TSM" id="ScriptManager1_TSM" value="" />
+<input type="hidden" name="StyleSheetManager1_TSSM" id="StyleSheetManager1_TSSM" value="" />
+<input type="hidden" name="__EVENTTARGET" id="__EVENTTARGET" value="" />
+<input type="hidden" name="__EVENTARGUMENT" id="__EVENTARGUMENT" value="" />
+<input type="hidden" name="__VSTATE" id="__VSTATE" value="H4sIAAAAAAAEAO1abVPbSBIOwuYtYcnuJuzeFzPxkQUqkW2EDbg2cGWMCezy4sKQ3H6ixpqxPRdZoxtJENfV/on7E/cb79Nez0iyDTJLYnNsrupISjWeafXT3dNvM/ZvY3PfjyVTFxdlbnuCW+4p/bvPBK1y19vB5oefaefiYn46+cL0rFxusUaxMFsh7WJVcOKb3iFzvcXc3SSrd5MYd5Os3U2Sv5ukcDfJ+t0kG59AMpec0Yvrq3mjmM8V5si81pibm9dSMwfuPm/TKm7SFplPaGNyCZ5ybfIdc1ndggWijcN8SkvI6bmah4XH7OYxJ/RcWMmZbLW0m3Uwya4SLQkkC9r1uYmbc2tEm7w5lyfa1M05g2jTcm6sNT8VCAVDJU13mIRhIvXkiJmCu8yj4CnLK3+tdVyPtjNvfUZeo7ZrcmGx+mv0jgqXcXsrn8nJf69R2bc8X9Atm/qewNZrVPXrFjOByRn/QO2t+sYGLpiF9dXiWp7mNouL+frGGi3Sop7LFQ09X1g3dbxpbOjr65tmo1ioF8xcLhBsUgq2ML78KvEZLz0GM081Iu3CnZhIfd1V763gviN1BLarxZxpNAjVC5v1VT2fW1/TN3MFqhtFslHImxurRr6QelLm7bZvM68TvpUL//QBj+gvAG8oX5A7n1BPLXwmQx8BX3hCsId1kKv9gXaSn8SbdN+/yVFTSFqfBybO6EcvOXdI8SVFXUVI4CmppGlh16VKOmmxyeRXP3FmXyOc7GFJdSYawegpIfOPSDQfftJ609KnksoFkov54kbZyOU3dGOnUtTzO2VDL+3tVfT8eqm4ups38uuFXGrqkDeZLaPhn2PZFmu2qLBgxsy61PQFyJL9hfviiLbr4IIt5ijyDHadj385peCC8tWtluc57ss1/NJowP+rq6sMBEGGiyZ8clVov1xrAAHxcNN9aRTWSvAwDEdQC1+p4UtjnX4ERI9G9MQTPlVO9XzsT/uH76llQryj7mifYkIFUdsp4yzY2IVJKqOsfyr1+OLFAWx0mfu2p/0Gf3NB9AFNM9qyROrxMb5kTezRL9UW4CaTNda0EbOJ3PNuJkkEzhB81GblYCr5reBXCFIDYR4kDmzpNr4MHWqimyyjp0yfz8eUJ0VTKm0RaRfHwiZtcQusnZwIJAIXY55Fo48kjIbuBiQjYSZDTr39CPz9Wa0F4pXIJbZNSlCQ/sNsnehSzcqCQG0PeR2Humr5qcwqsKG7EL47sKGkmZqVYxlve4xaJJl8hy2fpr6Ss2oYTI9DFiFPn0/Nlmwb3jNpGxi7yR3YYPdxFHiMuo93mWv6rsy27kTlUhJNvbW462LReVKDhIFCoaYPWV1gAa88n3rSzzQheU53Y3mi0pSpb7aMLWoTLBTPLsuZ0OsAbjJg2Hn2anyqGf6RIOlMdU0yA2pRJLDdpJE9tIU5oAsrCnh7tW+/EpDmaFgzE6mpsuuWZepJzjS4aOvMdnwvlbh4UdvRtFgRPePcOmNOwANQZkNuYeWarNgYaixp9aqGtvBNcgqURP2oC9/2oy08iyEtPO+9pGB6LAKohfkuhjTFuPJLoJtpMOF6yMZtmkp6yiH7ptTLAeE06BxMLnzX90EJHVBMQkZxsN2B9WgoK3i4OkvbmFkIEyKo6wLN9Qmi2gvl78m5N68ezY49inZF+yp0/UQvCBp90dALQ60vGK+Fz0T0JunWMhkEC09DT1/4Wvm2hPufc2/I7toY6D6ugdLahDYZuPuE1BEq2lgjrLm3OpI2wEM+nTqqE7/bon1uJzRU+zT3fzf58t3k6R/uJtPDteZdSWeH883u+0+D3mLa5JbeJvqqEbbAvRL/x4fSeC8X93qS5ETYYgTt0Rch6DdhmCr5/p1941tInQu20nvY2+Pco9Bq2j6y4BgM7mkxm6a331gsonI9CBgzjeDETLfSEHO+PM4ACUYtQRtb6WwL2uR0RG7RS2qtprflqflNFm/34aklA0UMPVyHFpN+3Ern+rnXsRgCPwunUmq7lOgQ8YQL97pARnr7MCSAQ64iUMLBa/DwrXD0Oah/g6OUDj13TPOfTg6OH0jzSIYsV/uGHQfMoPKbTa9iFjhRRKjUo+rZYChUarEmqzMLEu/GZgyu0ltFPyB18jywG3xUu7c7juANZlFBCRPU9GIbUA3WH2gPYvL0ZmImOeqgfuFG1x1mXL8ed3YAqsG8KZgj99m9PzhHsEtsdgarppbgmOXJ6697BDWhC8CmN1DPcrh2f2htaLZxkw5EOwrX7gvNhZM2lldsA7cwWhw1ZnCd+/E4KclZdO4+UKAoIYJnLG0akTTVTCmzmxnOugEA8G5BKeMi7qMBc7QfLI8CwqArFTYO7jwsdUUkb2piiAf9dOiwSziigtfgG/J+Qo1vU/i6FHtd+lGkkCaMO20IGFaamqQZBURQhwuQvbgeQzprUXQaLo9kTXm0Fpy347rIFXQKS6Px522whS19Pp5RqtFq6PhD5pUAKtphJg9XML4ckMKOIy846BGNXJG7N5WxFNO7xHyoatwFVG1KTH/VhlRbDJUsp4XRLrU8PGQu7yH1hnVq0wYbVKi6JGgnpBkZFs7bbZvFE+nh+dHxwcjcLRzvIA9L70fmG9xAxyPhtKLfB3uvRXWXm4x6HZ03dNdscQsPOA7I/FEL6NBJA9VCutHV49BcswGRF6bGarg+MpCRW93EV1iQKwbd/gANJQE6xFfQfJeUp6CSJEfvA/p7EcCxlAi3gEMG1aUAt+AOl23M3vVRLN30XS09UL7pkwbi0bpVOBmXloVuCjiK9qovvh1Otcb3iBa1rNyhcIoTfrxgnsAKdBewNDqa2cKON8iry+HC6BAE2kDB4OQABfNDDGc3Wh0dCM7i6ivgAcWojuQvOIY/LA2CMW7pQlXQVj5GQ3TiyO7p3vzDEXAKYybVsaB4UKcTLKOSXB41CdjUu+LiQywB7AYuOmxzT9UVdIxrcDP9QBklkCFrhjfYMUOeO6bsGZuoT6ohFQ1rMZyuG3Aitc0B/XxQlVH55Hivclo5LldGwgOwNjc/QGBha1BzgY5Oyj+js9OD0iGCClIcCcz1Qb02NbkvZPNN8K0Hwt3SL6h0hs72K+g8U8ug2jnofVQBrc9Pz0aSAUwrB9ByGzkjF8PfOagcH0tlwb7vKsdnByfHSBKOqHe7zTxpvriJK6Xdymlt/6AKOh4dHZzdsPJwwQjG1W87hEL03Dhv/vcj6Lo8v5MX1ZXDcLa+BSNeRnAH8QZ6yy4hZO8Vai2OBQc7b+BdkRwR7dn13/rIb/nUlwL/0t4EN4UIqq5wqbeV9r2GvpneXlxe+vNRdYd7Hm/LLwmWVjLYgSpPzvjyUgYm1dyPszOLy4hw05ffyKGVDGR40llu+LYpJV5eQf+QFEuZ6184bCOwwjbCwJRis9VHr8i9FnNXMg5UE9tbBlxC1G8KemRIeQtS3IX6XQxK2/hST6NXKHrdbDGLAIflJQnj0Y+SlaDqtybLWZRtvl5a6pv4ASbSaanQrys/ol/DwZtsYB4w4Xe9b3C+7w7/A834gxGdKQAA" />
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="" />
+</div>
+
+<script type="text/javascript">
+//<![CDATA[
+var theForm = document.forms['MasterPageForm'];
+if (!theForm) {
+    theForm = document.MasterPageForm;
+}
+function __doPostBack(eventTarget, eventArgument) {
+    if (!theForm.onsubmit || (theForm.onsubmit() != false)) {
+        theForm.__EVENTTARGET.value = eventTarget;
+        theForm.__EVENTARGUMENT.value = eventArgument;
+        theForm.submit();
+    }
+}
+//]]>
+</script>
+
+
+<script src="https://ajax.aspnetcdn.com/ajax/4.6/1/WebForms.js" type="text/javascript"></script>
+<script type="text/javascript">
+//<![CDATA[
+window.WebForm_PostBackOptions||document.write('<script type="text/javascript" src="/WebResource.axd?d=pynGkmcFUV13He1Qd6_TZKrTEgnAJ6IBPdiINmN0V5qZyDfVq0Wrp10YlHgakruiDZtd4Q2&amp;t=636776545224055265"><\/script>');//]]>
+</script>
+
+
+
+<script src="https://ajax.aspnetcdn.com/ajax/4.6/1/MenuStandards.js" type="text/javascript"></script>
+<script src="https://ajax.aspnetcdn.com/ajax/4.6/1/WebUIValidation.js" type="text/javascript"></script>
+<script src="https://ajax.aspnetcdn.com/ajax/4.6/1/MicrosoftAjax.js" type="text/javascript"></script>
+<script type="text/javascript">
+//<![CDATA[
+(window.Sys && Sys._Application && Sys.Observer)||document.write('<script type="text/javascript" src="/ScriptResource.axd?d=uHIkleVeDJf4xS50Krz-yI126qQ3MvbDm3cE_zYEVmzoJ75OvveNdz8qLpL8n-ZwTQTtMnNj2Xi82coXUoUdd2VZYv7wlXep2xTYkxwnUvNmzQ-06-nXm5zF0koc2oEAU_KywcXONr7Vw42XotQ07fJ09481&t=ffffffff999c3159"><\/script>');//]]>
+</script>
+
+<script src="https://ajax.aspnetcdn.com/ajax/4.6/1/MicrosoftAjaxWebForms.js" type="text/javascript"></script>
+<script type="text/javascript">
+//<![CDATA[
+(window.Sys && Sys.WebForms)||document.write('<script type="text/javascript" src="/ScriptResource.axd?d=Jw6tUGWnA15YEa3ai3FadA3Y7gBZFmlYayNHZHyrg_532GoSDiUNT-H7Tt9F-w_iP3EuVWV-QarpAaHkdF6GowUqREtWboBJ4ZNQRaLx3VaVpKX7KL2Wb7h8WyPqfGuH3QJchahlDJWILnJDCB8LQvq5Buo1&t=ffffffff999c3159"><\/script>');function WebForm_OnSubmit() {
+null;if (typeof(ValidatorOnSubmit) == "function" && ValidatorOnSubmit() == false) return false;
+return true;
+}
+//]]>
+</script>
+
+<div class="aspNetHidden">
+
+	<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="t9KRYRAXcN1WoD+m6m6p/v8TxW6czp885cuMoY7i3ZxFXytjOUfbrn3pvq1ToK8I43LKvCE2LHxfAd0Tw5riSWSMqWbbFuX3XDP7G/QqT7Y0BqoGp7Md7ZpOQBuyM/z/9nO6oXF8sYgHrzElwczu4aESqCSxD3TlysUnJw3C8hjh9RhKclCFG9PP6bdyX06F867/EsI2h4VbxsyoRf/RiuLzbqpnQ973JOFW45yWgJ27SAae9dg5vJ42oFZ7o8PtIQOuwNQ0vPK8SNmQQp+4KF1RC/beHdfpWZeJzzqEPorpOf0IVLF87ZHe1WOOEblrFWaHCoWu1A53E4YLqxq9+QS8v39+8F/SUIYR7jxcADzQSugGSWmTbF4dBd1tCasoddhbtM5nXc83EtgAbrjhKaxMvbLsnyOeqXFyQtlCK1l78cVeFB5VHml1v3SQxFOxYOQvfLV9CQwttl+yte6xexwzvdI=" />
+</div>
+             <input name="__HL-RequestVerificationToken" type="hidden" value="oJh5lCceH2UkLvgzuNstXakSr0XAtc7FoudB-wLkqFTarVs8al-72mU8BJSHVh_sUciFnDDHLkZl75hYN2r_uHtW_O81" />
+        
+            
+            <div id="GlobalMain">
+                <script type="text/javascript">
+//<![CDATA[
+Sys.WebForms.PageRequestManager._initialize('ctl00$ScriptManager1', 'MasterPageForm', [], [], [], 90, 'ctl00');
+//]]>
+</script>
+
+                
+            </div>
+            <!--mp_base--><div id="GlobalMessageContainer">
+												<div id="GlobalMessageContent" >
+													<img ID="GlobalMsg_Img" alt="Message Image" src=""/>&nbsp;&nbsp;
+													<span id="GlobalMsg_Text"></span><br /><br />
+												</div>
+										</div>
+            
+            
+            
+            
+            
+            
+            <div id="MPOuterHeader" class="row siteFrame">
+                <div class="col-md-12">
+                    <div id="HEADER" class="row">
+                        <div class="col-md-12">
+                            
+                            
+                            <div id="MPimage" class="MPimage">
+                                <div id="mainskiplinkholder" class="skiplinkholder"><a id="skiplink" href="#MPContentArea">Skip to main content (Press Enter).</a></div>
+                                <div id="MPheader" class="MPheader">
+                                    <div class="row">
+                                        <div class="col-md-12">
+                                            
+                                            <div class="pull-right">
+                                                <div class="inline">
+                                                    
+
+<div class='HLWelcome HLWelcomeHeader'>
+
+    <script type="text/javascript">
+        
+        $(document).ready(function () {
+            $('.Picture_Profile').tipTip({ delay: 200 });
+        });
+
+        function toggleHelp() {
+            
+            if ($("ul#CompleteBarHelpContainer").is(":visible")) {
+                $("ul#CompleteBarHelpContainer").hide();
+            } else {
+                $("ul#CompleteBarHelpContainer").show();
+            }
+        }
+
+        $("span.CompleteBarClose").live('click', function (e) {
+
+            e.stopPropagation();
+            toggleHelp();
+            $(".btn-group").find('button#BtnShowProfile').dropdown('toggle');
+        });
+
+    </script>
+
+    
+
+    
+    <div class="EndDiv">
+    </div>
+    <div id="Welcome_NotLoggedIn" class="Login">
+	
+        <a id="Welcome_LoginLink" class="btn btn-primary" href="/higherlogic/security/YourMembershipLogin.aspx?ReturnUrl=https%3a%2f%2fwww.pad.org%2fsearch%3fs%3dtags%253A%2522prelaw%2522%26executesearch%3dtrue">Sign in</a>
+    
+</div>
+</div>
+
+
+                                                </div>
+                                            </div>
+                                            
+                                            <div class="pull-right">
+                                                <div id="auxskiplinkholder" class="skiplinkholder">
+                                                    <a id="auxskiplink" href="#Logo">Skip auxiliary navigation (Press Enter).</a>
+                                                </div>
+                                                <div id="MPAuxNav" class="inline vertical-align-middle">
+                                                    <div CssSelectorClass="MPAuxNav" id="AuxMenu">
+	<ul class="level1">
+		<li><a title="Read the code of conduct for posting to the lists" class="level1 MPAuxNav" href="/codeofconduct">Code of Conduct</a></li><li><a title="How to get in contact with us" class="level1 MPAuxNav" href="/contactus">Contact Us</a></li><li><a class="level1 MPAuxNav" href="/help">Help</a></li><li><a class="level1 MPAuxNav" href="/new-item">Online Store</a></li>
+	</ul>
+</div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    
+                                    <div id="Logo" class="row" role="banner">
+                                        <div class="col-md-12">
+                                            <div id="DesktopLogoDiv" class="LogoImg inline">
+                                                <a href='https://www.pad.org/home' style=''>
+                                                    <img class="img-responsive" src='https://higherlogicdownload.s3.amazonaws.com/PAD/4b73e9e9-0092-456c-a827-668cf95b5c00/UploadedImages/logos/crest_sigsm.png' alt="Phi Alpha Delta Law Fraternity, International" /></a>
+                                            </div>
+                                            
+                                            <div class="SloganText inline"><font face="arial"><font size="4"><strong>Phi Alpha Delta<br>Law Fraternity, International</strong>Service to the student, the school, the profession and the community.</font></div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            <div style="clear: both"></div>
+                            
+                            
+                        </div>
+                    </div>
+                    <div id="NAV" class="row traditional-nav">
+                        <div class="col-md-12">
+                            
+                                <div id="navskiplinkholder" class="skiplinkholder"><a id="navskiplink" href="#MPContentArea">Skip main navigation (Press Enter).</a></div>
+                                <div id="MPButtonBar">
+                                    <nav class="navbar navbar-default">
+                                        <div class="navbar-header">
+                                            <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-ex1-collapse">
+                                                <span class="sr-only">Toggle navigation</span>
+                                                <span class="icon-bar"></span>
+                                                <span class="icon-bar"></span>
+                                                <span class="icon-bar"></span>
+                                            </button>
+                                        </div>
+                                        <div class="collapse navbar-collapse navbar-ex1-collapse">
+                                            <div class="row">
+                                                <div class="col-md-12 ">
+                                                    <div id="searchColumn" class="pull-right">
+                                                        <div id="MPSearchBlock" role="search">
+                                                            
+<script type="text/javascript">
+
+    $(document).ready(function () {
+
+        $('#SearchControl_SearchOptions').click(function (e) {
+            e.stopPropagation();
+        });
+
+        $('#SearchControl_SearchButton').click(function () {
+            $('#SearchControl_hiddenSearchButton').click();
+        });
+
+        if ('True' == 'True') {
+
+            if ($('#SearchControl_DateRangeDDL').find(":selected").text() == 'on this day') {
+                $('#SearchControl_EndDate').hide();
+            }
+            else {
+                $('#SearchControl_EndDate').show();
+            }
+
+            $('#SearchControl_SearchTerm').focus(function () {
+                $('#SearchControl_SearchOptions').show();
+            });
+
+            $('#SearchControl_DateRangeDDL').change(function () {
+                if ($('#SearchControl_DateRangeDDL').find(":selected").text() == 'on this day') {
+                    $('#SearchControl_EndDate').hide();
+                    $('#SearchControl_EndDate').val("");
+                }
+                else {
+                    $('#SearchControl_EndDate').show();
+                }
+            });
+        }
+
+        $('#SearchControl_SearchInputs')
+            .hl_ui_common_searchBox({
+                controlId: 'SearchControl_SearchInputs',
+                inputId: 'SearchControl_SearchTerm',
+                buttonId:  'SearchControl_hiddenSearchButton'
+            });
+    });
+
+</script>
+<div class=''>
+    <div id="SearchControl_SearchInputs" class="SearchInputs">
+	
+        <div id="SearchControl_WholeSearch" onkeypress="javascript:return WebForm_FireDefaultButton(event, &#39;SearchControl_hiddenSearchButton&#39;)">
+		
+            <div class="input-group" style="vertical-align: middle">
+                <input name="ctl00$SearchControl$SearchTerm" type="text" id="SearchControl_SearchTerm" class="form-control" autocomplete="off" aria-label="search box" placeholder="search" Title="search" />
+                <div class="input-group-btn">
+                    <button id="SearchControl_SearchButton" type="button" class="btn btn-default  " role="button" aria-label="search">
+                        <span class="glyphicon glyphicon-search" style="vertical-align: middle"></span>
+                        
+                    </button>
+                    
+                    <ul class="dropdown-menu pull-right" role="menu">
+                        <li>
+                            <div id="SearchControl_SearchOptions" class="SearchOptions">
+                                
+                                <div class="form-group">
+                                    <div id="SearchControl_ContentTypeDiv" class="col-sm-4 col-md-4">
+                                        <label for="SearchControl_ProductList" id="SearchControl_Label1">Content types</label>
+                                        <br />
+                                        <span id="SearchControl_ProductList" class="checkbox"><input id="SearchControl_ProductList_0" type="checkbox" name="ctl00$SearchControl$ProductList$0" checked="checked" value="Announcement" /><label for="SearchControl_ProductList_0">Announcements</label><br /><input id="SearchControl_ProductList_1" type="checkbox" name="ctl00$SearchControl$ProductList$1" checked="checked" value="Blog" /><label for="SearchControl_ProductList_1">Blogs</label><br /><input id="SearchControl_ProductList_2" type="checkbox" name="ctl00$SearchControl$ProductList$2" checked="checked" value="Community" /><label for="SearchControl_ProductList_2">Communities</label><br /><input id="SearchControl_ProductList_3" type="checkbox" name="ctl00$SearchControl$ProductList$3" checked="checked" value="Egroup" /><label for="SearchControl_ProductList_3">Discussions</label><br /><input id="SearchControl_ProductList_4" type="checkbox" name="ctl00$SearchControl$ProductList$4" checked="checked" value="CalendarEvent" /><label for="SearchControl_ProductList_4">Events</label><br /><input id="SearchControl_ProductList_5" type="checkbox" name="ctl00$SearchControl$ProductList$5" checked="checked" value="Glossary" /><label for="SearchControl_ProductList_5">Glossary</label><br /><input id="SearchControl_ProductList_6" type="checkbox" name="ctl00$SearchControl$ProductList$6" checked="checked" value="Navigation" /><label for="SearchControl_ProductList_6">Site Content</label><br /><input id="SearchControl_ProductList_7" type="checkbox" name="ctl00$SearchControl$ProductList$7" checked="checked" value="Library" /><label for="SearchControl_ProductList_7">Libraries</label></span>
+                                    </div>
+                                    <div id="SearchControl_DateRangeDiv" class="col-sm-4 col-md-4">
+                                        <span id="SearchControl_DateRange">Date range</span><br />
+                                        <br />
+                                        <select name="ctl00$SearchControl$DateRangeDDL" id="SearchControl_DateRangeDDL" class="form-control">
+			<option value="on this day">on this day</option>
+			<option value="between these dates">between these dates</option>
+
+		</select><br/><br/>
+                                        <div id="SearchControl_StartDate" class="form-input">
+			
+    <div id="SearchControl_StartDate_dateTimePicker" class="input-group date">
+				
+        <input name="ctl00$SearchControl$StartDate$ucTextBox" type="text" id="SearchControl_StartDate_ucTextBox" title="date" class="form-control" placeholder="date" />
+        <span class="input-group-addon">
+            <span class="glyphicon glyphicon-calendar"></span>
+        </span>
+    
+			</div>
+    <span id="SearchControl_StartDate_RangeValidator1" class="control-label text-danger" style="display:none;">Not a valid date</span>
+    
+
+		</div>
+
+<script type="text/javascript">
+    $(document).ready(function () {
+        initializeDateTimePicker_ctl00$SearchControl$StartDate();
+
+        if (Sys.WebForms.PageRequestManager != null) // This is for when the control is inside UpdatePanel.
+            Sys.WebForms.PageRequestManager.getInstance().add_endRequest(EndRequestFunction);
+
+        function EndRequestFunction(sender, args) {
+            initializeDateTimePicker_ctl00$SearchControl$StartDate();
+        }
+
+    });
+
+    var DateTimePicker_ctl00$SearchControl$StartDate = null;
+
+    function initializeDateTimePicker_ctl00$SearchControl$StartDate() {
+
+        $(function () {
+
+            var datetimeOpts = {
+                pickTime: false,showToday: true, onSelect: function(dateText, inst) { $(this).find('input:first').blur().change().focus();},onClose: function(dateText, inst) { $(this).find('input:first').blur().change().focus();},icons: { time: 'glyphicon glyphicon-time', date: 'glyphicon glyphicon-calendar', up: 'glyphicon glyphicon-chevron-up', down: 'glyphicon glyphicon-chevron-down' }
+            };
+
+            DateTimePicker_ctl00$SearchControl$StartDate = $('#SearchControl_StartDate_dateTimePicker').datetimepicker(datetimeOpts);
+
+            $('#SearchControl_StartDate_dateTimePicker').on("dp.hide", function(e) {
+
+                // WARNING: If the hide event is enabled, Make sure that you are showing BOTH the
+                // date and time picker. When the time picker is not used, the Bootstrap
+                // date time picker will auto hide the date picker when you select a date.
+                // This will trigger the date time picker change event which in turn triggers
+                // the hide event IF ShowPickTime is FALSE. This will create an infinite loop
+                
+
+
+               $('#SearchControl_StartDate_ucTextBox').focus();
+            });
+
+            
+
+        });
+    }
+</script>
+                                        <div id="SearchControl_EndDate" class="form-input">
+			
+    <div id="SearchControl_EndDate_dateTimePicker" class="input-group date">
+				
+        <input name="ctl00$SearchControl$EndDate$ucTextBox" type="text" id="SearchControl_EndDate_ucTextBox" title="end date" class="form-control" placeholder="end date" />
+        <span class="input-group-addon">
+            <span class="glyphicon glyphicon-calendar"></span>
+        </span>
+    
+			</div>
+    <span id="SearchControl_EndDate_RangeValidator1" class="control-label text-danger" style="display:none;">Not a valid date</span>
+    
+
+		</div>
+
+<script type="text/javascript">
+    $(document).ready(function () {
+        initializeDateTimePicker_ctl00$SearchControl$EndDate();
+
+        if (Sys.WebForms.PageRequestManager != null) // This is for when the control is inside UpdatePanel.
+            Sys.WebForms.PageRequestManager.getInstance().add_endRequest(EndRequestFunction);
+
+        function EndRequestFunction(sender, args) {
+            initializeDateTimePicker_ctl00$SearchControl$EndDate();
+        }
+
+    });
+
+    var DateTimePicker_ctl00$SearchControl$EndDate = null;
+
+    function initializeDateTimePicker_ctl00$SearchControl$EndDate() {
+
+        $(function () {
+
+            var datetimeOpts = {
+                pickTime: false,showToday: true, onSelect: function(dateText, inst) { $(this).find('input:first').blur().change().focus();},onClose: function(dateText, inst) { $(this).find('input:first').blur().change().focus();},icons: { time: 'glyphicon glyphicon-time', date: 'glyphicon glyphicon-calendar', up: 'glyphicon glyphicon-chevron-up', down: 'glyphicon glyphicon-chevron-down' }
+            };
+
+            DateTimePicker_ctl00$SearchControl$EndDate = $('#SearchControl_EndDate_dateTimePicker').datetimepicker(datetimeOpts);
+
+            $('#SearchControl_EndDate_dateTimePicker').on("dp.hide", function(e) {
+
+                // WARNING: If the hide event is enabled, Make sure that you are showing BOTH the
+                // date and time picker. When the time picker is not used, the Bootstrap
+                // date time picker will auto hide the date picker when you select a date.
+                // This will trigger the date time picker change event which in turn triggers
+                // the hide event IF ShowPickTime is FALSE. This will create an infinite loop
+                
+
+
+               $('#SearchControl_EndDate_ucTextBox').focus();
+            });
+
+            
+
+        });
+    }
+</script>
+                                    </div>
+                                    <div id="SearchControl_PostedByDiv" class="col-sm-4 col-md-4">
+                                        <span id="SearchControl_PostedBy">Posted by</span><br />
+                                        <br />
+                                        <input name="ctl00$SearchControl$FirstName" type="text" id="SearchControl_FirstName" class="form-control" placeholder="first name" title="first name" /><br />
+                                        <input name="ctl00$SearchControl$LastName" type="text" id="SearchControl_LastName" class="form-control" placeholder="last name" title="last name" /><br />
+                                        <input name="ctl00$SearchControl$CompanyName" type="text" id="SearchControl_CompanyName" class="form-control" placeholder="company" title="company" /><br />
+                                        <input name="ctl00$SearchControl$EmailAddress" type="text" id="SearchControl_EmailAddress" class="form-control" placeholder="email address" title="email address" />
+                                    </div>
+                                </div>
+                            </div>
+                        </li>
+                    </ul>
+                </div>
+                <input type="submit" name="ctl00$SearchControl$hiddenSearchButton" value="" onclick="javascript:WebForm_DoPostBackWithOptions(new WebForm_PostBackOptions(&quot;ctl00$SearchControl$hiddenSearchButton&quot;, &quot;&quot;, true, &quot;&quot;, &quot;&quot;, false, false))" id="SearchControl_hiddenSearchButton" style="display: none;" />
+            </div>
+        
+	</div>
+    
+</div>   
+</div>
+
+                                                        </div>
+                                                    </div>
+                                                    <ul class="nav navbar-nav">
+                                                        <li class='dropdown'><a href='/home' class='dropdown-toggle' data-toggle='dropdown'><span>Home</span> <strong class='caret'></strong></a><ul class='dropdown-menu'><li ><a href='/home/licensed-vendors' >Licensed Vendors</a></li></ul></li><li class='dropdown'><a href='/join-pad' class='dropdown-toggle' data-toggle='dropdown'><span>JOIN</span> <strong class='caret'></strong></a><ul class='dropdown-menu'><li ><a href='/join-pad/onlineapplicationnew' >Online Application</a></li><li ><a href='/join-pad/eligibility78' >Eligibility & Join Info</a></li></ul></li><li class='dropdown'><a href='/myprofileredirect' class='dropdown-toggle' data-toggle='dropdown'><span>Profile</span> <strong class='caret'></strong></a><ul class='dropdown-menu'><li ><a href='/myprofileredirect/myprofile' >My Profile</a></li><li ><a href='/myprofileredirect/mysubs' >My Subscriptions</a></li><li ><a href='/myprofileredirect/myprivacy' >My Privacy Settings</a></li><li ><a href='/myprofileredirect/mycontacts' >My Contacts</a></li><li ><a href='/myprofileredirect/mymessages' >My Messages</a></li><li ><a href='/myprofileredirect/signature' >My Signature</a></li></ul></li><li class='dropdown'><a href='/about' class='dropdown-toggle' data-toggle='dropdown'><span>About Us</span> <strong class='caret'></strong></a><ul class='dropdown-menu'><li ><a href='/about/aboutpad' >About P.A.D.</a></li><li ><a href='/about/padhistory' >P.A.D. History</a></li><li ><a href='/about/internationalleadership' >International Leadership</a></li><li ><a href='/about/padinternationalfoundation' >P.A.D. International Foundation</a></li><li ><a href='/about/store' >P.A.D. Online Store</a></li><li ><a href='/about/reporter96' >The Reporter</a></li><li class='dropdown-submenu'><a href='/about/pressroom' >Press Room <strong class='caret'></strong></a><ul class='dropdown-submenu'><li ><a href='/about/pressroom/officialimages' >Official Images</a></li></ul></li><li ><a href='/about/prominentpads' >Prominent P.A.D.s</a></li><li class='dropdown-submenu'><a href='/about/nationalinitiatives' >National Initiatives <strong class='caret'></strong></a><ul class='dropdown-submenu'><li ><a href='/about/nationalinitiatives/onwednesdayswewearpurple979' >#OnWednesdaysWeWearPurple</a></li><li ><a href='/about/nationalinitiatives/wintercardexchange' >Holiday Card Exchange</a></li></ul></li></ul></li><li class='dropdown'><a href='/membership' class='dropdown-toggle' data-toggle='dropdown'><span>Membership</span> <strong class='caret'></strong></a><ul class='dropdown-menu'><li ><a href='/membership/join' >Join Phi Alpha Delta</a></li><li class='dropdown-submenu'><a href='/membership/membershipbenefits' >Membership Benefits <strong class='caret'></strong></a><ul class='dropdown-submenu'><li ><a href='/membership/membershipbenefits/powerscore' >PowerScore LSAT Prep</a></li><li ><a href='/membership/membershipbenefits/dcinternships' >DCInternships/TFAS</a></li></ul></li><li class='dropdown-submenu'><a href='/membership/alumni' >ALUMNI <strong class='caret'></strong></a><ul class='dropdown-submenu'><li ><a href='/membership/alumni/list-of-alumni-chapters' >List Of Alumni Chapters</a></li><li ><a href='/membership/alumni/pay-alumni-dues' >Pay My Alumni Dues</a></li></ul></li><li class='dropdown-submenu'><a href='/membership/law' >LAW <strong class='caret'></strong></a><ul class='dropdown-submenu'><li ><a href='/membership/law/list-of-law-school-chapters' >List Of Law School Chapters</a></li><li ><a href='/membership/law/downloads' >Downloads</a></li></ul></li><li class='dropdown-submenu'><a href='/membership/prelaw' >PRE-LAW <strong class='caret'></strong></a><ul class='dropdown-submenu'><li ><a href='/membership/prelaw/listofprelawchapters' >List of Pre-Law Chapters</a></li><li ><a href='/membership/prelaw/downloads' >Downloads</a></li><li ><a href='/membership/prelaw/seniortransition' >Senior Transition Program</a></li><li ><a href='/membership/prelaw/plrecruitmentchallenge' >Fall 2018 Recruitment Challenge</a></li></ul></li><li ><a href='/membership/the-society-of-scholars' >The Society Of Scholars</a></li><li ><a href='/membership/policies' >P.A.D. Policies</a></li><li ><a href='/membership/2018awardwinners' >2018 Law & Alumni Award Winners</a></li><li ><a href='/membership/2018plawards' >2018 Pre-Law Award Winners</a></li></ul></li><li class='dropdown'><a href='/communities' class='dropdown-toggle' data-toggle='dropdown'><span>Communities</span> <strong class='caret'></strong></a><ul class='dropdown-menu'><li ><a href='/communities/allcommunities' >All Communities</a></li><li ><a href='/communities/mycommunities' >My Communities</a></li><li ><a href='/communities/redirectopenforum' >Open Forum</a></li><li ><a href='/communities/chapters' >Chapters</a></li><li ><a href='/communities/districtslink' >Districts</a></li><li ><a href='/communities/new-item' >Job Postings</a></li><li ><a href='/communities/new-item2' >Internship/Externship Opportunities</a></li><li ><a href='/communities/practice-areas' >Practice Areas</a></li></ul></li><li ><a href='/network' ><span>Directory</span></a></li><li class='dropdown'><a href='/events' class='dropdown-toggle' data-toggle='dropdown'><span>Events</span> <strong class='caret'></strong></a><ul class='dropdown-menu'><li ><a href='/events/calendar' >Upcoming Events</a></li><li ><a href='/events/prelawconference' >PRE-LAW CONFERENCE</a></li><li ><a href='/events/lawmocktrial' >LAW MOCK TRIAL 2019</a></li><li ><a href='/events/supremecourtpadday' >P.A.D. DAY AT THE U.S. SUPREME COURT</a></li><li class='dropdown-submenu'><a href='/events/convention2020' >BIENNIAL CONVENTION 2020 <strong class='caret'></strong></a><ul class='dropdown-submenu'><li ><a href='/events/convention2020/grants' >Grants & Applications</a></li></ul></li><li ><a href='/events/summit2019' >LEADERSHIP SUMMIT 2019</a></li></ul></li><li class='dropdown'><a href='/pad-foundation' class='dropdown-toggle' data-toggle='dropdown'><span>Foundation</span> <strong class='caret'></strong></a><ul class='dropdown-menu'><li ><a href='/pad-foundation/new-item2' >About</a></li><li ><a href='/pad-foundation/new-item' >Day of Giving</a></li><li ><a href='/pad-foundation/new-item3' >Donate</a></li></ul></li>
+                                                    </ul>
+                                                </div>
+
+                                            </div>
+                                        </div>
+                                    </nav>
+                                </div>
+                                <div class="MenuBarUnderline">
+                                </div>
+                            
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div id="MPOuter" class="row siteFrame ">
+                
+                
+                <div id="ContentColumn" class="col-md-12">
+                    <!--content-->
+                    
+                    
+                    <div id="BreadCrumb" class="BreadCrumb">
+                        
+                    </div>
+                    <div id="MPContentArea" class="MPContentArea" role="main">
+	
+                        
+                        
+                        <h1 id="PageTitleH1" qa-attribute="PageTitleH1">
+                            Search</h1>
+                        
+                        
+                        
+    <div id="MainCopy_ContentWrapper">       
+        <div class="row row-last row-wide clearfix"><div class="col-md-12 column section1"><div class="ContentItemMVC"><div class="MVCContent">
+
+<div class="faceted-search-main"
+     data-st="Relevance"
+     
+     
+     
+     
+     data-micrositegroupkey=190c2fde-58b1-4063-805e-29d754c71245
+     
+     
+     data-executesearch=True
+     data-communityscope=Self
+     
+     
+     
+     
+
+     
+     
+     
+     
+     
+     
+     
+     
+     
+     
+     
+     
+     
+     
+     
+     
+     
+     
+     
+     
+     
+     
+     
+     
+     
+     data-cs="All">
+    
+<div class="row dvError" style="display: none;">
+    <div class="col-md-offset-2 col-md-8">
+        <div class="alert alert-danger">
+            <span class="spnError"></span>
+        </div>
+    </div>
+</div>
+
+<div id="FacetedSearch_3744455032c044138f74a262bb728c87">
+    
+    
+    <div class="row search-bar" id="FacetedSearch_3744455032c044138f74a262bb728c87-searchBar">
+        <div class="col-md-3">
+                <div class="fs-count-term">
+                    <span class="text-muted">
+                        Refined to 31 of 31 results for
+                    </span>                    
+                    "tags:&quot;prelaw&quot;"
+                </div>
+        </div>
+        <div class="col-md-9">
+            <div class="input-group">
+                
+                
+                <input type="text" id="FacetedSearchInput" class="form-control tbSearch" placeholder="search" value="tags:&quot;prelaw&quot;"
+                       data-search="tags:&quot;prelaw&quot;" title="search term input" />
+                <span class="input-group-btn">
+                    <button class="btn btn-default btnSearch" title="search button" type="button">
+                        <span class="glyphicon glyphicon-search" aria-hidden="true"></span>
+                    </button>
+                </span>
+                    <div id="auxskiplinkholder" class="skiplinkholder">
+                        <a class="skip-to-results" href="javascript:void(0)">Skip to search results (Press Enter).</a>
+                    </div>
+                </div>
+        </div>
+    </div>
+
+    
+    
+        <div class="row margin-top-medium">
+            
+            <div class="col-md-3">
+                
+                
+                <div class="row facets">
+                    <div class="col-md-12">
+                        
+                            <div class="content-search">
+                                <div class="row header margin-bottom-medium">
+    <div class="col-md-12">
+        <h2>Categories</h2>
+    </div>
+</div>
+
+<div class="row facetCategory">
+    <div class="col-md-12">
+        
+
+        
+        
+                <div class="row margin-left-small">
+                    <div class="col-md-12">
+
+                            &nbsp;&nbsp;
+                        <a title="show only search results within User Content" href="javascript:void(0)" 
+                           data-value="UserContent" 
+                           data-count="31" class=selected>User Content (31)</a>
+                    </div>
+                </div>
+    </div>
+</div>
+                            </div>
+                            <div class="refine-by-search">
+                                <div class="refine-by">
+    <div class="row header margin-bottom-medium margin-top-large">
+        <div class="col-md-12">
+            <h2>Refine by</h2>
+        </div>
+    </div>
+
+    <div class="refine-by-facets">
+            
+
+
+<div data-facet-field="objectType" class="facet-container">
+    <h4>
+        Content Type &nbsp;
+    </h4>
+
+            <div class="row margin-left-small">
+                <div class="col-md-12 checkbox">
+                        <input title="refine by Library Entry" type="checkbox" id="6d5d519c9b7a49fdadb9a5d464fa289a"
+                               data-value="LibraryEntry" data-refinebyitem="1"
+                               data-facet-propertyname="ObjectType" disabled=disabled />
+                        &nbsp;
+                        <label for="6d5d519c9b7a49fdadb9a5d464fa289a" class="item text-muted">Library Entry </label>
+
+                </div>
+            </div>
+            <div class="row margin-left-small">
+                <div class="col-md-12 checkbox">
+                        <input title="refine by Blog Entry" type="checkbox" id="44ffefba83c9465faf19733db1832133"
+                               data-value="Blog" data-refinebyitem="1"
+                               data-facet-propertyname="ObjectType" disabled=disabled />
+                        &nbsp;
+                        <label for="44ffefba83c9465faf19733db1832133" class="item text-muted">Blog Entry </label>
+
+                </div>
+            </div>
+</div>
+
+<div data-facet-field="communityKey" class="facet-container">
+    <h4>
+        Community &nbsp;
+    </h4>
+
+            <div class="row margin-left-small">
+                <div class="col-md-12 checkbox">
+                        <input title="refine by Pre-Law Members" type="checkbox" id="27e599987a144829bb26bcba1cff7ebd" checked="checked"
+                               data-value="b8141383-1f10-4aab-b0bd-5b673a3c35b6" data-refinebyitem="1"
+                               data-facet-propertyname="CommunityKey" />
+                        &nbsp;
+                        <label for="27e599987a144829bb26bcba1cff7ebd" class="item" style="font-weight: bold">Pre-Law Members (3)</label>
+
+                </div>
+            </div>
+</div>
+
+<div data-facet-field="key05" class="facet-container">
+    <h4>
+        Non-Community Library &nbsp;
+    </h4>
+
+            <div class="row margin-left-small">
+                <div class="col-md-12 checkbox">
+                        <input title="refine by Pre-Law Chapter Downloads" type="checkbox" id="0148a3a70fde4ecca23d4b00e1c9d6fc"
+                               data-value="b620b520-17a5-418f-8b10-60b1d19e46f9" data-refinebyitem="1"
+                               data-facet-propertyname="Key05"  />
+                        &nbsp;
+                        <label for="0148a3a70fde4ecca23d4b00e1c9d6fc" class="item ">Pre-Law Chapter Downloads (20)</label>
+
+                </div>
+            </div>
+            <div class="row margin-left-small">
+                <div class="col-md-12 checkbox">
+                        <input title="refine by General P.AD. Documents" type="checkbox" id="74f041ff8c6c411589970123d6ec1013"
+                               data-value="50e2d595-dd45-4c34-8865-2b83fabd63d0" data-refinebyitem="1"
+                               data-facet-propertyname="Key05"  />
+                        &nbsp;
+                        <label for="74f041ff8c6c411589970123d6ec1013" class="item ">General P.AD. Documents (2)</label>
+
+                </div>
+            </div>
+            <div class="row margin-left-small">
+                <div class="col-md-12 checkbox">
+                        <input title="refine by Press Room Documents" type="checkbox" id="23eae115986f48ffba8ea5fceeec8aa3"
+                               data-value="7b82d683-251d-479e-8e2a-da0d35aed9be" data-refinebyitem="1"
+                               data-facet-propertyname="Key05"  />
+                        &nbsp;
+                        <label for="23eae115986f48ffba8ea5fceeec8aa3" class="item ">Press Room Documents (2)</label>
+
+                </div>
+            </div>
+            <div class="row margin-left-small">
+                <div class="col-md-12 checkbox">
+                        <input title="refine by Society Of Scholars" type="checkbox" id="2dae855a67714b6ea5cd6f9bc9beb8f9"
+                               data-value="2a8fba49-a031-404f-bf21-e8fca1c1e5c5" data-refinebyitem="1"
+                               data-facet-propertyname="Key05"  />
+                        &nbsp;
+                        <label for="2dae855a67714b6ea5cd6f9bc9beb8f9" class="item ">Society Of Scholars (1)</label>
+
+                </div>
+            </div>
+            <div class="row margin-left-small">
+                <div class="col-md-12 checkbox">
+                        <input title="refine by International Executive Board Meeting Minutes" type="checkbox" id="a9371abf60a6435ca4d4252028e4a9ac"
+                               data-value="d1c50d16-4a9d-4857-964d-037e92d481b4" data-refinebyitem="1"
+                               data-facet-propertyname="Key05"  />
+                        &nbsp;
+                        <label for="a9371abf60a6435ca4d4252028e4a9ac" class="item ">International Executive Board Meeting Minutes (1)</label>
+
+                </div>
+            </div>
+            <div class="row margin-left-small">
+                <div class="col-md-12 checkbox">
+                        <input title="refine by Law School Chapter Downloads" type="checkbox" id="cb692865cda04babbaf554809d00df1d"
+                               data-value="dc9cc7b6-81f6-4a84-a55c-a52176c73cbd" data-refinebyitem="1"
+                               data-facet-propertyname="Key05"  />
+                        &nbsp;
+                        <label for="cb692865cda04babbaf554809d00df1d" class="item ">Law School Chapter Downloads (1)</label>
+
+                </div>
+            </div>
+</div>
+
+<div data-facet-field="contributorKey" class="facet-container">
+    <h4>
+        Author &nbsp;
+    </h4>
+
+            <div class="row margin-left-small">
+                <div class="col-md-12 checkbox">
+                        <input title="refine by Leslie P. Plummer" type="checkbox" id="e916684e3cb442cf96134676b87be7bd"
+                               data-value="642a020a-c119-4b11-aaa3-e52588aff52f" data-refinebyitem="1"
+                               data-facet-propertyname="ContributorKey"  />
+                        &nbsp;
+                        <label for="e916684e3cb442cf96134676b87be7bd" class="item ">Leslie P. Plummer (16)</label>
+
+                </div>
+            </div>
+            <div class="row margin-left-small">
+                <div class="col-md-12 checkbox">
+                        <input title="refine by Cory Freeman" type="checkbox" id="1afaa7f9ec64496f97c09556a0d7baa2"
+                               data-value="23de0158-de01-45b7-a1f7-81f1abacad4d" data-refinebyitem="1"
+                               data-facet-propertyname="ContributorKey"  />
+                        &nbsp;
+                        <label for="1afaa7f9ec64496f97c09556a0d7baa2" class="item ">Cory Freeman (5)</label>
+
+                </div>
+            </div>
+            <div class="row margin-left-small">
+                <div class="col-md-12 checkbox">
+                        <input title="refine by Katie Gibbs" type="checkbox" id="54272891a42346549d0a8a8f22b172b9"
+                               data-value="eeb54f95-ff00-41c1-b171-57e6e789a3a9" data-refinebyitem="1"
+                               data-facet-propertyname="ContributorKey"  />
+                        &nbsp;
+                        <label for="54272891a42346549d0a8a8f22b172b9" class="item ">Katie Gibbs (4)</label>
+
+                </div>
+            </div>
+            <div class="row margin-left-small">
+                <div class="col-md-12 checkbox">
+                        <input title="refine by Andrew D. Sagan" type="checkbox" id="5302d71a15e74d1d99bc65cb1ab15d33"
+                               data-value="12cbaea8-5928-43b4-8808-51b8dfd24992" data-refinebyitem="1"
+                               data-facet-propertyname="ContributorKey"  />
+                        &nbsp;
+                        <label for="5302d71a15e74d1d99bc65cb1ab15d33" class="item ">Andrew D. Sagan (2)</label>
+
+                </div>
+            </div>
+            <div class="row margin-left-small">
+                <div class="col-md-12 checkbox">
+                        <input title="refine by Marlena Weiss" type="checkbox" id="8ab57284ecbf4299ad2f95dbc67444fb"
+                               data-value="f407eb85-f217-4cdc-bd91-e2815975998b" data-refinebyitem="1"
+                               data-facet-propertyname="ContributorKey"  />
+                        &nbsp;
+                        <label for="8ab57284ecbf4299ad2f95dbc67444fb" class="item ">Marlena Weiss (2)</label>
+
+                </div>
+            </div>
+            <div class="row margin-left-small">
+                <div class="col-md-12 checkbox">
+                        <input title="refine by Byron K. Rupp" type="checkbox" id="cdc6fcd7e327473d9b97af011ee7a285"
+                               data-value="88733834-9ddb-422b-9342-8ab73678f41f" data-refinebyitem="1"
+                               data-facet-propertyname="ContributorKey"  />
+                        &nbsp;
+                        <label for="cdc6fcd7e327473d9b97af011ee7a285" class="item ">Byron K. Rupp (1)</label>
+
+                </div>
+            </div>
+            <div class="row margin-left-small">
+                <div class="col-md-12 checkbox">
+                        <input title="refine by Janette Del Angel" type="checkbox" id="208caea268754e91876856ddd77b9071"
+                               data-value="c62cf4bb-df21-40b1-9145-cf2ff7019cc1" data-refinebyitem="1"
+                               data-facet-propertyname="ContributorKey"  />
+                        &nbsp;
+                        <label for="208caea268754e91876856ddd77b9071" class="item ">Janette Del Angel (1)</label>
+
+                </div>
+            </div>
+</div>
+
+<div data-facet-field="bool01" class="facet-container">
+    <h4>
+        Has Attachment &nbsp;
+    </h4>
+
+            <div class="row margin-left-small">
+                <div class="col-md-12 checkbox">
+                        <input title="refine by Yes" type="checkbox" id="9bc3e535d1dc438fbca1d9be59a200bf"
+                               data-value="true" data-refinebyitem="1"
+                               data-facet-propertyname="Bool01"  />
+                        &nbsp;
+                        <label for="9bc3e535d1dc438fbca1d9be59a200bf" class="item ">Yes (27)</label>
+
+                </div>
+            </div>
+            <div class="row margin-left-small">
+                <div class="col-md-12 checkbox">
+                        <input title="refine by No" type="checkbox" id="7674bd3edc0d4f20a53d835c216757bc"
+                               data-value="false" data-refinebyitem="1"
+                               data-facet-propertyname="Bool01"  />
+                        &nbsp;
+                        <label for="7674bd3edc0d4f20a53d835c216757bc" class="item ">No (4)</label>
+
+                </div>
+            </div>
+</div>
+
+<div data-facet-field="fileTypes" class="facet-container">
+    <h4>
+        File Types &nbsp;
+    </h4>
+
+            <div class="row margin-left-small">
+                <div class="col-md-12 checkbox">
+                        <input title="refine by Document" type="checkbox" id="0d7bd116e7a543e59655887320226862"
+                               data-value="document" data-refinebyitem="1"
+                               data-facet-propertyname="FileTypes"  />
+                        &nbsp;
+                        <label for="0d7bd116e7a543e59655887320226862" class="item ">Document (26)</label>
+
+                </div>
+            </div>
+            <div class="row margin-left-small">
+                <div class="col-md-12 checkbox">
+                        <input title="refine by Presentation" type="checkbox" id="ce6f7d123c004507a03b7dfae460b5e2"
+                               data-value="presentation" data-refinebyitem="1"
+                               data-facet-propertyname="FileTypes"  />
+                        &nbsp;
+                        <label for="ce6f7d123c004507a03b7dfae460b5e2" class="item ">Presentation (1)</label>
+
+                </div>
+            </div>
+</div>
+
+<div data-facet-field="tags" class="facet-container">
+    <h4>
+        Formal Tags &nbsp;
+    </h4>
+
+            <div class="row margin-left-small">
+                <div class="col-md-12 checkbox">
+                        <input title="refine by Prelaw" type="checkbox" id="c3e3e31b80044239935147e602172a4e"
+                               data-value="prelaw" data-refinebyitem="1"
+                               data-facet-propertyname="Tags"  />
+                        &nbsp;
+                        <label for="c3e3e31b80044239935147e602172a4e" class="item ">Prelaw (31)</label>
+
+                </div>
+            </div>
+            <div class="row margin-left-small">
+                <div class="col-md-12 checkbox">
+                        <input title="refine by Application" type="checkbox" id="0ba19ffed7d54187a96c2edcdd92e4ed"
+                               data-value="application" data-refinebyitem="1"
+                               data-facet-propertyname="Tags"  />
+                        &nbsp;
+                        <label for="0ba19ffed7d54187a96c2edcdd92e4ed" class="item ">Application (12)</label>
+
+                </div>
+            </div>
+            <div class="row margin-left-small">
+                <div class="col-md-12 checkbox">
+                        <input title="refine by Awards" type="checkbox" id="df81f6220e8e4dd5b97f45565dd28262"
+                               data-value="awards" data-refinebyitem="1"
+                               data-facet-propertyname="Tags"  />
+                        &nbsp;
+                        <label for="df81f6220e8e4dd5b97f45565dd28262" class="item ">Awards (10)</label>
+
+                </div>
+            </div>
+            <div class="row margin-left-small">
+                <div class="col-md-12 checkbox">
+                        <input title="refine by Law" type="checkbox" id="6f1fc4589e6b4f77bf84dcd68236a326"
+                               data-value="law" data-refinebyitem="1"
+                               data-facet-propertyname="Tags"  />
+                        &nbsp;
+                        <label for="6f1fc4589e6b4f77bf84dcd68236a326" class="item ">Law (9)</label>
+
+                </div>
+            </div>
+            <div class="row margin-left-small">
+                <div class="col-md-12 checkbox">
+                        <input title="refine by Manual" type="checkbox" id="a08341c8e3b049c88fcfca9ce4554ee1"
+                               data-value="manual" data-refinebyitem="1"
+                               data-facet-propertyname="Tags"  />
+                        &nbsp;
+                        <label for="a08341c8e3b049c88fcfca9ce4554ee1" class="item ">Manual (8)</label>
+
+                </div>
+            </div>
+            <div class="row margin-left-small">
+                <div class="col-md-12 checkbox">
+                        <input title="refine by Alumni" type="checkbox" id="adbeb770db9044c1b98a8696df6efc38"
+                               data-value="alumni" data-refinebyitem="1"
+                               data-facet-propertyname="Tags"  />
+                        &nbsp;
+                        <label for="adbeb770db9044c1b98a8696df6efc38" class="item ">Alumni (5)</label>
+
+                </div>
+            </div>
+            <div class="row margin-left-small">
+                <div class="col-md-12 checkbox">
+                        <input title="refine by Forms" type="checkbox" id="f1b504e94a9e4737a4086e6b822284d5"
+                               data-value="forms" data-refinebyitem="1"
+                               data-facet-propertyname="Tags"  />
+                        &nbsp;
+                        <label for="f1b504e94a9e4737a4086e6b822284d5" class="item ">Forms (5)</label>
+
+                </div>
+            </div>
+            <div class="row margin-left-small">
+                <div class="col-md-12 checkbox">
+                        <input title="refine by Policies" type="checkbox" id="5e5cdcced03b42179d7c0b540d35fb67"
+                               data-value="policies" data-refinebyitem="1"
+                               data-facet-propertyname="Tags"  />
+                        &nbsp;
+                        <label for="5e5cdcced03b42179d7c0b540d35fb67" class="item ">Policies (4)</label>
+
+                </div>
+            </div>
+            <div class="row margin-left-small">
+                <div class="col-md-12 checkbox">
+                        <input title="refine by Officer" type="checkbox" id="2861e5772bf548a99032f8c2cfae2490"
+                               data-value="officer" data-refinebyitem="1"
+                               data-facet-propertyname="Tags"  />
+                        &nbsp;
+                        <label for="2861e5772bf548a99032f8c2cfae2490" class="item ">Officer (2)</label>
+
+                </div>
+            </div>
+            <div class="row margin-left-small">
+                <div class="col-md-12 checkbox">
+                        <input title="refine by Prelaw Conference" type="checkbox" id="75883e1c6809469d8a1a69ae7566e77f"
+                               data-value="prelaw conference" data-refinebyitem="1"
+                               data-facet-propertyname="Tags"  />
+                        &nbsp;
+                        <label for="75883e1c6809469d8a1a69ae7566e77f" class="item ">Prelaw Conference (2)</label>
+
+                </div>
+            </div>
+</div>
+
+<div data-facet-field="bool05" class="facet-container">
+    <h4>
+        Comments &nbsp;
+    </h4>
+
+            <div class="row margin-left-small">
+                <div class="col-md-12 checkbox">
+                        <input title="refine by Without Comments" type="checkbox" id="40df67b2b0f8454c9a2653674094c2a6" checked="checked"
+                               data-value="false" data-refinebyitem="1"
+                               data-facet-propertyname="Bool05" />
+                        &nbsp;
+                        <label for="40df67b2b0f8454c9a2653674094c2a6" class="item" style="font-weight: bold">Without Comments (31)</label>
+
+                </div>
+            </div>
+</div>
+
+<div data-facet-field="createDate" class="facet-container">
+    <h4>
+        Created &nbsp;
+    </h4>
+
+
+
+    <div class="row margin-left-small">
+        <div class="col-md-12">
+            <span class="text-muted">Within One Week</span>
+        </div>
+    </div>
+
+
+
+    <div class="row margin-left-small">
+        <div class="col-md-12">
+            <span class="text-muted">Within Two Weeks</span>
+        </div>
+    </div>
+
+
+
+    <div class="row margin-left-small">
+        <div class="col-md-12">
+            <span class="text-muted">Within One Month</span>
+        </div>
+    </div>
+
+
+
+    <div class="row margin-left-small">
+        <div class="col-md-12">
+            <span class="text-muted">Within Six Months</span>
+        </div>
+    </div>
+
+
+
+    <div class="row margin-left-small">
+        <div class="col-md-12">
+            <span class="text-muted">Within One Year</span>
+        </div>
+    </div>
+
+
+
+    <div class="row margin-left-small">
+        <div class="col-md-12">
+                <a href="javascript:void(0)" data-refinebyitem="1"
+                   data-value="1980-01-01T00:00:00Z|2018-02-06T00:00:00Z" 
+                   data-facet-propertyname="CreateDate">Older (31)</a>
+        </div>
+    </div>
+</div>    </div>
+</div>
+                            </div>
+                    </div>
+                </div>
+
+            </div>
+        
+            
+            <div class="col-md-9">
+            
+    <div class="row fs-result-options margin-bottom-medium vertical-align">
+        <div class="col-md-5">
+
+            <span class="text-muted faceted-search-result-count" id="ResultCount">1 to 10 of 31</span>
+        </div>
+        <div class="col-md-7 text-right">
+            <div class="row vertical-align">
+                <div class="col-md-6">
+                    <span class="text-muted">Sort by</span>
+                </div>
+                <div class="col-md-6">
+                    <select class="form-control selectSort" title="sort options">
+                            <option selected
+                                    value="Relevance">
+                                Relevance
+                            </option>
+                            <option 
+                                    value="MostRecent">
+                                Most Recent
+                            </option>
+                            <option 
+                                    value="LeastRecent">
+                                Least Recent
+                            </option>
+                    </select>
+                </div>
+            </div>
+        </div>
+    </div>
+
+
+
+    <div id="FacetedSearchResult-1" class="row fs-result-row">
+        <div class="col-md-12">
+            <div class="row vertical-align">
+                
+                <div class="col-md-9 col-sm-8">
+                    <h3>
+                        <div class="pull-right hl-type">
+                            <span class="label label-default text-muted">
+                                Library Entry 
+                            </span>
+                        </div>
+                        <a href="http://www.pad.org/viewdocument/the-perfect-calendar-leadership-su" title="The Perfect Calendar, Leadership Summit Presentation 2017">The Perfect Calendar, Leadership Summit Presentation 2017
+                        </a>
+                        
+                    </h3>
+                    <p class="match-block">
+                        Presented by P.A.D. International Executive Board Members Araj Ahmed & B.J. Maley #Officer #recruitment #prelaw #law
+                    </p>
+                    
+
+                    
+                        <p class="result-indent">
+                            <span class="glyphicon glyphicon-paperclip text-muted"></span> 
+                            <a href="http://www.pad.org/HigherLogic/System/DownloadDocumentFile.ashx?DocumentFileKey=11740b87-8a4b-5556-e807-561f6a2f055c&amp;forceDialog=0" title="Programming Presentation.pptx">Programming Presentation.pptx
+                            </a>
+                        </p>
+                    
+                    
+                    
+                    
+
+                        <div class="row hidden-xs">
+                            <div class="col-md-12">
+                                    <div class="content-tags">
+        <span class="text-muted">
+            <span class="glyphicon glyphicon-tags"></span>
+        </span> &nbsp;
+                <a aria-label="group=General Tags: tag=law" 
+                   data-tag="law" 
+                   class="label label-search-tag " 
+                   href="https://www.pad.org/search?s=tags%3A%22law%22&amp;executesearch=true">
+                    law
+                </a>
+                <a aria-label="group=General Tags: tag=Officer" 
+                   data-tag="Officer" 
+                   class="label label-search-tag " 
+                   href="https://www.pad.org/search?s=tags%3A%22Officer%22&amp;executesearch=true">
+                    Officer
+                </a>
+                <a aria-label="group=General Tags: tag=prelaw" 
+                   data-tag="prelaw" 
+                   class="label label-search-tag " 
+                   href="https://www.pad.org/search?s=tags%3A%22prelaw%22&amp;executesearch=true">
+                    prelaw
+                </a>
+                <a aria-label="group=General Tags: tag=recruitment" 
+                   data-tag="recruitment" 
+                   class="label label-search-tag " 
+                   href="https://www.pad.org/search?s=tags%3A%22recruitment%22&amp;executesearch=true">
+                    recruitment
+                </a>
+    </div>
+
+                            </div>
+                        </div>
+                    
+                </div>
+                
+                
+                <div class="col-md-3 col-sm-4">
+                    <div class="meta-block">
+                                <div class="owner-block">
+                                    <div class="owner-image">
+                                        <img src="https://www.pad.org/HigherLogic/directory/ImageDisplay.aspx?Key=8e7c011e-012f-4dee-9018-adb04c59b415&amp;dt=557400032909" class="img-circle img-responsive"
+                                             alt="Cory Freeman's profile image" biobubblekey="23de0158-de01-45b7-a1f7-81f1abacad4d" />
+                                    </div>
+                                </div>
+                                <div class="owner-block">
+                                    <div class="owner-name">
+                                            <a href="https://www.pad.org/people/cory-freeman" biobubblekey="23de0158-de01-45b7-a1f7-81f1abacad4d" 
+                                               title="Cory Freeman">
+                                                Cory Freeman
+                                                <br />
+                                            </a>
+                                    </div>
+                                </div>
+                        <div style="clear: both;"></div>
+                        
+                            <div class="meta-content-date">
+                                Added 07-18-2017
+                            </div>
+
+                                <div class="meta-content">
+                                    <a href="http://www.pad.org/communities/community-home/librarydocuments/?LibraryKey=7b82d683-251d-479e-8e2a-da0d35aed9be&amp;CommunityKey=00000000-0000-0000-0000-000000000000" title="Press Room Documents">View Library
+                                    </a>
+                                </div>
+                        
+                    </div>
+                </div>
+            </div>
+                <div class="row visible-xs">
+                    <div class="col-md-12">
+                            <div class="content-tags">
+        <span class="text-muted">
+            <span class="glyphicon glyphicon-tags"></span>
+        </span> &nbsp;
+                <a aria-label="group=General Tags: tag=law" 
+                   data-tag="law" 
+                   class="label label-search-tag " 
+                   href="https://www.pad.org/search?s=tags%3A%22law%22&amp;executesearch=true">
+                    law
+                </a>
+                <a aria-label="group=General Tags: tag=Officer" 
+                   data-tag="Officer" 
+                   class="label label-search-tag " 
+                   href="https://www.pad.org/search?s=tags%3A%22Officer%22&amp;executesearch=true">
+                    Officer
+                </a>
+                <a aria-label="group=General Tags: tag=prelaw" 
+                   data-tag="prelaw" 
+                   class="label label-search-tag " 
+                   href="https://www.pad.org/search?s=tags%3A%22prelaw%22&amp;executesearch=true">
+                    prelaw
+                </a>
+                <a aria-label="group=General Tags: tag=recruitment" 
+                   data-tag="recruitment" 
+                   class="label label-search-tag " 
+                   href="https://www.pad.org/search?s=tags%3A%22recruitment%22&amp;executesearch=true">
+                    recruitment
+                </a>
+    </div>
+
+                    </div>
+                </div>
+        </div>
+    </div>
+        <div class="row search-divider">
+            <div class="col-md-12">
+                <hr/>
+            </div>
+        </div>
+    <div id="FacetedSearchResult-2" class="row fs-result-row">
+        <div class="col-md-12">
+            <div class="row vertical-align">
+                
+                <div class="col-md-9 col-sm-8">
+                    <h3>
+                        <div class="pull-right hl-type">
+                            <span class="label label-default text-muted">
+                                Library Entry 
+                            </span>
+                        </div>
+                        <a href="http://www.pad.org/viewdocument/establishing-a-pre-law-chapter" title="Establishing a Pre-Law Chapter">Establishing a Pre-Law Chapter
+                        </a>
+                        
+                    </h3>
+                    <p class="match-block">
+                        This manual provides everything you need to know about establishing a P.A.D. Pre-Law Chapter at your school. It includes: History &amp; Purpose of the P.A.D. Pre-Law Program Functions of a Pre-Law Chapter Process to Charter or Reactivate a Chapter Chapter Charter &amp; Reactivation...
+                    </p>
+                    
+
+                    
+                        <p class="result-indent">
+                            <span class="glyphicon glyphicon-paperclip text-muted"></span> 
+                            <a href="http://www.pad.org/HigherLogic/System/DownloadDocumentFile.ashx?DocumentFileKey=ac177d53-ecc4-f1e3-5ac5-9936282487b0&amp;forceDialog=0" title="EstablishingAPreLawChapter_2017_8.31.pdf">EstablishingAPreLawChapter_2017_8.31.pdf
+                            </a>
+                        </p>
+                    
+                    
+                    
+                    
+
+                        <div class="row hidden-xs">
+                            <div class="col-md-12">
+                                    <div class="content-tags">
+        <span class="text-muted">
+            <span class="glyphicon glyphicon-tags"></span>
+        </span> &nbsp;
+                <a aria-label="group=General Tags: tag=forms" 
+                   data-tag="forms" 
+                   class="label label-search-tag " 
+                   href="https://www.pad.org/search?s=tags%3A%22forms%22&amp;executesearch=true">
+                    forms
+                </a>
+                <a aria-label="group=General Tags: tag=manual" 
+                   data-tag="manual" 
+                   class="label label-search-tag " 
+                   href="https://www.pad.org/search?s=tags%3A%22manual%22&amp;executesearch=true">
+                    manual
+                </a>
+                <a aria-label="group=General Tags: tag=prelaw" 
+                   data-tag="prelaw" 
+                   class="label label-search-tag " 
+                   href="https://www.pad.org/search?s=tags%3A%22prelaw%22&amp;executesearch=true">
+                    prelaw
+                </a>
+    </div>
+
+                            </div>
+                        </div>
+                    
+                </div>
+                
+                
+                <div class="col-md-3 col-sm-4">
+                    <div class="meta-block">
+                                <div class="owner-block">
+                                    <div class="owner-image">
+                                        <img src="https://d2x5ku95bkycr3.cloudfront.net/App_Themes/Common/images/profile/0_50.png" class="img-circle img-responsive"
+                                             alt="Katie Gibbs's profile image" biobubblekey="eeb54f95-ff00-41c1-b171-57e6e789a3a9" />
+                                    </div>
+                                </div>
+                                <div class="owner-block">
+                                    <div class="owner-name">
+                                            <a href="https://www.pad.org/people/katie-borland" biobubblekey="eeb54f95-ff00-41c1-b171-57e6e789a3a9" 
+                                               title="Katie Gibbs">
+                                                Katie Gibbs
+                                                <br />
+                                            </a>
+                                    </div>
+                                </div>
+                        <div style="clear: both;"></div>
+                        
+                            <div class="meta-content-date">
+                                Added 06-15-2017
+                            </div>
+
+                                <div class="meta-content">
+                                    <a href="http://www.pad.org/communities/community-home/librarydocuments/?LibraryKey=b620b520-17a5-418f-8b10-60b1d19e46f9&amp;CommunityKey=00000000-0000-0000-0000-000000000000" title="Pre-Law Chapter Downloads">View Library
+                                    </a>
+                                </div>
+                        
+                    </div>
+                </div>
+            </div>
+                <div class="row visible-xs">
+                    <div class="col-md-12">
+                            <div class="content-tags">
+        <span class="text-muted">
+            <span class="glyphicon glyphicon-tags"></span>
+        </span> &nbsp;
+                <a aria-label="group=General Tags: tag=forms" 
+                   data-tag="forms" 
+                   class="label label-search-tag " 
+                   href="https://www.pad.org/search?s=tags%3A%22forms%22&amp;executesearch=true">
+                    forms
+                </a>
+                <a aria-label="group=General Tags: tag=manual" 
+                   data-tag="manual" 
+                   class="label label-search-tag " 
+                   href="https://www.pad.org/search?s=tags%3A%22manual%22&amp;executesearch=true">
+                    manual
+                </a>
+                <a aria-label="group=General Tags: tag=prelaw" 
+                   data-tag="prelaw" 
+                   class="label label-search-tag " 
+                   href="https://www.pad.org/search?s=tags%3A%22prelaw%22&amp;executesearch=true">
+                    prelaw
+                </a>
+    </div>
+
+                    </div>
+                </div>
+        </div>
+    </div>
+        <div class="row search-divider">
+            <div class="col-md-12">
+                <hr/>
+            </div>
+        </div>
+    <div id="FacetedSearchResult-3" class="row fs-result-row">
+        <div class="col-md-12">
+            <div class="row vertical-align">
+                
+                <div class="col-md-9 col-sm-8">
+                    <h3>
+                        <div class="pull-right hl-type">
+                            <span class="label label-default text-muted">
+                                Library Entry 
+                            </span>
+                        </div>
+                        <a href="http://www.pad.org/viewdocument/2017-pad-leadership-summit-agend" title="2017 P.A.D. Leadership Summit Agenda">2017 P.A.D. Leadership Summit Agenda
+                        </a>
+                        
+                    </h3>
+                    <p class="match-block">
+                        #prelaw #law #alumni
+                    </p>
+                    
+
+                    
+                        <p class="result-indent">
+                            <span class="glyphicon glyphicon-paperclip text-muted"></span> 
+                            <a href="http://www.pad.org/HigherLogic/System/DownloadDocumentFile.ashx?DocumentFileKey=8ed03909-f07d-26ed-bc86-ba06780ab139&amp;forceDialog=0" title="LeadershipSummit_Agenda_2017.pdf">LeadershipSummit_Agenda_2017.pdf
+                            </a>
+                        </p>
+                    
+                    
+                    
+                    
+
+                        <div class="row hidden-xs">
+                            <div class="col-md-12">
+                                    <div class="content-tags">
+        <span class="text-muted">
+            <span class="glyphicon glyphicon-tags"></span>
+        </span> &nbsp;
+                <a aria-label="group=General Tags: tag=alumni" 
+                   data-tag="alumni" 
+                   class="label label-search-tag " 
+                   href="https://www.pad.org/search?s=tags%3A%22alumni%22&amp;executesearch=true">
+                    alumni
+                </a>
+                <a aria-label="group=General Tags: tag=law" 
+                   data-tag="law" 
+                   class="label label-search-tag " 
+                   href="https://www.pad.org/search?s=tags%3A%22law%22&amp;executesearch=true">
+                    law
+                </a>
+                <a aria-label="group=General Tags: tag=prelaw" 
+                   data-tag="prelaw" 
+                   class="label label-search-tag " 
+                   href="https://www.pad.org/search?s=tags%3A%22prelaw%22&amp;executesearch=true">
+                    prelaw
+                </a>
+    </div>
+
+                            </div>
+                        </div>
+                    
+                </div>
+                
+                
+                <div class="col-md-3 col-sm-4">
+                    <div class="meta-block">
+                                <div class="owner-block">
+                                    <div class="owner-image">
+                                        <img src="https://www.pad.org/HigherLogic/directory/ImageDisplay.aspx?Key=8e7c011e-012f-4dee-9018-adb04c59b415&amp;dt=557400032909" class="img-circle img-responsive"
+                                             alt="Cory Freeman's profile image" biobubblekey="23de0158-de01-45b7-a1f7-81f1abacad4d" />
+                                    </div>
+                                </div>
+                                <div class="owner-block">
+                                    <div class="owner-name">
+                                            <a href="https://www.pad.org/people/cory-freeman" biobubblekey="23de0158-de01-45b7-a1f7-81f1abacad4d" 
+                                               title="Cory Freeman">
+                                                Cory Freeman
+                                                <br />
+                                            </a>
+                                    </div>
+                                </div>
+                        <div style="clear: both;"></div>
+                        
+                            <div class="meta-content-date">
+                                Added 04-06-2017
+                            </div>
+
+                                <div class="meta-content">
+                                    <a href="http://www.pad.org/communities/community-home/librarydocuments/?LibraryKey=7b82d683-251d-479e-8e2a-da0d35aed9be&amp;CommunityKey=00000000-0000-0000-0000-000000000000" title="Press Room Documents">View Library
+                                    </a>
+                                </div>
+                        
+                    </div>
+                </div>
+            </div>
+                <div class="row visible-xs">
+                    <div class="col-md-12">
+                            <div class="content-tags">
+        <span class="text-muted">
+            <span class="glyphicon glyphicon-tags"></span>
+        </span> &nbsp;
+                <a aria-label="group=General Tags: tag=alumni" 
+                   data-tag="alumni" 
+                   class="label label-search-tag " 
+                   href="https://www.pad.org/search?s=tags%3A%22alumni%22&amp;executesearch=true">
+                    alumni
+                </a>
+                <a aria-label="group=General Tags: tag=law" 
+                   data-tag="law" 
+                   class="label label-search-tag " 
+                   href="https://www.pad.org/search?s=tags%3A%22law%22&amp;executesearch=true">
+                    law
+                </a>
+                <a aria-label="group=General Tags: tag=prelaw" 
+                   data-tag="prelaw" 
+                   class="label label-search-tag " 
+                   href="https://www.pad.org/search?s=tags%3A%22prelaw%22&amp;executesearch=true">
+                    prelaw
+                </a>
+    </div>
+
+                    </div>
+                </div>
+        </div>
+    </div>
+        <div class="row search-divider">
+            <div class="col-md-12">
+                <hr/>
+            </div>
+        </div>
+    <div id="FacetedSearchResult-4" class="row fs-result-row">
+        <div class="col-md-12">
+            <div class="row vertical-align">
+                
+                <div class="col-md-9 col-sm-8">
+                    <h3>
+                        <div class="pull-right hl-type">
+                            <span class="label label-default text-muted">
+                                Library Entry 
+                            </span>
+                        </div>
+                        <a href="http://www.pad.org/viewdocument/pad-fundraising-g" title="P.A.D. Fundraising Guide">P.A.D. Fundraising Guide
+                        </a>
+                        
+                    </h3>
+                    <p class="match-block">
+                        This guide is a comprehensive resource that includes tips for planning fundraisers, different types of fundraising events and printable worksheets to use while planning. #manual #prelawconference #prelaw #forms
+                    </p>
+                    
+
+                    
+                        <p class="result-indent">
+                            <span class="glyphicon glyphicon-paperclip text-muted"></span> 
+                            <a href="http://www.pad.org/HigherLogic/System/DownloadDocumentFile.ashx?DocumentFileKey=878531cb-fb3c-133e-a000-7ba5fbed617c&amp;forceDialog=0" title="PAD Fundraising Guide.pdf">PAD Fundraising Guide.pdf
+                            </a>
+                        </p>
+                    
+                    
+                    
+                    
+
+                        <div class="row hidden-xs">
+                            <div class="col-md-12">
+                                    <div class="content-tags">
+        <span class="text-muted">
+            <span class="glyphicon glyphicon-tags"></span>
+        </span> &nbsp;
+                <a aria-label="group=General Tags: tag=forms" 
+                   data-tag="forms" 
+                   class="label label-search-tag " 
+                   href="https://www.pad.org/search?s=tags%3A%22forms%22&amp;executesearch=true">
+                    forms
+                </a>
+                <a aria-label="group=General Tags: tag=manual" 
+                   data-tag="manual" 
+                   class="label label-search-tag " 
+                   href="https://www.pad.org/search?s=tags%3A%22manual%22&amp;executesearch=true">
+                    manual
+                </a>
+                <a aria-label="group=General Tags: tag=prelaw" 
+                   data-tag="prelaw" 
+                   class="label label-search-tag " 
+                   href="https://www.pad.org/search?s=tags%3A%22prelaw%22&amp;executesearch=true">
+                    prelaw
+                </a>
+                <a aria-label="group=Events: tag=prelaw conference" 
+                   data-tag="prelaw conference" 
+                   class="label label-search-tag " 
+                   href="https://www.pad.org/search?s=tags%3A%22prelaw conference%22&amp;executesearch=true">
+                    prelaw conference
+                </a>
+    </div>
+
+                            </div>
+                        </div>
+                    
+                </div>
+                
+                
+                <div class="col-md-3 col-sm-4">
+                    <div class="meta-block">
+                                <div class="owner-block">
+                                    <div class="owner-image">
+                                        <img src="https://www.pad.org/HigherLogic/directory/ImageDisplay.aspx?Key=77062851-6188-4b42-84c3-f5ba7c77c9c4&amp;dt=521113787386" class="img-circle img-responsive"
+                                             alt="Marlena Weiss's profile image" biobubblekey="f407eb85-f217-4cdc-bd91-e2815975998b" />
+                                    </div>
+                                </div>
+                                <div class="owner-block">
+                                    <div class="owner-name">
+                                            <a href="https://www.pad.org/people/marlena-weiss" biobubblekey="f407eb85-f217-4cdc-bd91-e2815975998b" 
+                                               title="Marlena Weiss">
+                                                Marlena Weiss
+                                                <br />
+                                            </a>
+                                    </div>
+                                </div>
+                        <div style="clear: both;"></div>
+                        
+                            <div class="meta-content-date">
+                                Added 03-29-2016
+                            </div>
+
+                                <div class="meta-content">
+                                    <a href="http://www.pad.org/communities/community-home/librarydocuments?LibraryKey=b620b520-17a5-418f-8b10-60b1d19e46f9&amp;CommunityKey=00000000-0000-0000-0000-000000000000" title="Pre-Law Chapter Downloads">View Library
+                                    </a>
+                                </div>
+                        
+                    </div>
+                </div>
+            </div>
+                <div class="row visible-xs">
+                    <div class="col-md-12">
+                            <div class="content-tags">
+        <span class="text-muted">
+            <span class="glyphicon glyphicon-tags"></span>
+        </span> &nbsp;
+                <a aria-label="group=General Tags: tag=forms" 
+                   data-tag="forms" 
+                   class="label label-search-tag " 
+                   href="https://www.pad.org/search?s=tags%3A%22forms%22&amp;executesearch=true">
+                    forms
+                </a>
+                <a aria-label="group=General Tags: tag=manual" 
+                   data-tag="manual" 
+                   class="label label-search-tag " 
+                   href="https://www.pad.org/search?s=tags%3A%22manual%22&amp;executesearch=true">
+                    manual
+                </a>
+                <a aria-label="group=General Tags: tag=prelaw" 
+                   data-tag="prelaw" 
+                   class="label label-search-tag " 
+                   href="https://www.pad.org/search?s=tags%3A%22prelaw%22&amp;executesearch=true">
+                    prelaw
+                </a>
+                <a aria-label="group=Events: tag=prelaw conference" 
+                   data-tag="prelaw conference" 
+                   class="label label-search-tag " 
+                   href="https://www.pad.org/search?s=tags%3A%22prelaw conference%22&amp;executesearch=true">
+                    prelaw conference
+                </a>
+    </div>
+
+                    </div>
+                </div>
+        </div>
+    </div>
+        <div class="row search-divider">
+            <div class="col-md-12">
+                <hr/>
+            </div>
+        </div>
+    <div id="FacetedSearchResult-5" class="row fs-result-row">
+        <div class="col-md-12">
+            <div class="row vertical-align">
+                
+                <div class="col-md-9 col-sm-8">
+                    <h3>
+                        <div class="pull-right hl-type">
+                            <span class="label label-default text-muted">
+                                Library Entry 
+                            </span>
+                        </div>
+                        <a href="http://www.pad.org/viewdocument/pre-law-student-memb" title="Pre-Law Student Membership Application">Pre-Law Student Membership Application
+                        </a>
+                        
+                    </h3>
+                    <p class="match-block">
+                        Phi Alpha Delta has an open membership policy which precludes all Chapters from having a pledge process or requiring a GPA for membership (unless required by the school). Any student who is in attendance and in good standing shall be accepted into Pre-Law membership of this Fraternity. Student...
+                    </p>
+                    
+
+                    
+                        <p class="result-indent">
+                            <span class="glyphicon glyphicon-paperclip text-muted"></span> 
+                            <a href="http://www.pad.org/HigherLogic/System/DownloadDocumentFile.ashx?DocumentFileKey=ae2edd06-223b-9489-cd93-c22c600de86f&amp;forceDialog=0" title="newapp_prelaw2018.pdf">newapp_prelaw2018.pdf
+                            </a>
+                        </p>
+                    
+                    
+                    
+                    
+
+                        <div class="row hidden-xs">
+                            <div class="col-md-12">
+                                    <div class="content-tags">
+        <span class="text-muted">
+            <span class="glyphicon glyphicon-tags"></span>
+        </span> &nbsp;
+                <a aria-label="group=General Tags: tag=application" 
+                   data-tag="application" 
+                   class="label label-search-tag " 
+                   href="https://www.pad.org/search?s=tags%3A%22application%22&amp;executesearch=true">
+                    application
+                </a>
+                <a aria-label="group=General Tags: tag=prelaw" 
+                   data-tag="prelaw" 
+                   class="label label-search-tag " 
+                   href="https://www.pad.org/search?s=tags%3A%22prelaw%22&amp;executesearch=true">
+                    prelaw
+                </a>
+    </div>
+
+                            </div>
+                        </div>
+                    
+                </div>
+                
+                
+                <div class="col-md-3 col-sm-4">
+                    <div class="meta-block">
+                                <div class="owner-block">
+                                    <div class="owner-image">
+                                        <img src="https://www.pad.org/HigherLogic/directory/ImageDisplay.aspx?Key=94e18967-8cb0-43d9-abe8-aaa6845f803a&amp;dt=516980280016" class="img-circle img-responsive"
+                                             alt="Leslie P. Plummer's profile image" biobubblekey="642a020a-c119-4b11-aaa3-e52588aff52f" />
+                                    </div>
+                                </div>
+                                <div class="owner-block">
+                                    <div class="owner-name">
+                                            <a href="https://www.pad.org/people/leslie-plummer" biobubblekey="642a020a-c119-4b11-aaa3-e52588aff52f" 
+                                               title="Leslie P. Plummer">
+                                                Leslie P. Plummer
+                                                <br />
+                                            </a>
+                                    </div>
+                                </div>
+                        <div style="clear: both;"></div>
+                        
+                            <div class="meta-content-date">
+                                Added 07-23-2015
+                            </div>
+
+                                <div class="meta-content">
+                                    <a href="http://www.pad.org/communities/community-home/librarydocuments/?LibraryKey=b620b520-17a5-418f-8b10-60b1d19e46f9&amp;CommunityKey=00000000-0000-0000-0000-000000000000" title="Pre-Law Chapter Downloads">View Library
+                                    </a>
+                                </div>
+                        
+                    </div>
+                </div>
+            </div>
+                <div class="row visible-xs">
+                    <div class="col-md-12">
+                            <div class="content-tags">
+        <span class="text-muted">
+            <span class="glyphicon glyphicon-tags"></span>
+        </span> &nbsp;
+                <a aria-label="group=General Tags: tag=application" 
+                   data-tag="application" 
+                   class="label label-search-tag " 
+                   href="https://www.pad.org/search?s=tags%3A%22application%22&amp;executesearch=true">
+                    application
+                </a>
+                <a aria-label="group=General Tags: tag=prelaw" 
+                   data-tag="prelaw" 
+                   class="label label-search-tag " 
+                   href="https://www.pad.org/search?s=tags%3A%22prelaw%22&amp;executesearch=true">
+                    prelaw
+                </a>
+    </div>
+
+                    </div>
+                </div>
+        </div>
+    </div>
+        <div class="row search-divider">
+            <div class="col-md-12">
+                <hr/>
+            </div>
+        </div>
+    <div id="FacetedSearchResult-6" class="row fs-result-row">
+        <div class="col-md-12">
+            <div class="row vertical-align">
+                
+                <div class="col-md-9 col-sm-8">
+                    <h3>
+                        <div class="pull-right hl-type">
+                            <span class="label label-default text-muted">
+                                Library Entry 
+                            </span>
+                        </div>
+                        <a href="http://www.pad.org/viewdocument/alumni-advisor-manua-3" title="Alumni Advisor Manual">Alumni Advisor Manual
+                        </a>
+                        
+                    </h3>
+                    <p class="match-block">
+                        #manual #prelaw #law #policies
+                    </p>
+                    
+
+                    
+                        <p class="result-indent">
+                            <span class="glyphicon glyphicon-paperclip text-muted"></span> 
+                            <a href="http://www.pad.org/HigherLogic/System/DownloadDocumentFile.ashx?DocumentFileKey=c8884ab3-1775-8a28-9170-da21eadbc18e&amp;forceDialog=0" title="Alumni Advisor Manual 2017.pdf">Alumni Advisor Manual 2017.pdf
+                            </a>
+                        </p>
+                    
+                    
+                    
+                    
+
+                        <div class="row hidden-xs">
+                            <div class="col-md-12">
+                                    <div class="content-tags">
+        <span class="text-muted">
+            <span class="glyphicon glyphicon-tags"></span>
+        </span> &nbsp;
+                <a aria-label="group=General Tags: tag=law" 
+                   data-tag="law" 
+                   class="label label-search-tag " 
+                   href="https://www.pad.org/search?s=tags%3A%22law%22&amp;executesearch=true">
+                    law
+                </a>
+                <a aria-label="group=General Tags: tag=manual" 
+                   data-tag="manual" 
+                   class="label label-search-tag " 
+                   href="https://www.pad.org/search?s=tags%3A%22manual%22&amp;executesearch=true">
+                    manual
+                </a>
+                <a aria-label="group=General Tags: tag=policies" 
+                   data-tag="policies" 
+                   class="label label-search-tag " 
+                   href="https://www.pad.org/search?s=tags%3A%22policies%22&amp;executesearch=true">
+                    policies
+                </a>
+                <a aria-label="group=General Tags: tag=prelaw" 
+                   data-tag="prelaw" 
+                   class="label label-search-tag " 
+                   href="https://www.pad.org/search?s=tags%3A%22prelaw%22&amp;executesearch=true">
+                    prelaw
+                </a>
+    </div>
+
+                            </div>
+                        </div>
+                    
+                </div>
+                
+                
+                <div class="col-md-3 col-sm-4">
+                    <div class="meta-block">
+                                <div class="owner-block">
+                                    <div class="owner-image">
+                                        <img src="https://www.pad.org/HigherLogic/directory/ImageDisplay.aspx?Key=8e7c011e-012f-4dee-9018-adb04c59b415&amp;dt=557400032909" class="img-circle img-responsive"
+                                             alt="Cory Freeman's profile image" biobubblekey="23de0158-de01-45b7-a1f7-81f1abacad4d" />
+                                    </div>
+                                </div>
+                                <div class="owner-block">
+                                    <div class="owner-name">
+                                            <a href="https://www.pad.org/people/cory-freeman" biobubblekey="23de0158-de01-45b7-a1f7-81f1abacad4d" 
+                                               title="Cory Freeman">
+                                                Cory Freeman
+                                                <br />
+                                            </a>
+                                    </div>
+                                </div>
+                        <div style="clear: both;"></div>
+                        
+                            <div class="meta-content-date">
+                                Added 04-23-2015
+                            </div>
+
+                                <div class="meta-content">
+                                    <a href="http://www.pad.org/communities/community-home/librarydocuments/?LibraryKey=b620b520-17a5-418f-8b10-60b1d19e46f9&amp;CommunityKey=00000000-0000-0000-0000-000000000000" title="Pre-Law Chapter Downloads">View Library
+                                    </a>
+                                </div>
+                        
+                    </div>
+                </div>
+            </div>
+                <div class="row visible-xs">
+                    <div class="col-md-12">
+                            <div class="content-tags">
+        <span class="text-muted">
+            <span class="glyphicon glyphicon-tags"></span>
+        </span> &nbsp;
+                <a aria-label="group=General Tags: tag=law" 
+                   data-tag="law" 
+                   class="label label-search-tag " 
+                   href="https://www.pad.org/search?s=tags%3A%22law%22&amp;executesearch=true">
+                    law
+                </a>
+                <a aria-label="group=General Tags: tag=manual" 
+                   data-tag="manual" 
+                   class="label label-search-tag " 
+                   href="https://www.pad.org/search?s=tags%3A%22manual%22&amp;executesearch=true">
+                    manual
+                </a>
+                <a aria-label="group=General Tags: tag=policies" 
+                   data-tag="policies" 
+                   class="label label-search-tag " 
+                   href="https://www.pad.org/search?s=tags%3A%22policies%22&amp;executesearch=true">
+                    policies
+                </a>
+                <a aria-label="group=General Tags: tag=prelaw" 
+                   data-tag="prelaw" 
+                   class="label label-search-tag " 
+                   href="https://www.pad.org/search?s=tags%3A%22prelaw%22&amp;executesearch=true">
+                    prelaw
+                </a>
+    </div>
+
+                    </div>
+                </div>
+        </div>
+    </div>
+        <div class="row search-divider">
+            <div class="col-md-12">
+                <hr/>
+            </div>
+        </div>
+    <div id="FacetedSearchResult-7" class="row fs-result-row">
+        <div class="col-md-12">
+            <div class="row vertical-align">
+                
+                <div class="col-md-9 col-sm-8">
+                    <h3>
+                        <div class="pull-right hl-type">
+                            <span class="label label-default text-muted">
+                                Library Entry 
+                            </span>
+                        </div>
+                        <a href="http://www.pad.org/viewdocument/alumni-advisor-manua" title="Alumni Advisor Manual">Alumni Advisor Manual
+                        </a>
+                        
+                    </h3>
+                    <p class="match-block">
+                        #law #policies #prelaw #manual
+                    </p>
+                    
+
+                    
+                        <p class="result-indent">
+                            <span class="glyphicon glyphicon-paperclip text-muted"></span> 
+                            <a href="http://www.pad.org/HigherLogic/System/DownloadDocumentFile.ashx?DocumentFileKey=65924c1d-0f94-44c9-81d7-4d99603d2c8c&amp;forceDialog=0" title="Alumni Advisor Manual Official.pdf">Alumni Advisor Manual Official.pdf
+                            </a>
+                        </p>
+                    
+                    
+                    
+                    
+
+                        <div class="row hidden-xs">
+                            <div class="col-md-12">
+                                    <div class="content-tags">
+        <span class="text-muted">
+            <span class="glyphicon glyphicon-tags"></span>
+        </span> &nbsp;
+                <a aria-label="group=General Tags: tag=law" 
+                   data-tag="law" 
+                   class="label label-search-tag " 
+                   href="https://www.pad.org/search?s=tags%3A%22law%22&amp;executesearch=true">
+                    law
+                </a>
+                <a aria-label="group=General Tags: tag=manual" 
+                   data-tag="manual" 
+                   class="label label-search-tag " 
+                   href="https://www.pad.org/search?s=tags%3A%22manual%22&amp;executesearch=true">
+                    manual
+                </a>
+                <a aria-label="group=General Tags: tag=policies" 
+                   data-tag="policies" 
+                   class="label label-search-tag " 
+                   href="https://www.pad.org/search?s=tags%3A%22policies%22&amp;executesearch=true">
+                    policies
+                </a>
+                <a aria-label="group=General Tags: tag=prelaw" 
+                   data-tag="prelaw" 
+                   class="label label-search-tag " 
+                   href="https://www.pad.org/search?s=tags%3A%22prelaw%22&amp;executesearch=true">
+                    prelaw
+                </a>
+    </div>
+
+                            </div>
+                        </div>
+                    
+                </div>
+                
+                
+                <div class="col-md-3 col-sm-4">
+                    <div class="meta-block">
+                                <div class="owner-block">
+                                    <div class="owner-image">
+                                        <img src="https://www.pad.org/HigherLogic/directory/ImageDisplay.aspx?Key=8e7c011e-012f-4dee-9018-adb04c59b415&amp;dt=557400032909" class="img-circle img-responsive"
+                                             alt="Cory Freeman's profile image" biobubblekey="23de0158-de01-45b7-a1f7-81f1abacad4d" />
+                                    </div>
+                                </div>
+                                <div class="owner-block">
+                                    <div class="owner-name">
+                                            <a href="https://www.pad.org/people/cory-freeman" biobubblekey="23de0158-de01-45b7-a1f7-81f1abacad4d" 
+                                               title="Cory Freeman">
+                                                Cory Freeman
+                                                <br />
+                                            </a>
+                                    </div>
+                                </div>
+                        <div style="clear: both;"></div>
+                        
+                            <div class="meta-content-date">
+                                Added 04-23-2015
+                            </div>
+
+                                <div class="meta-content">
+                                    <a href="http://www.pad.org/communities/community-home/librarydocuments/?LibraryKey=dc9cc7b6-81f6-4a84-a55c-a52176c73cbd&amp;CommunityKey=00000000-0000-0000-0000-000000000000" title="Law School Chapter Downloads">View Library
+                                    </a>
+                                </div>
+                        
+                    </div>
+                </div>
+            </div>
+                <div class="row visible-xs">
+                    <div class="col-md-12">
+                            <div class="content-tags">
+        <span class="text-muted">
+            <span class="glyphicon glyphicon-tags"></span>
+        </span> &nbsp;
+                <a aria-label="group=General Tags: tag=law" 
+                   data-tag="law" 
+                   class="label label-search-tag " 
+                   href="https://www.pad.org/search?s=tags%3A%22law%22&amp;executesearch=true">
+                    law
+                </a>
+                <a aria-label="group=General Tags: tag=manual" 
+                   data-tag="manual" 
+                   class="label label-search-tag " 
+                   href="https://www.pad.org/search?s=tags%3A%22manual%22&amp;executesearch=true">
+                    manual
+                </a>
+                <a aria-label="group=General Tags: tag=policies" 
+                   data-tag="policies" 
+                   class="label label-search-tag " 
+                   href="https://www.pad.org/search?s=tags%3A%22policies%22&amp;executesearch=true">
+                    policies
+                </a>
+                <a aria-label="group=General Tags: tag=prelaw" 
+                   data-tag="prelaw" 
+                   class="label label-search-tag " 
+                   href="https://www.pad.org/search?s=tags%3A%22prelaw%22&amp;executesearch=true">
+                    prelaw
+                </a>
+    </div>
+
+                    </div>
+                </div>
+        </div>
+    </div>
+        <div class="row search-divider">
+            <div class="col-md-12">
+                <hr/>
+            </div>
+        </div>
+    <div id="FacetedSearchResult-8" class="row fs-result-row">
+        <div class="col-md-12">
+            <div class="row vertical-align">
+                
+                <div class="col-md-9 col-sm-8">
+                    <h3>
+                        <div class="pull-right hl-type">
+                            <span class="label label-default text-muted">
+                                Blog Entry 
+                            </span>
+                        </div>
+                        <a href="http://www.pad.org/blogs/katie-borland/2015/03/27/pad-pre-law-grad-benefits" title="P.A.D. Pre-Law Grad Benefits">P.A.D. Pre-Law Grad Benefits
+                        </a>
+                        
+                    </h3>
+                    <p class="match-block">
+                        Are you one of the 4,500 P.A.D. pre-law students graduating in 2015? Read below to find out what your P.A.D. membership has to offer you for graduation and beyond. Make sure your P.A.D. profile is up to date and complete. This will improve your networking ability...
+                    </p>
+                    
+
+                    
+                    
+                    
+                    
+                    
+
+                        <div class="row hidden-xs">
+                            <div class="col-md-12">
+                                    <div class="content-tags">
+        <span class="text-muted">
+            <span class="glyphicon glyphicon-tags"></span>
+        </span> &nbsp;
+                <a aria-label="group=Events: tag=convention" 
+                   data-tag="convention" 
+                   class="label label-search-tag " 
+                   href="https://www.pad.org/search?s=tags%3A%22convention%22&amp;executesearch=true">
+                    convention
+                </a>
+                <a aria-label="group=General Tags: tag=forms" 
+                   data-tag="forms" 
+                   class="label label-search-tag " 
+                   href="https://www.pad.org/search?s=tags%3A%22forms%22&amp;executesearch=true">
+                    forms
+                </a>
+                <a aria-label="group=General Tags: tag=prelaw" 
+                   data-tag="prelaw" 
+                   class="label label-search-tag " 
+                   href="https://www.pad.org/search?s=tags%3A%22prelaw%22&amp;executesearch=true">
+                    prelaw
+                </a>
+                <a aria-label="group=Events: tag=Take The Pledge" 
+                   data-tag="Take The Pledge" 
+                   class="label label-search-tag " 
+                   href="https://www.pad.org/search?s=tags%3A%22Take The Pledge%22&amp;executesearch=true">
+                    Take The Pledge
+                </a>
+    </div>
+
+                            </div>
+                        </div>
+                    
+                </div>
+                
+                
+                <div class="col-md-3 col-sm-4">
+                    <div class="meta-block">
+                                <div class="owner-block">
+                                    <div class="owner-image">
+                                        <img src="https://d2x5ku95bkycr3.cloudfront.net/App_Themes/Common/images/profile/0_50.png" class="img-circle img-responsive"
+                                             alt="Katie Gibbs's profile image" biobubblekey="eeb54f95-ff00-41c1-b171-57e6e789a3a9" />
+                                    </div>
+                                </div>
+                                <div class="owner-block">
+                                    <div class="owner-name">
+                                            <a href="https://www.pad.org/people/katie-borland" biobubblekey="eeb54f95-ff00-41c1-b171-57e6e789a3a9" 
+                                               title="Katie Gibbs">
+                                                Katie Gibbs
+                                                <br />
+                                            </a>
+                                    </div>
+                                </div>
+                        <div style="clear: both;"></div>
+                        
+                            <div class="meta-content-date">
+                                Added 03-27-2015
+                            </div>
+
+                                <div class="meta-content">
+                                    <a href="https://www.pad.org/communities/community-home?CommunityKey=b8141383-1f10-4aab-b0bd-5b673a3c35b6" title="Pre-Law Members">View Community
+                                    </a>
+                                </div>
+                        
+                    </div>
+                </div>
+            </div>
+                <div class="row visible-xs">
+                    <div class="col-md-12">
+                            <div class="content-tags">
+        <span class="text-muted">
+            <span class="glyphicon glyphicon-tags"></span>
+        </span> &nbsp;
+                <a aria-label="group=Events: tag=convention" 
+                   data-tag="convention" 
+                   class="label label-search-tag " 
+                   href="https://www.pad.org/search?s=tags%3A%22convention%22&amp;executesearch=true">
+                    convention
+                </a>
+                <a aria-label="group=General Tags: tag=forms" 
+                   data-tag="forms" 
+                   class="label label-search-tag " 
+                   href="https://www.pad.org/search?s=tags%3A%22forms%22&amp;executesearch=true">
+                    forms
+                </a>
+                <a aria-label="group=General Tags: tag=prelaw" 
+                   data-tag="prelaw" 
+                   class="label label-search-tag " 
+                   href="https://www.pad.org/search?s=tags%3A%22prelaw%22&amp;executesearch=true">
+                    prelaw
+                </a>
+                <a aria-label="group=Events: tag=Take The Pledge" 
+                   data-tag="Take The Pledge" 
+                   class="label label-search-tag " 
+                   href="https://www.pad.org/search?s=tags%3A%22Take The Pledge%22&amp;executesearch=true">
+                    Take The Pledge
+                </a>
+    </div>
+
+                    </div>
+                </div>
+        </div>
+    </div>
+        <div class="row search-divider">
+            <div class="col-md-12">
+                <hr/>
+            </div>
+        </div>
+    <div id="FacetedSearchResult-9" class="row fs-result-row">
+        <div class="col-md-12">
+            <div class="row vertical-align">
+                
+                <div class="col-md-9 col-sm-8">
+                    <h3>
+                        <div class="pull-right hl-type">
+                            <span class="label label-default text-muted">
+                                Blog Entry 
+                            </span>
+                        </div>
+                        <a href="http://www.pad.org/blogs/katie-borland/2015/03/18/upcoming-pre-law-events-programs" title="Upcoming Pre-Law Events &amp; Programs">Upcoming Pre-Law Events & Programs
+                        </a>
+                        
+                    </h3>
+                    <p class="match-block">
+                        Pre-Law’s: Want to be more involved with Phi Alpha Delta, International? See the list below for upcoming P.A.D. events, deadlines, and programs. P.A.D. Spring 2015 Leadership Symposium Series All local current and future Chapter officers are expected to attend...
+                    </p>
+                    
+
+                    
+                    
+                    
+                    
+                    
+
+                        <div class="row hidden-xs">
+                            <div class="col-md-12">
+                                    <div class="content-tags">
+        <span class="text-muted">
+            <span class="glyphicon glyphicon-tags"></span>
+        </span> &nbsp;
+                <a aria-label="group=General Tags: tag=awards" 
+                   data-tag="awards" 
+                   class="label label-search-tag " 
+                   href="https://www.pad.org/search?s=tags%3A%22awards%22&amp;executesearch=true">
+                    awards
+                </a>
+                <a aria-label="group=General Tags: tag=forms" 
+                   data-tag="forms" 
+                   class="label label-search-tag " 
+                   href="https://www.pad.org/search?s=tags%3A%22forms%22&amp;executesearch=true">
+                    forms
+                </a>
+                <a aria-label="group=General Tags: tag=Officer" 
+                   data-tag="Officer" 
+                   class="label label-search-tag " 
+                   href="https://www.pad.org/search?s=tags%3A%22Officer%22&amp;executesearch=true">
+                    Officer
+                </a>
+                <a aria-label="group=General Tags: tag=prelaw" 
+                   data-tag="prelaw" 
+                   class="label label-search-tag " 
+                   href="https://www.pad.org/search?s=tags%3A%22prelaw%22&amp;executesearch=true">
+                    prelaw
+                </a>
+                <a aria-label="group=Events: tag=prelaw conference" 
+                   data-tag="prelaw conference" 
+                   class="label label-search-tag " 
+                   href="https://www.pad.org/search?s=tags%3A%22prelaw conference%22&amp;executesearch=true">
+                    prelaw conference
+                </a>
+                <a aria-label="group=Events: tag=prelaw mock trial" 
+                   data-tag="prelaw mock trial" 
+                   class="label label-search-tag " 
+                   href="https://www.pad.org/search?s=tags%3A%22prelaw mock trial%22&amp;executesearch=true">
+                    prelaw mock trial
+                </a>
+    </div>
+
+                            </div>
+                        </div>
+                    
+                </div>
+                
+                
+                <div class="col-md-3 col-sm-4">
+                    <div class="meta-block">
+                                <div class="owner-block">
+                                    <div class="owner-image">
+                                        <img src="https://d2x5ku95bkycr3.cloudfront.net/App_Themes/Common/images/profile/0_50.png" class="img-circle img-responsive"
+                                             alt="Katie Gibbs's profile image" biobubblekey="eeb54f95-ff00-41c1-b171-57e6e789a3a9" />
+                                    </div>
+                                </div>
+                                <div class="owner-block">
+                                    <div class="owner-name">
+                                            <a href="https://www.pad.org/people/katie-borland" biobubblekey="eeb54f95-ff00-41c1-b171-57e6e789a3a9" 
+                                               title="Katie Gibbs">
+                                                Katie Gibbs
+                                                <br />
+                                            </a>
+                                    </div>
+                                </div>
+                        <div style="clear: both;"></div>
+                        
+                            <div class="meta-content-date">
+                                Added 03-18-2015
+                            </div>
+
+                                <div class="meta-content">
+                                    <a href="https://www.pad.org/communities/community-home?CommunityKey=b8141383-1f10-4aab-b0bd-5b673a3c35b6" title="Pre-Law Members">View Community
+                                    </a>
+                                </div>
+                        
+                    </div>
+                </div>
+            </div>
+                <div class="row visible-xs">
+                    <div class="col-md-12">
+                            <div class="content-tags">
+        <span class="text-muted">
+            <span class="glyphicon glyphicon-tags"></span>
+        </span> &nbsp;
+                <a aria-label="group=General Tags: tag=awards" 
+                   data-tag="awards" 
+                   class="label label-search-tag " 
+                   href="https://www.pad.org/search?s=tags%3A%22awards%22&amp;executesearch=true">
+                    awards
+                </a>
+                <a aria-label="group=General Tags: tag=forms" 
+                   data-tag="forms" 
+                   class="label label-search-tag " 
+                   href="https://www.pad.org/search?s=tags%3A%22forms%22&amp;executesearch=true">
+                    forms
+                </a>
+                <a aria-label="group=General Tags: tag=Officer" 
+                   data-tag="Officer" 
+                   class="label label-search-tag " 
+                   href="https://www.pad.org/search?s=tags%3A%22Officer%22&amp;executesearch=true">
+                    Officer
+                </a>
+                <a aria-label="group=General Tags: tag=prelaw" 
+                   data-tag="prelaw" 
+                   class="label label-search-tag " 
+                   href="https://www.pad.org/search?s=tags%3A%22prelaw%22&amp;executesearch=true">
+                    prelaw
+                </a>
+                <a aria-label="group=Events: tag=prelaw conference" 
+                   data-tag="prelaw conference" 
+                   class="label label-search-tag " 
+                   href="https://www.pad.org/search?s=tags%3A%22prelaw conference%22&amp;executesearch=true">
+                    prelaw conference
+                </a>
+                <a aria-label="group=Events: tag=prelaw mock trial" 
+                   data-tag="prelaw mock trial" 
+                   class="label label-search-tag " 
+                   href="https://www.pad.org/search?s=tags%3A%22prelaw mock trial%22&amp;executesearch=true">
+                    prelaw mock trial
+                </a>
+    </div>
+
+                    </div>
+                </div>
+        </div>
+    </div>
+        <div class="row search-divider">
+            <div class="col-md-12">
+                <hr/>
+            </div>
+        </div>
+    <div id="FacetedSearchResult-10" class="row fs-result-row">
+        <div class="col-md-12">
+            <div class="row vertical-align">
+                
+                <div class="col-md-9 col-sm-8">
+                    <h3>
+                        <div class="pull-right hl-type">
+                            <span class="label label-default text-muted">
+                                Library Entry 
+                            </span>
+                        </div>
+                        <a href="http://www.pad.org/viewdocument/international-execut" title="International Executive Board Meeting Minutes">International Executive Board Meeting Minutes
+                        </a>
+                        
+                    </h3>
+                    <p class="match-block">
+                        Minutes of the 2014 - 2016 Biennium #prelaw #alumni #law #ExecutiveBoard
+                    </p>
+                    
+
+                        <p class="result-indent">
+                            <span class="glyphicon glyphicon-paperclip text-muted"></span> 7 attachments
+                        </p>
+                    
+                    
+                    
+                    
+                    
+
+                        <div class="row hidden-xs">
+                            <div class="col-md-12">
+                                    <div class="content-tags">
+        <span class="text-muted">
+            <span class="glyphicon glyphicon-tags"></span>
+        </span> &nbsp;
+                <a aria-label="group=General Tags: tag=alumni" 
+                   data-tag="alumni" 
+                   class="label label-search-tag " 
+                   href="https://www.pad.org/search?s=tags%3A%22alumni%22&amp;executesearch=true">
+                    alumni
+                </a>
+                <a aria-label="group=General Tags: tag=Executive Board" 
+                   data-tag="Executive Board" 
+                   class="label label-search-tag " 
+                   href="https://www.pad.org/search?s=tags%3A%22Executive Board%22&amp;executesearch=true">
+                    Executive Board
+                </a>
+                <a aria-label="group=General Tags: tag=law" 
+                   data-tag="law" 
+                   class="label label-search-tag " 
+                   href="https://www.pad.org/search?s=tags%3A%22law%22&amp;executesearch=true">
+                    law
+                </a>
+                <a aria-label="group=General Tags: tag=prelaw" 
+                   data-tag="prelaw" 
+                   class="label label-search-tag " 
+                   href="https://www.pad.org/search?s=tags%3A%22prelaw%22&amp;executesearch=true">
+                    prelaw
+                </a>
+    </div>
+
+                            </div>
+                        </div>
+                    
+                </div>
+                
+                
+                <div class="col-md-3 col-sm-4">
+                    <div class="meta-block">
+                                <div class="owner-block">
+                                    <div class="owner-image">
+                                        <img src="https://d2x5ku95bkycr3.cloudfront.net/App_Themes/Common/images/profile/0_50.png" class="img-circle img-responsive"
+                                             alt="Andrew D. Sagan's profile image" biobubblekey="12cbaea8-5928-43b4-8808-51b8dfd24992" />
+                                    </div>
+                                </div>
+                                <div class="owner-block">
+                                    <div class="owner-name">
+                                            <a href="https://www.pad.org/people/andrew-sagan" biobubblekey="12cbaea8-5928-43b4-8808-51b8dfd24992" 
+                                               title="Andrew D. Sagan">
+                                                Andrew D. Sagan
+                                                <br />
+                                            </a>
+                                    </div>
+                                </div>
+                        <div style="clear: both;"></div>
+                        
+                            <div class="meta-content-date">
+                                Added 02-20-2015
+                            </div>
+
+                                <div class="meta-content">
+                                    <a href="http://www.pad.org/communities/community-home/librarydocuments/?LibraryKey=d1c50d16-4a9d-4857-964d-037e92d481b4&amp;CommunityKey=00000000-0000-0000-0000-000000000000" title="International Executive Board Meeting Minutes">View Library
+                                    </a>
+                                </div>
+                        
+                    </div>
+                </div>
+            </div>
+                <div class="row visible-xs">
+                    <div class="col-md-12">
+                            <div class="content-tags">
+        <span class="text-muted">
+            <span class="glyphicon glyphicon-tags"></span>
+        </span> &nbsp;
+                <a aria-label="group=General Tags: tag=alumni" 
+                   data-tag="alumni" 
+                   class="label label-search-tag " 
+                   href="https://www.pad.org/search?s=tags%3A%22alumni%22&amp;executesearch=true">
+                    alumni
+                </a>
+                <a aria-label="group=General Tags: tag=Executive Board" 
+                   data-tag="Executive Board" 
+                   class="label label-search-tag " 
+                   href="https://www.pad.org/search?s=tags%3A%22Executive Board%22&amp;executesearch=true">
+                    Executive Board
+                </a>
+                <a aria-label="group=General Tags: tag=law" 
+                   data-tag="law" 
+                   class="label label-search-tag " 
+                   href="https://www.pad.org/search?s=tags%3A%22law%22&amp;executesearch=true">
+                    law
+                </a>
+                <a aria-label="group=General Tags: tag=prelaw" 
+                   data-tag="prelaw" 
+                   class="label label-search-tag " 
+                   href="https://www.pad.org/search?s=tags%3A%22prelaw%22&amp;executesearch=true">
+                    prelaw
+                </a>
+    </div>
+
+                    </div>
+                </div>
+        </div>
+    </div>
+<div class="pagination-container"><ul class="pagination"><li class="active"><a>1</a></li><li><a href="/higherlogic/ui/mvc/common/facetedsearch/searchpartial?page=2">2</a></li><li><a href="/higherlogic/ui/mvc/common/facetedsearch/searchpartial?page=3">3</a></li><li><a href="/higherlogic/ui/mvc/common/facetedsearch/searchpartial?page=4">4</a></li><li class="PagedList-skipToNext"><a href="/higherlogic/ui/mvc/common/facetedsearch/searchpartial?page=2" rel="next">»</a></li></ul></div>            </div>
+        </div>
+
+</div>
+
+<script>
+    $(document).ready(function () {
+        $('#FacetedSearch_3744455032c044138f74a262bb728c87').hl_common_ui_facetedSearch_search({
+            controlId: '#FacetedSearch_3744455032c044138f74a262bb728c87'
+        });
+    });
+</script>
+</div></div></div></div></div>
+        <div id="MainCopy_extraPanel">
+		
+        
+	</div>
+        
+    </div>
+
+                        
+                        
+
+                        
+                    
+</div>
+                    
+                    
+                    <!--end content-->
+                </div>
+
+            </div>
+            <div id="MPOuterFooter" class="row siteFrame">
+                <div id="FOOTER" class="col-md-12">
+                    <div class="row">
+                        <div class="col-md-12">
+                            
+                            <div class="ContentItemHtml footer-content"><div class="HtmlContent"><div class="address-and-copyright">
+<div class="row">
+<div class="col-md-8 tomenu"></div>
+<div class="col-md-4">
+<h3>Phi Alpha Delta Law Fraternity, International</h3>
+<address>606 Baltimore Avenue<br /> Suite 303<br /> Towson MD 21204</address>
+<ul class="contact">
+<li><label for="phone">Phone:</label> <a href="tel:4103473118">410-347-3118</a></li>
+<li><label for="email">Email:</label> <a href="mailto:info@pad.org">info@pad.org</a></li>
+</ul>
+<span class="copy">© 2019 Phi Alpha Delta Law Fraternity, International</span> <span class="credit">Site Designed by <a href="//www.personifyinteractive.com" target="_blank" rel="noopener">Personify Interactive</a></span></div>
+</div>
+</div></div><div class="HtmlFooter"></div></div>
+                        </div>
+                    </div>
+                    <div id="MPFooter" class="row">
+                        <div class="Footer col-md-12">
+                            <div id="FooterContent">
+	
+                            
+</div>
+                            <div id="MPBottomMenu" class="MPBottomMenu" align="center">
+                                <ul class="FatFooterMenu list-inline"><li class="static" role="menuitem"><a href="/home" class="level1">Home</a><ul class="level2 static" tabindex="0" role="menubar"><li class="static" role="menuitem"><a href="/home/licensed-vendors" class="level2">Licensed Vendors</a></li></ul></li><li class="static" role="menuitem"><a href="/join-pad" class="level1">JOIN</a><ul class="level2 static" tabindex="0" role="menubar"><li class="static" role="menuitem"><a href="/join-pad/onlineapplicationnew" class="level2">Online Application</a></li><li class="static" role="menuitem"><a href="/join-pad/eligibility78" class="level2">Eligibility & Join Info</a></li></ul></li><li class="static" role="menuitem"><a href="/myprofileredirect" class="level1">Profile</a><ul class="level2 static" tabindex="0" role="menubar"><li class="static" role="menuitem"><a href="/myprofileredirect/myprofile" class="level2">My Profile</a></li><li class="static" role="menuitem"><a href="/myprofileredirect/mysubs" class="level2">My Subscriptions</a></li><li class="static" role="menuitem"><a href="/myprofileredirect/myprivacy" class="level2">My Privacy Settings</a></li><li class="static" role="menuitem"><a href="/myprofileredirect/mycontacts" class="level2">My Contacts</a></li><li class="static" role="menuitem"><a href="/myprofileredirect/mymessages" class="level2">My Messages</a></li><li class="static" role="menuitem"><a href="/myprofileredirect/signature" class="level2">My Signature</a></li></ul></li><li class="static" role="menuitem"><a href="/about" class="level1">About Us</a><ul class="level2 static" tabindex="0" role="menubar"><li class="static" role="menuitem"><a href="/about/aboutpad" class="level2">About P.A.D.</a></li><li class="static" role="menuitem"><a href="/about/padhistory" class="level2">P.A.D. History</a></li><li class="static" role="menuitem"><a href="/about/internationalleadership" class="level2">International Leadership</a></li><li class="static" role="menuitem"><a href="/about/padinternationalfoundation" class="level2">P.A.D. International Foundation</a></li><li class="static" role="menuitem"><a href="/about/store" class="level2">P.A.D. Online Store</a></li><li class="static" role="menuitem"><a href="/about/reporter96" class="level2">The Reporter</a></li><li class="static" role="menuitem"><a href="/about/pressroom" class="level2">Press Room</a></li><li class="static" role="menuitem"><a href="/about/prominentpads" class="level2">Prominent P.A.D.s</a></li><li class="static" role="menuitem"><a href="/about/nationalinitiatives" class="level2">National Initiatives</a></li></ul></li><li class="static" role="menuitem"><a href="/membership" class="level1">Membership</a><ul class="level2 static" tabindex="0" role="menubar"><li class="static" role="menuitem"><a href="/membership/join" class="level2">Join Phi Alpha Delta</a></li><li class="static" role="menuitem"><a href="/membership/membershipbenefits" class="level2">Membership Benefits</a></li><li class="static" role="menuitem"><a href="/membership/alumni" class="level2">ALUMNI</a></li><li class="static" role="menuitem"><a href="/membership/law" class="level2">LAW</a></li><li class="static" role="menuitem"><a href="/membership/prelaw" class="level2">PRE-LAW</a></li><li class="static" role="menuitem"><a href="/membership/the-society-of-scholars" class="level2">The Society Of Scholars</a></li><li class="static" role="menuitem"><a href="/membership/policies" class="level2">P.A.D. Policies</a></li><li class="static" role="menuitem"><a href="/membership/2018awardwinners" class="level2">2018 Law & Alumni Award Winners</a></li><li class="static" role="menuitem"><a href="/membership/2018plawards" class="level2">2018 Pre-Law Award Winners</a></li></ul></li><li class="static" role="menuitem"><a href="/communities" class="level1">Communities</a><ul class="level2 static" tabindex="0" role="menubar"><li class="static" role="menuitem"><a href="/communities/allcommunities" class="level2">All Communities</a></li><li class="static" role="menuitem"><a href="/communities/mycommunities" class="level2">My Communities</a></li><li class="static" role="menuitem"><a href="/communities/redirectopenforum" class="level2">Open Forum</a></li><li class="static" role="menuitem"><a href="/communities/chapters" class="level2">Chapters</a></li><li class="static" role="menuitem"><a href="/communities/districtslink" class="level2">Districts</a></li><li class="static" role="menuitem"><a href="/communities/new-item" class="level2">Job Postings</a></li><li class="static" role="menuitem"><a href="/communities/new-item2" class="level2">Internship/Externship Opportunities</a></li><li class="static" role="menuitem"><a href="/communities/practice-areas" class="level2">Practice Areas</a></li></ul></li><li class="static" role="menuitem"><a href="/network" class="level1">Directory</a></li><li class="static" role="menuitem"><a href="/events" class="level1">Events</a><ul class="level2 static" tabindex="0" role="menubar"><li class="static" role="menuitem"><a href="/events/calendar" class="level2">Upcoming Events</a></li><li class="static" role="menuitem"><a href="/events/prelawconference" class="level2">PRE-LAW CONFERENCE</a></li><li class="static" role="menuitem"><a href="/events/lawmocktrial" class="level2">LAW MOCK TRIAL 2019</a></li><li class="static" role="menuitem"><a href="/events/supremecourtpadday" class="level2">P.A.D. DAY AT THE U.S. SUPREME COURT</a></li><li class="static" role="menuitem"><a href="/events/convention2020" class="level2">BIENNIAL CONVENTION 2020</a></li><li class="static" role="menuitem"><a href="/events/summit2019" class="level2">LEADERSHIP SUMMIT 2019</a></li></ul></li><li class="static" role="menuitem"><a href="/pad-foundation" class="level1">Foundation</a><ul class="level2 static" tabindex="0" role="menubar"><li class="static" role="menuitem"><a href="/pad-foundation/new-item2" class="level2">About</a></li><li class="static" role="menuitem"><a href="/pad-foundation/new-item" class="level2">Day of Giving</a></li><li class="static" role="menuitem"><a href="/pad-foundation/new-item3" class="level2">Donate</a></li></ul></li></ul>
+                                
+                            </div>
+                        </div>
+                    </div>
+                    <div class="row">
+                        <div id="MPCopyright" class="col-md-12">
+                            Copyright © 2019 Phi Alpha Delta Law Fraternity, International. All rights reserved.
+                        </div>
+                    </div>
+                    
+                    
+                    <div class="row">
+                        <div class="col-md-12">
+                            
+                            <div class="ContentUserControl">
+	
+<script charset="utf-8">$('#MPBottomMenu').appendTo('.tomenu');
+$( document ).ready(function() {
+$('.FatFooterMenu > li > a').each(function(){
+$(this).parent().addClass(function( index ) {
+return "nav-" + $(this).children('a').text().replace(/ /g,'').replace(/&/g,"");
+}); });
+});</script>
+</div>
+                        </div>
+                    </div>
+                    <div class="row">
+                        <div class="col-md-12"></div>
+                    </div>
+                    <div class="row">
+                        <div class="col-md-12">
+                            
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div id="MPFooterLink" class="row siteFrame">
+                <div class="col-md-12">
+                    <div id="MPFooterLinkContent">
+                        <a href="http://www.higherlogic.com" target="_blank">Powered by Higher Logic</a>
+                    </div>
+                </div>
+            </div>
+            <!--mp_base--><div id="GlobalPopupContainer">
+												<div id="GlobalPopupContent" >
+													<img ID="imgGlobalProcessing" alt="" src="https://d2x5ku95bkycr3.cloudfront.net/img/loading.gif" />
+												</div>
+											 </div>
+            
+            
+        
+<script type="text/javascript">
+//<![CDATA[
+var Page_Validators =  new Array(document.getElementById("SearchControl_StartDate_RangeValidator1"), document.getElementById("SearchControl_EndDate_RangeValidator1"));
+//]]>
+</script>
+
+<script type="text/javascript">
+//<![CDATA[
+var SearchControl_StartDate_RangeValidator1 = document.all ? document.all["SearchControl_StartDate_RangeValidator1"] : document.getElementById("SearchControl_StartDate_RangeValidator1");
+SearchControl_StartDate_RangeValidator1.controltovalidate = "SearchControl_StartDate_ucTextBox";
+SearchControl_StartDate_RangeValidator1.focusOnError = "t";
+SearchControl_StartDate_RangeValidator1.errormessage = "Not a valid date";
+SearchControl_StartDate_RangeValidator1.display = "Dynamic";
+SearchControl_StartDate_RangeValidator1.type = "Date";
+SearchControl_StartDate_RangeValidator1.dateorder = "mdy";
+SearchControl_StartDate_RangeValidator1.cutoffyear = "2029";
+SearchControl_StartDate_RangeValidator1.century = "2000";
+SearchControl_StartDate_RangeValidator1.evaluationfunction = "RangeValidatorEvaluateIsValid";
+SearchControl_StartDate_RangeValidator1.maximumvalue = "9999/12/31";
+SearchControl_StartDate_RangeValidator1.minimumvalue = "0001/01/01";
+var SearchControl_EndDate_RangeValidator1 = document.all ? document.all["SearchControl_EndDate_RangeValidator1"] : document.getElementById("SearchControl_EndDate_RangeValidator1");
+SearchControl_EndDate_RangeValidator1.controltovalidate = "SearchControl_EndDate_ucTextBox";
+SearchControl_EndDate_RangeValidator1.focusOnError = "t";
+SearchControl_EndDate_RangeValidator1.errormessage = "Not a valid date";
+SearchControl_EndDate_RangeValidator1.display = "Dynamic";
+SearchControl_EndDate_RangeValidator1.type = "Date";
+SearchControl_EndDate_RangeValidator1.dateorder = "mdy";
+SearchControl_EndDate_RangeValidator1.cutoffyear = "2029";
+SearchControl_EndDate_RangeValidator1.century = "2000";
+SearchControl_EndDate_RangeValidator1.evaluationfunction = "RangeValidatorEvaluateIsValid";
+SearchControl_EndDate_RangeValidator1.maximumvalue = "9999/12/31";
+SearchControl_EndDate_RangeValidator1.minimumvalue = "0001/01/01";
+//]]>
+</script>
+
+
+<script type="text/javascript">
+//<![CDATA[
+var _suppressGlobalPopupContainer = false;
+			  
+									Sys.Application.add_load(GlobalApplicationLoadHandler);
+
+									function GlobalApplicationLoadHandler(sender, args) {
+										var prm = Sys.WebForms.PageRequestManager.getInstance();
+										if (!prm.get_isInAsyncPostBack()) {
+											prm.add_initializeRequest(initRequest);
+											prm.add_endRequest(endRequest);
+										}
+									}
+									function initRequest(sender, args) {
+										if (!_suppressGlobalPopupContainer) {
+											hl_common_ui_blockUI();
+										}
+									}
+
+									function endRequest(sender, args) {
+										 hl_common_ui_unBlockUI();
+									}//]]>
+</script>
+<script type='text/javascript'>new Sys.WebForms.Menu({ element: 'AuxMenu', disappearAfter: 500, orientation: 'horizontal', tabIndex: 0, disabled: false });</script>
+<script type="text/javascript">
+//<![CDATA[
+
+var Page_ValidationActive = false;
+if (typeof(ValidatorOnLoad) == "function") {
+    ValidatorOnLoad();
+}
+
+function ValidatorOnSubmit() {
+    if (Page_ValidationActive) {
+        return ValidatorCommonOnSubmit();
+    }
+    else {
+        return true;
+    }
+}
+        
+document.getElementById('SearchControl_StartDate_RangeValidator1').dispose = function() {
+    Array.remove(Page_Validators, document.getElementById('SearchControl_StartDate_RangeValidator1'));
+}
+
+document.getElementById('SearchControl_EndDate_RangeValidator1').dispose = function() {
+    Array.remove(Page_Validators, document.getElementById('SearchControl_EndDate_RangeValidator1'));
+}
+//]]>
+</script>
+</form>
+    </div>
+    <script>
+
+        $(document).ready(function () {
+
+            var path = window.location.pathname;
+            var lastChar = path.substr(-1); // Selects the last character
+            if (lastChar != '?' && lastChar != '/' && lastChar != ';') {         // If the last character is not a slash
+                path = path + '/';            // Append a slash to it.
+            }
+
+            $('ul.navbar-nav a').each(function () {
+                var myHref = $(this).attr('href');
+                var lastChar2 = myHref.substr(-1); // Selects the last character
+                if (lastChar2 != '?' && lastChar2 != '/' && lastChar2 != ';') {         // If the last character is not a slash
+                    myHref = myHref + '/';            // Append a slash to it.
+                }
+                if (path == myHref) {
+                    $(this).parents('li').last().addClass('active current-page');
+                    $(this).parent('li').addClass('active current-page');
+                }
+            });
+
+            $('#modalTags').on('tagAdded', function() {
+                var oldCount = parseInt($('#litCommunityTagsCount').text());
+                $('#litCommunityTagsCount').text(oldCount + 1);
+            }).on('tagRemoved', function() {
+                var oldCount = parseInt($('#litCommunityTagsCount').text());
+                $('#litCommunityTagsCount').text(oldCount - 1);
+            });
+            
+            var isImpersonating = false;
+
+            
+
+            //var btn = $.fn.button.noConflict(); // reverts $.fn.button to jqueryui btn
+            //$.fn.btn = btn; // assigns bootstrap button functionality to $.fn.btn
+        });
+    </script>
+</body>
+
+</html>
